@@ -19,7 +19,7 @@ of published papers, to provide consistency and transparency.
 Strengthen research integrity oversight and training.
 
 *********************************************************************
-Reproduced from: 
+Extracted from: 
 Promoting Responsible Scientific Research
 Written by Erika W. Davies and Diane D. Edwards
 Report on an American Academy of Microbiology Colloquium held in Washington, DC, from 14 to 15 October 2015
