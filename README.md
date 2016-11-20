@@ -1,2 +1,2 @@
 # ReproData
-Reproducibility and Responsibility withe Data in Research - Training Course
+Reproducibility and Responsibility with Data in Research - Training Course
