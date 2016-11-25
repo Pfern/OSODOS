@@ -17,3 +17,5 @@ Choosing experiments to accelerate collective discovery -
 Rzhetsky, A., Foster, J. G., Foster, I. T. & Evans, J. A. Proc. Natl Acad. Sci. USA 112, 14569 (2015). -
 http://www.pnas.org/content/112/47/14569
 
+Post-publication peer review of a multimillion-dollar-heavy Nature paper, by Ana Pedro
+https://forbetterscience.wordpress.com/2016/11/24/post-publication-peer-review-of-a-multimillion-dollar-heavy-nature-paper-by-ana-pedro/#comment-2984
