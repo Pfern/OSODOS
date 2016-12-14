@@ -23,3 +23,5 @@ https://forbetterscience.wordpress.com/2016/11/24/post-publication-peer-review-o
 FOSTER Open Science Project - Courses
 https://www.fosteropenscience.eu/courses
 
+FOSTER Course on Course Creation 
+https://www.fosteropenscience.eu/content/foster-course-course-creation
