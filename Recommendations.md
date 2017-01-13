@@ -1,4 +1,4 @@
-# American Academy of Microbiology - Recommmendatioons for Data Reproducibility
+# American Academy of Microbiology - Recommendations for Data Reproducibility
 
 Design rigorous and comprehensive evaluation criteria to recognize and
 reward high-quality scientific research.
