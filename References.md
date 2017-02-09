@@ -33,3 +33,7 @@ https://experiment.com/journal
 Calling on Bullshit in the Age of Big Data
 http://callingbullshit.org/
 
+
+Do you speak open science? Resources and tips to learn the language
+https://peerj.com/preprints/2689/  
+by Paola Masuzzo and Lennart Martens
