@@ -40,3 +40,6 @@ by Paola Masuzzo and Lennart Martens
 Biological experiments become transparent — anywhere, any time
 https://scienceblog.com/492128/biological-experiments-become-transparent-anywhere-time/
 http://r3lab.uni.lu/web/imp/
+
+Ten Simple Rules for Reproducible Computational Research
+http://dx.doi.org/10.1371/journal.pcbi.1003285
