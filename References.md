@@ -43,3 +43,6 @@ http://r3lab.uni.lu/web/imp/
 
 Ten Simple Rules for Reproducible Computational Research
 http://dx.doi.org/10.1371/journal.pcbi.1003285
+
+Why Open Science?
+https://medium.com/the-traveling-scientist/why-open-science-703aa83394eb#.11ic2iojt
