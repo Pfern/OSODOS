@@ -46,3 +46,6 @@ http://dx.doi.org/10.1371/journal.pcbi.1003285
 
 Why Open Science?
 https://medium.com/the-traveling-scientist/why-open-science-703aa83394eb#.11ic2iojt
+
+Five ways consortia can catalyse open science, Nature Comment 29 Mar 2017
+http://www.nature.com/news/five-ways-consortia-can-catalyse-open-science-1.21706
