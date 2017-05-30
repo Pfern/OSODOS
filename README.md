@@ -13,6 +13,7 @@ To support each of these, numerous tools exist, which we will introduce to you. 
 
 
 Wed, June 21st
+--------------
 
     09:30 - 10:00 Introduction to the course and self presentation of the participants
     10:00 - 11:00 What is Open Science?
@@ -24,6 +25,7 @@ Wed, June 21st
     16:30 - 18:00 
     
 Thu, June 22nd
+--------------
 
     09:30 - 10:00 Morning Wrap-up (what have we done so far?)
     10:00 - 11:00 
@@ -35,6 +37,7 @@ Thu, June 22nd
     16:30 - 18:00 
 
 Fri, June 23rd
+--------------
 
     09:30 - 10:00 Morning Wrap-up (what have we done so far?)
     10:00 - 11:00 
