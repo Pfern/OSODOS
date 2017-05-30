@@ -1,5 +1,5 @@
-Reproducible and Open Data Science - Training Course - RODS17
-=============================================================
+Reproducible and Open Data Science - RODS17
+===========================================
 
 Description 
 -------------
