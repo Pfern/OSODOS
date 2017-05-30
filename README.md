@@ -31,13 +31,13 @@ Thu, June 22nd
 --------------
 
     09:30 - 10:00 Morning Wrap-up (what have we done so far?)
-    10:00 - 11:00 Developing shareable, analytical workflows
+    10:00 - 11:00 Managing and sharing data
     11:00 - 11:30 Coffee Break
-    11:30 - 12:30 Publication-ready graphics and slides
+    11:30 - 12:30 Developing shareable, analytical workflows
     12:30 - 14:00 LUNCH BREAK
-    14:00 - 16:00 Managing references and bibliographies
+    14:00 - 16:00 Publication-ready graphics and slides
     16:00 - 16:30 Tea Break
-    16:30 - 18:00 
+    16:30 - 18:00 Managing references and bibliographies
 
 Fri, June 23rd
 --------------
