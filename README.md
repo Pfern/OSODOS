@@ -31,7 +31,7 @@ Thu, June 22nd
 --------------
 
     09:30 - 10:00 Morning Wrap-up (what have we done so far?)
-    10:00 - 11:00 Managing and sharing data
+    10:00 - 11:00 Managing, integrating and sharing data
     11:00 - 11:30 Coffee Break
     11:30 - 12:30 Developing shareable, analytical workflows
     12:30 - 14:00 LUNCH BREAK
