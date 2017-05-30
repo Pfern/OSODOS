@@ -20,7 +20,7 @@ Wed, June 21st
     11:00 - 11:30 Coffee Break
     11:30 - 12:30 Shared repositories and versioning
     12:30 - 14:00 LUNCH BREAK
-    14:00 - 16:00 
+    14:00 - 16:00 Collaborating and resolving conflicts
     16:00 - 16:30 Tea Break
     16:30 - 18:00 
     
