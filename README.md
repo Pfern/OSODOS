@@ -25,7 +25,7 @@ Wed, June 21st
     12:30 - 14:00 LUNCH BREAK
     14:00 - 16:00 Collaborating and resolving versioning conflicts
     16:00 - 16:30 Tea Break
-    16:30 - 18:00 
+    16:30 - 18:00 Organizing and managing the files in your project
     
 Thu, June 22nd
 --------------
