@@ -13,7 +13,6 @@ To support each of these, numerous technologies exist, which we will introduce t
 
 Pre-course reading
 ------------------
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w3jLJU7DT5E" frameborder="0" allowfullscreen></iframe>
 
 1. **W S Noble**. 2009. A Quick Guide to Organizing Computational Biology Projects. 
    _PLoS Comput Biol_ 5(7): e1000424 https://doi.org/10.1371/journal.pcbi.1000424
