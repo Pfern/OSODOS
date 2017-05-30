@@ -33,7 +33,7 @@ Thu, June 22nd
     09:30 - 10:00 Morning Wrap-up (what have we done so far?)
     10:00 - 11:00 Developing shareable, analytical workflows
     11:00 - 11:30 Coffee Break
-    11:30 - 12:30 Publication-ready graphics
+    11:30 - 12:30 Publication-ready graphics and slides
     12:30 - 14:00 LUNCH BREAK
     14:00 - 16:00 
     16:00 - 16:30 Tea Break
