@@ -12,9 +12,12 @@ In an age of increasingly complex and data-intensive, collaborative scientific p
 To support each of these, numerous technologies exist, which we will introduce to you. The case we will work on is going to be based on bioinformatics, but the principles are broadly applicable. You do not need to have any particular programming or otherwise computational experience beyond what is normally required of a scientist in graduate school and beyond, i.e., you should not be afraid of the computer and be able to edit text files.
 
 Pre-course reading
-1. **William Stafford Noble**. 2009. A Quick Guide to Organizing Computational Biology Projects. 
+1. **A Mobley** et al. 2013. A Survey on Data Reproducibility in Cancer Research Provides Insights into Our Limited 
+   Ability to Translate Findings from the Laboratory to the Clinic. _PLoS ONE_ 8(5): e63221 
+   https://doi.org/10.1371/journal.pone.0063221
+2. **William Stafford Noble**. 2009. A Quick Guide to Organizing Computational Biology Projects. 
    _PLoS Comput Biol_ 5(7): e1000424 https://doi.org/10.1371/journal.pcbi.1000424
-2. **Edmund M. Hart** et al. 2016. Ten Simple Rules for Digital Data Storage. _PLoS Comput Biol_
+3. **Edmund M. Hart** et al. 2016. Ten Simple Rules for Digital Data Storage. _PLoS Comput Biol_
    12(10): e1005097 https://doi.org/10.1371/journal.pcbi.1005097
 
 Wed, June 21st
