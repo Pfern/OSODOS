@@ -47,7 +47,7 @@ Fri, June 23rd
     11:00 - 11:30 Coffee Break
     11:30 - 12:30 Exporting for journal submission
     12:30 - 14:00 LUNCH BREAK
-    14:00 - 16:00 Team project
+    14:00 - 16:00 Group project
     16:00 - 16:30 Tea Break
     16:30 - 18:00 Final wrap-up Session.
 
