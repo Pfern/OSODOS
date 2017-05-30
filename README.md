@@ -1,7 +1,10 @@
-# RODS17
-Reproducibile and Open Data Science - Training Course
+RODS17
+========
 
-Description
+Reproducible and Open Data Science - Training Course
+----------------------------------------------------
+
+# Description
 
 In an age of increasingly complex and data-intensive, collaborative scientific practices, scandals of irreproducibility, and a growing societal ethos of transparency and accountability, a new paradigm has arisen: Open Science. In this three day course, we will introduce to you the three organizing principles and practices that undergird this paradigm:
 - Open Access scholarly publishing
