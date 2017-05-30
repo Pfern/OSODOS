@@ -18,7 +18,7 @@ Wed, June 21st
     09:30 - 10:00 Introduction to the course and self presentation of the participants
     10:00 - 11:00 What is Open Science?
     11:00 - 11:30 Coffee Break
-    11:30 - 12:30 Shared web-based repositories and file versioning
+    11:30 - 12:30 Shared, web-based repositories and file versioning
     12:30 - 14:00 LUNCH BREAK
     14:00 - 16:00 Collaborating and resolving versioning conflicts
     16:00 - 16:30 Tea Break
