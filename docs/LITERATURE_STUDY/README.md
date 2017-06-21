@@ -23,6 +23,7 @@ given about openness.
 
 <a name="ls1"></a>
 ![Example 1, using the Open Knowledge Maps tool to search for a keyword](LS1.png)
+_Example 1 (ls1) - querying the open knowledge map_
 
 The example of the Open Knowledge Maps tool showed a very powerful technique that did not require you to have 
 a great deal of rigour in composing your search terms: the tool did it for you. Under some circumstances, for
