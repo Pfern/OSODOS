@@ -1,5 +1,5 @@
 This module will show you a way to explore, organize and reference scientific literature of use to your research
-----------------------------------------------------------------------------------------------------------------
+================================================================================================================
 The number of scientific journals and the papers they publish keeps growing. Because a lot of this publishing
 only happens online, the limits to article lengths are also being adhered to less strictly. This has led to
 a situation where any normal human being can no longer keep abreast of the developments in their field simply
@@ -9,7 +9,7 @@ how to do this collaboratively? Here we will address this questions and the prin
 by some current examples.
 
 Searching the literature
-========================
+------------------------
 When you are just getting into a new research topic, you will want to develop an overview of the different
 publications that speak to this topic and discover which of these are open access. One tool that you might like
 to know about, the 
@@ -49,7 +49,7 @@ radiation of the cichlids from Lake Tanganyika. If we click on that hit we are t
 that displays the abstract. 
 
 Retrieving papers in PDF
-========================
+------------------------
 Assuming that we are interested in the aforementioned paper, we might want to follow up and go
 to the publisher website, whose link is displayed in the top right of the page. However, depending on where
 you currently are (e.g. you might be at home, where you don't have institutional access) you might not be
@@ -64,7 +64,7 @@ somewhere on the screen (precisely where, differs a little between browsers). If
 file will be downloaded. Magic!
 
 Managing your literature
-========================
+------------------------
 Now that you have started locating papers and downloading PDFs we might be interested in organising a local
 repository. It is no good to simply dump all PDFs in a folder and write down literature references in a list
 by hand: there are much better ways to manage this information, that also give you the possibility of sharing.
@@ -86,7 +86,7 @@ desktop application on each of the participating computers (whether your own or 
 application will then synchronise bibliographies and PDFs across these installations on request.
 
 Accomplishments
-===============
+---------------
 You have now had a chance to look at practical ways of exploring scientific literature. By now, you should be
 able to:
 - Discover relevant literature
