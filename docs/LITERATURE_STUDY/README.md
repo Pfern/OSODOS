@@ -8,6 +8,8 @@ How to find what you need? How to get access to what you need? How to organize y
 how to do this collaboratively? Here we will address this questions and the principles behind them, illustrated
 by some current examples.
 
+Searching the literature
+========================
 When you are just getting into a new research topic, you will want to develop an overview of the different
 publications that speak to this topic and discover which of these are open access. One tool that you might like
 to know about, the 
@@ -42,15 +44,48 @@ would compose the query as follows:
     "dna barcoding, taxonomic"[MeSH Terms] "Sequence Analysis, DNA"[Mesh:NoExp] 
 
 This query gives, at time of writing, only 537 high-relevance results, whereas searching for `dna barcoding`
-yields 3278.
+yields 3278. Among these results is a paper about the application of DNA barcoding in studying the adaptive
+radiation of the cichlids from Lake Tanganyika. If we click on that hit we are taken to a [page](https://www.ncbi.nlm.nih.gov/pubmed/26990149) 
+that displays the abstract. 
 
-- use a tool to manage your literature locally (e.g. mendeley desktop to watch PDF folder, enrich database with DOIs)
-- use an open source tool to assemble relevant literature in a shared bibliography (example: mendeley groups)
-- don't enter relevant literature by hand in the bibliography (example: bookmarklet, unpaywall)
-#- don't enter citations by hand into whatever article you're writing (example: word plugin)
-#- use the appropriate template for the citation style (example: insert bibliography with style)
-#DOIs ORCID
+Retrieving papers in PDF
+========================
+Assuming that we are interested in the aforementioned paper, we might want to follow up and go
+to the publisher website, whose link is displayed in the top right of the page. However, depending on where
+you currently are (e.g. you might be at home, where you don't have institutional access) you might not be
+able to retrieve the PDF, which is reserved to subscribers, institutional or otherwise. To circumvent this
+issue, as of time of writing, a perfectly legal browser plugin has become very popular: [unpaywall](http://unpaywall.org/).
+This plugin exploits the fact that certain people (such as the authors of a publication) are generally within
+their right make a PDF of their paper available elsewhere. The plugin discovers these alternative locations
+and re-directs you to it. If you haven't already, please install the [unpaywall plugin](http://unpaywall.org/) 
+that matches your browser, and then click on the publishers link on the top right of the 
+[pubmed entry](https://www.ncbi.nlm.nih.gov/pubmed/26990149). You should now see a green, open padlock icon
+somewhere on the screen (precisely where, differs a little between browsers). If you click on it, the PDF
+file will be downloaded. Magic!
 
+Managing your literature
+========================
+Now that you have started locating papers and downloading PDFs we might be interested in organising a local
+repository. It is no good to simply dump all PDFs in a folder and write down literature references in a list
+by hand: there are much better ways to manage this information, that also give you the possibility of sharing.
+Various tools exist, some of the commonly used ones are:
+- [Mendeley](http://www.mendeley.com/)
+- [Zotero](http://www.zotero.org/)
+- [Papers](http://papersapp.com/)
+- [EndNote](http://endnote.com/)
+At present, the most popular of these is probably Mendeley. It has several virtues: similar to the unpaywall
+bookmarklet, there is also a mendeley bookmarklet that allows you to import a citation entry from a variety
+of search engines (such as pubmed) as well as publisher webpages with a single button press; it allows you
+to make shared bibliographies that you can organise collaboratively; it has a plug-in for Microsoft Word that
+allows you to insert literature citations directly into the manuscript that you are working on, which then will 
+be formatted according to the selected citation style.
+
+To make this work across computers and within research collaborations, you will need to install the Mendeley
+desktop application on each of the participating computers (whether your own or of a collaborator). The 
+application will then synchronise bibliographies and PDFs across these installations on request.
+
+Accomplishments
+===============
 You have now had a chance to look at practical ways of exploring scientific literature. By now, you should be
 able to:
 - Discover relevant literature
