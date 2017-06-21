@@ -16,26 +16,46 @@ tool, shown in [example 1](#ls1) here gives an overview of the concepts related 
 and the 100 most relevant articles related to it, grouped by text similarity. The bubbles show the results of this 
 clustering-by-similarity, and in each of these bubbles, the articles are shown (red icons are open access 
 publications). As an exercise, now go to google and search with the same keyword. Notice how most of the results
-are not relevant papers, but any website that qualifies by google's magic, proprietary algorithms, and no 
-indication is given about openness.
+are not relevant papers, but any website that qualifies by google's proprietary algorithms, and no indication is 
+given about openness.
 
 ls1
 ---
 ![Example 1, using the Open Knowledge Maps tool to search for a keyword](LS1.png)
 
-- use clever query tools to discover relevant literature (example: open knowledge maps, go pubmed, google scholar)
+The example of the Open Knowledge Maps tool showed a very powerful technique that did not require you to have 
+a great deal of rigour in composing your search terms: the tool did it for you. Under some circumstances, for
+example once you have learned more about the terminology used in a particular field, you may instead want to be
+more precise and specific and use commonly agreed-upon terms with an accepted meaning. One example of this
+is in the medical field, where so-called MeSH (medical subject headings) terms are commonly used in composing
+search queries in the medical literature. Each MeSH term is defined in a 
+[controlled vocabulary](https://en.wikipedia.org/wiki/Controlled_vocabulary) and its meaning(s) organised by 
+the higher concept(s) it belongs to. By perusing the concept hierarchy for the MeSH term 
+[DNA Barcoding, Taxonomic](https://www.ncbi.nlm.nih.gov/mesh/68058893), we discover there are actually two meanings:
+
+1. a technique for typing organisms by matching against a reference database of marker sequences, or
+2. the lab technique where such a specific marker (e.g. COI) is amplified and sequenced
+
+If, for example, we only wanted to retrieve publications from pubmed.gov that match the first definition, we
+would compose the query as follows:
+
+    "dna barcoding, taxonomic"[MeSH Terms] "Sequence Analysis, DNA"[Mesh:NoExp] 
+
+This query gives, at time of writing, only 537 high-relevance results, whereas searching for `dna barcoding`
+yields 3278.
+
 - use a tool to manage your literature locally (e.g. mendeley desktop to watch PDF folder, enrich database with DOIs)
 - use an open source tool to assemble relevant literature in a shared bibliography (example: mendeley groups)
 - don't enter relevant literature by hand in the bibliography (example: bookmarklet, unpaywall)
-- don't enter citations by hand into whatever article you're writing (example: word plugin)
-- use the appropriate template for the citation style (example: insert bibliography with style)
-DOIs ORCID
+#- don't enter citations by hand into whatever article you're writing (example: word plugin)
+#- use the appropriate template for the citation style (example: insert bibliography with style)
+#DOIs ORCID
 
 You have now had a chance to look at practical ways of exploring scientific literature. By now, you should be
 able to:
-- discover relevant literature
-- manage your literature
-- share literature with collaborators
-- insert citations in manuscripts
-- export correctly formatted bibliographies
-- work around some limitations 
+- Discover relevant literature
+- Manage your literature
+- Share literature with collaborators
+- Insert citations in manuscripts
+- Export correctly formatted bibliographies
+- Work around some limitations 
