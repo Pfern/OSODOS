@@ -54,20 +54,21 @@ to the publisher website, whose link is displayed in the top right of the page. 
 you currently are (e.g. you might be at home, where you don't have institutional access) you might not be
 able to retrieve the PDF, which is reserved to subscribers, institutional or otherwise. To circumvent this
 issue, as of time of writing, a perfectly legal browser plugin has become very popular: [unpaywall](http://unpaywall.org/).
-This plugin exploits the fact that certain people (such as the authors of a publication) are generally within
-their right make a PDF of their paper available elsewhere. The plugin discovers these alternative locations
-and re-directs you to it. If you haven't already, please install the [unpaywall plugin](http://unpaywall.org/) 
-that matches your browser, and then click on the publishers link on the top right of the 
-[pubmed entry](https://www.ncbi.nlm.nih.gov/pubmed/26990149). You should now see a green, open padlock icon
-somewhere on the screen (precisely where, differs a little between browsers). If you click on it, the PDF
-file will be downloaded. Magic!
+This plugin exploits the fact that certain people (such as the authors of a publication) are generally acting within
+their rights if they make a PDF of their paper available elsewhere. The plugin discovers these alternative locations
+and re-directs you to it. 
+
+If you haven't already, please install the [unpaywall plugin](http://unpaywall.org/) that matches your browser, 
+and then click on the publishers link on the top right of the  [pubmed entry](https://www.ncbi.nlm.nih.gov/pubmed/26990149). 
+You should now see a green, open padlock icon somewhere on the screen (precisely where, differs a little between 
+browsers). If you click on it, the PDF file will be downloaded. Magic!
 
 Managing your literature
 ------------------------
-Now that you have started locating papers and downloading PDFs we might be interested in organising a local
+Now that you have started locating papers and downloading PDFs you might be interested in organising a local
 repository. It is no good to simply dump all PDFs in a folder and write down literature references in a list
 by hand: there are much better ways to manage this information, that also give you the possibility of sharing.
-Various tools exist, some of the commonly used ones are:
+Various tools exist for this; some of the commonly used ones are:
 - [Mendeley](http://www.mendeley.com/)
 - [Zotero](http://www.zotero.org/)
 - [Papers](http://papersapp.com/)
