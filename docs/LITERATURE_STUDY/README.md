@@ -73,6 +73,7 @@ Various tools exist, some of the commonly used ones are:
 - [Zotero](http://www.zotero.org/)
 - [Papers](http://papersapp.com/)
 - [EndNote](http://endnote.com/)
+
 At present, the most popular of these is probably Mendeley. It has several virtues: similar to the unpaywall
 bookmarklet, there is also a mendeley bookmarklet that allows you to import a citation entry from a variety
 of search engines (such as pubmed) as well as publisher webpages with a single button press; it allows you
