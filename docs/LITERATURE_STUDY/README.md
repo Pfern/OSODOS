@@ -44,9 +44,9 @@ would compose the query as follows:
     "dna barcoding, taxonomic"[MeSH Terms] "Sequence Analysis, DNA"[Mesh:NoExp] 
 
 This query gives, at time of writing, only 537 high-relevance results, whereas searching for `dna barcoding`
-yields 3278. Among these results is a paper about the application of DNA barcoding in studying the adaptive
-radiation of the cichlids from Lake Tanganyika. If we click on that hit we are taken to a [page](https://www.ncbi.nlm.nih.gov/pubmed/26990149) 
-that displays the abstract. 
+yields 3278. Among these results is, for example, a paper about the application of DNA barcoding to faecal samples 
+of birds. If we click on that hit we are taken to a [page](https://www.ncbi.nlm.nih.gov/pubmed/25572526) that 
+displays the abstract. 
 
 Retrieving papers in PDF
 ------------------------
@@ -60,9 +60,14 @@ their rights if they make a PDF of their paper available elsewhere. The plugin d
 and re-directs you to it. 
 
 If you haven't already, please install the [unpaywall plugin](http://unpaywall.org/) that matches your browser, 
-and then click on the publishers link on the top right of the  [pubmed entry](https://www.ncbi.nlm.nih.gov/pubmed/26990149). 
-You should now see a green, open padlock icon somewhere on the screen (precisely where, differs a little between 
+and then click on the publishers link on the top right of the  [pubmed entry](https://www.ncbi.nlm.nih.gov/pubmed/25572526). 
+You should now see a green, open padlock icon somewhere on the screen (precisely where differs a little between 
 browsers). If you click on it, the PDF file will be downloaded. Magic!
+
+Another browser add-on that may help you locate a PDF version of an article is the 
+[google scholar button](https://scholar.google.com/scholar_settings#4), which lets you use a highlight phrase
+as a search term and then locate all the versions of a matching publication that are on the web. This often
+helps to find PDF versions that authors have posted, for example, on [ResearchGate](http://researchgate.net).
 
 Managing your literature
 ------------------------
@@ -94,5 +99,5 @@ able to:
 - Manage your literature
 - Share literature with collaborators
 - Insert citations in manuscripts
-- Export correctly formatted bibliographies
+- Generate correctly formatted bibliographies
 - Work around some limitations 
