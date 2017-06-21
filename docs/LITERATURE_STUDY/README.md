@@ -19,7 +19,8 @@ publications). As an exercise, now go to google and search with the same keyword
 are not relevant papers, but any website that qualifies by google's magic, proprietary algorithms, and no 
 indication is given about openness.
 
-#LS1
+LS1
+---
 ![Example 1, using the Open Knowledge Maps tool to search for a keyword](LS1.png)
 
 - use clever query tools to discover relevant literature (example: open knowledge maps, go pubmed, google scholar)
