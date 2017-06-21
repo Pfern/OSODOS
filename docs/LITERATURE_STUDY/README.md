@@ -12,14 +12,14 @@ When you are just getting into a new research topic, you will want to develop an
 publications that speak to this topic and discover which of these are open access. One tool that you might like
 to know about, the 
 [open knowledge maps](https://openknowledgemaps.org/vis.php?id=0813a0b7df9325654116a3322c6d5961&query=metabarcoding&service=base) 
-tool, shown in [example 1](#LS1) here gives an overview of the concepts related to the keyword "metabarcoding" 
+tool, shown in [example 1](#ls1) here gives an overview of the concepts related to the keyword "metabarcoding" 
 and the 100 most relevant articles related to it, grouped by text similarity. The bubbles show the results of this 
 clustering-by-similarity, and in each of these bubbles, the articles are shown (red icons are open access 
 publications). As an exercise, now go to google and search with the same keyword. Notice how most of the results
 are not relevant papers, but any website that qualifies by google's magic, proprietary algorithms, and no 
 indication is given about openness.
 
-LS1
+ls1
 ---
 ![Example 1, using the Open Knowledge Maps tool to search for a keyword](LS1.png)
 
