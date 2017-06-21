@@ -21,8 +21,7 @@ publications). As an exercise, now go to google and search with the same keyword
 are not relevant papers, but any website that qualifies by google's proprietary algorithms, and no indication is 
 given about openness.
 
-ls1
----
+<a name="ls1"></a>
 ![Example 1, using the Open Knowledge Maps tool to search for a keyword](LS1.png)
 
 The example of the Open Knowledge Maps tool showed a very powerful technique that did not require you to have 
