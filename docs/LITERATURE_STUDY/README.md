@@ -5,7 +5,7 @@ only happens online, the limits to article lengths are also being adhered to les
 a situation where any normal human being can no longer keep abreast of the developments in their field simply
 by scanning "all" the relevant journals. Which ones are relevant? Which ones are nonsensical, or predatory?
 How to find what you need? How to get access to what you need? How to organize your own knowledge base? And 
-how to do this collaboratively? Here we will address this questions and the principles behind them, illustrated
+how to do this collaboratively? Here we will address these questions and the principles behind them, illustrated
 by some current examples.
 
 Searching the literature
