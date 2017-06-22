@@ -177,12 +177,15 @@ chooses to do so. The most popular service to do so is [GitHub](http://github.co
 it has gained great popularity, not just for collaboratively managing software source code versions,
 but also (as noted above), plain text manuscript files and small data files. In fact, the materials
 you are navigating now (text, images, PDFs, and so on) are also being assembled and developed 
-collaboratively in a repository on GitHub. As an exercise, have a look at 
-[this change](https://github.com/Pfern/RODS17/commit/d16e088) in the repository.
+collaboratively in a repository on GitHub. 
 
-The `git` protocol and the extra facilities provided by GitHub are very flexible and far-ranging. 
-To learn more about the specific application of these tools in biology, here is a publication you 
-might find useful:
+As an exercise, have a look at [this change](https://github.com/Pfern/RODS17/commit/d16e088) to the 
+repository of these materials. You can see the exact line difference between two versions of the
+document. You can also see a link to the "parent" of the current change, and if you click on that,
+the grandparent, and so on, all the way to the beginning of the file. These detailed, unlimited
+undo is just one of the advanges of using this system: the `git` protocol and the extra facilities 
+provided by GitHub are very flexible and far-ranging. To learn more about the specific application 
+of these tools in biology, here is a publication you might find useful:
 
 **Perez-Riverol, Y. et al.** 2016. Ten simple rules for taking advantage of Git and GitHub.
 _PLoS Computational Biology_ 12(7):e1004947 [[pdf](Ten_simple_rules_for_taking_advantage_of_Git_and_GitHub.PDF)]
