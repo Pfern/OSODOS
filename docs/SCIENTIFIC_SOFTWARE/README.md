@@ -65,8 +65,8 @@ As an exercise of literate programming, try the [Welcome to Python](https://try.
 five (instead of four) curves, labeling the additional one `E`. An example of what the expected output might look like is 
 shown in [example 2](#ss2), but keep in mind that these curves are randomly generated so they will look different every time.
 
-Developing collaboratively
---------------------------
+Working with others
+-------------------
 Like most aspects of scientific research, scientific software development is becoming increasingly collaborative, which means
 that developers of software code and analytical workflows are increasingly participating in [open source development](https://en.wikipedia.org/wiki/Open-source_software_development).
 There are numerous idealistic reasons for why this ought to be done (for example, because computational analysis is a
@@ -108,8 +108,40 @@ that track version changes, a topic that is dealt with in more detail in [anothe
 
 Developing robust, verifiable software
 --------------------------------------
-- provide test data
-- use continuous integration
+Most scientific software is not developed by professional software engineers but by researchers. In general, such software
+is highly innovative in terms of the application of new analytical techniques, but also very fragile and difficult to use.
+Numerous specific recommendations to address these issues can be made (below, we link to two documents each with ten simple 
+rules regarding this), but one of the key principles on all of this is the need for a structured approach to software testing
+using (valid and invalid) data. 
+
+In every programming language in common usage in scientific computing there are helpful tools to automate testing. What these
+do, in general, is to run small programs or commands that you developed in addition to the main software to test its functioning.
+By adopting one of these conventional testing tools, you will gain numerous advantages:
+
+- Users can see the software in live action. This will aid them in verifying that the installation succeeded, and they will
+  see what the inputs and outputs (in terms of data, commands, and parameters) should look like, i.e. this will make the
+  software self-documenting.
+- Sets of tests can be integrated automatically in [systems](https://en.wikipedia.org/wiki/Continuous_integration) that run 
+  periodically (for example, every time a [version change is recorded](../VERSIONING)) to verify that the system still functions 
+  as intended.
+- If you make major changes in the architecture of the software you can verify automatically that this change did not break
+  anything.
+
+For further reading on these and related topics, you may be interested in:
+
+- **Taschuk, M. and Wilson G.**, 2017. Ten simple rules for making research software more robust.
+  _PLoS Computational Biology_ 13(4):e1005412 [[pdf](Ten_simple_rules_for_making_research_software_more_robust.pdf)]
+  doi:[10.1371/journal.pcbi.1005412](https://doi.org/10.1371/journal.pcbi.1005412)
+- **List, M., Ebert, P. and Albrecht, F.**, 2017. Ten simply rules for developing usable software in computational biology.
+  _PLoS Computational Biology_ 13(1):e1005265 [[pdf](Ten_simple_rules_for_developing_usable_software_in_computational_biology.pdf)]
+  doi:[10.1371/journal.pcbi.1005265](https://doi.org/10.1371/journal.pcbi.1005265)
 
 Accomplishments
 ---------------
+You have now had an encounter with some of the principles, tools and techniques that play a role in scientific software
+development. You should now be able to:
+- Understand why to use a text editor for plain text files
+- Understand what the purpose is of an IDE
+- Modify and execute a simple workflow
+- Know some of the principles of open source development
+- Know the purpose of software testing in scientific computing
