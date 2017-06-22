@@ -160,17 +160,19 @@ _Example 4 (v4) - Software versioning ([XKCD](https://xkcd.com/1296/))_
 
 Software development is an exercise in managing complexity that expands gradually beyond
 the point where it still fits into any single person's head. Whereas it is unlikely that the 
-introduction of a flawed turn of phrase in a manuscript can invalidate it without being noticed,
-this is possible in software code. As such, changes need to be managed very carefully and need
-to be reversible - potentially even months down the line. To this end, numerous different
-[version control](https://en.wikipedia.org/wiki/Version_control) systems have been developed. 
-What these have in common is that they provide an essentially unlimited undo for managed folder
-structures with text files in them. The, at present, most popular of these systems, `git`, was
-initially developed for the community process by which the kernel of the Linux operating system
-is modified. As such, this system has as an especially useful feature the ability to collaborate
-in a distributed fashion on multiple so-called "clones" of managed folder structures (often called
-"repositories") in such a way that the modifications made by different people can be mixed and
-matched intelligently.
+introduction of a flawed turn of phrase in a manuscript can invalidate the whole text without 
+being noticed, this is possible in software code. As such, changes need to be managed very 
+carefully and need to be reversible - potentially even months down the line. To this end, 
+numerous different [version control](https://en.wikipedia.org/wiki/Version_control) systems 
+have been developed. 
+
+What all version control systems have in common is that they provide an essentially unlimited undo 
+for managed folder structures with text files in them. The, at present, most popular of these 
+systems, `git`, was initially developed for the community process by which the kernel of the Linux 
+operating system is modified. As such, this system has as an especially useful feature the ability 
+to collaborate in a distributed fashion on multiple so-called "clones" of managed folder structures 
+(often called "repositories") in such a way that the modifications made by different people can be 
+mixed and matched intelligently.
 
 Because `git` is an open source protocol, it can be freely adopted and facilitated by anyone that 
 chooses to do so. The most popular service to do so is [GitHub](http://github.com). In recent years
@@ -191,5 +193,39 @@ of these tools in biology, here is a publication you might find useful:
 _PLoS Computational Biology_ 12(7):e1004947 [[pdf](Ten_simple_rules_for_taking_advantage_of_Git_and_GitHub.PDF)]
 doi:[10.1371/journal.pcbi.1004947](http://doi.org/10.1371/journal.pcbi.1004947)
 
+Managing software source code (and other files) in a version control system such as `git`, and 
+taking advantage of the additional facilities for continuous integration, automated testing, and
+collaborating in the open source spirit (as discussed in the section on 
+[software development](../SCIENTIFIC_SOFTWARE)) are good practices that will increase the likelihood
+of bringing a software project to a version that can be released. At this point, a similar need for
+the unambiguous and unique identification of versions as we saw in the versioning of manuscripts and
+data arises. It is certainly possible to use a `git` version string such as `d16e088` for this, but
+it will be hard to remember and not very informative. 
+
+Instead, it is more or less conventional in software development to release software with a shorter 
+version number. This is perfectly compatible with systems such as `git`, because such version numbers
+can be used as aliases for the opaque version strings that `git` generates internally. One of the
+commonly used public version number systems for software is [semantic versioning](http://semver.org/),
+which consists of three integers separated by periods (e.g. `1.8.23`) that are interpreted from left
+to right as:
+
+1. MAJOR version number, which, when incremented, indicates that the new version is incompatible with the
+   previous version.
+2. MINOR version adds functionality in a backwards-compatible manner, and
+3. PATCH version when backwards-compatible bug fixes are performed.
+
+Whichever version numbering scheme for software is adopted, it is of vital importance in 
+[computational workflows](../WORKFLOWS) and [reproducibility](../REPRODUCIBILITY) that version numbers
+are issued consistently by software authors and recorded in sufficient detail by software users.
+
 Accomplishments
 ---------------
+You have now learned about some of the considerations involved in managing changes in research output
+in such a way that every changed version can still be unambiguously identified. You should now be 
+able to:
+- Manage collaborative writing of manuscripts using Microsoft Word
+- Make an informed choice between different cloud solutions for writing
+- Understand the role of automation in managing change in data
+- Know what happens to published data, and its identifier, if it is changed
+- Understand some of the applications of version control systems
+- Understand some of the considerations in software versioning
