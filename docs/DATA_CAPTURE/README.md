@@ -42,15 +42,15 @@ will not be uniform and tends to be worse at least at the end of each read. This
 that is tied to the measurement process. So, removing the tails of the reads, as much as removing traces from sequencing 
 adaptors, for example, is a normal task that lies in the hands of the experimentalist.
 
-Data from a sequencing run can be inspected with a widely used public tool called [FastQC] 
-(https://www.bioinformatics.babraham.ac.uk/projects/fastqc/) produced at the Babraham Institute, Cambridge, UK
+Data from a sequencing run can be inspected with a widely used public tool called **FastQC** produced at the Babraham 
+Institute, Cambridge, UK. A very useful tutorial is provided at: https://www.bioinformatics.babraham.ac.uk/projects/fastqc/ 
 
+A very good dataset can look like this:
+<a name="FastQC1">
+![] fastqc1.png
+</a>
 
-<a name="FastQC1"></a>
-![A very good dataset can look like this:](fastqc1.png)
-
-<a name="FastQC2"></a>
-![A very bad dataset can look like this:](fastqc2.png)
+A very bad dataset can look like this: <a name="FastQC2" > fastqc2.png </a>
 
 A program like FastQC can look at the dataset from a varietey of different perspectives, other than the above quality score 
 and allows the experimenter to find support fro accepting or rejecting a dataset and also to diagnose possible sources of
@@ -68,11 +68,10 @@ in measurements can occur, even if we are only measuring weight with a scale or 
 I cooperative work, the need for adoption of standards and formats is even higher and simple things like the reliable time 
 stamping of the datasets can serously compromise the accreditation of datasets. Likewise, as the result of serious efforts in 
 standardisation, consortia have worked on the definition of stanadrdised ways of describing experiments, and managed to reduce 
-their summarised information to minimum sets of descriptors. Here are some examples:
+their summarised information to minimum sets of descriptors. Here are some examples  of such specifications:
 
-[Minimum information about a microarray experiment (MIAME)] (https://www.nature.com/ng/journal/v29/n4/pdf/ng1201-365.pdf)
-[The minimum information about a proteomics experiment (MIAPE)] (https://www.nature.com/nbt/journal/v25/n8/pdf/nbt1329.pdf)
+Minimum information about a microarray experiment (MIAME) https://www.nature.com/ng/journal/v29/n4/pdf/ng1201-365.pdf
+The minimum information about a proteomics experiment (MIAPE) https://www.nature.com/nbt/journal/v25/n8/pdf/nbt1329.pdf
 
-
-[Data Provenance: Some Basic Issues] (http://db.cis.upenn.edu/DL/fsttcs.pdf)
+Data Provenance: Some Basic Issues http://db.cis.upenn.edu/DL/fsttcs.pdf
 
