@@ -27,8 +27,8 @@ Provenance may or not entail ownership and licensing of its use. If the appropri
 are taken, authenticated provenance implies authorship. 
 
 To dig further, here is an interesting document about Data Provenance: "
-Data Provenance: Some Basic Issues" http://db.cis.upenn.edu/DL/fsttcs.pdf by
-Peter Buneman, Sanjeev Khanna, and Wang-Chiew Tan.
+Data Provenance: Some Basic Issues"  by
+Peter Buneman, Sanjeev Khanna, and Wang-Chiew Tan: http://db.cis.upenn.edu/DL/fsttcs.pdf 
  
 
 When Data Collection is performed via a service of some kind, such as the work from a Core Facility or Analytics 
