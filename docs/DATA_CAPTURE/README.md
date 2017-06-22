@@ -26,8 +26,10 @@ not only to the Data Collection act but also to the its futher movements between
 Provenance may or not entail ownership and licensing of its use. If the appropriate steps, as will be explained below, 
 are taken, authenticated provenance implies authorship. 
 
-To dig further, here is an interesting document about Data Provenance:
-Data Provenance: Some Basic Issues http://db.cis.upenn.edu/DL/fsttcs.pdf
+To dig further, here is an interesting document about Data Provenance: "
+Data Provenance: Some Basic Issues"  by
+Peter Buneman, Sanjeev Khanna, and Wang-Chiew Tan: http://db.cis.upenn.edu/DL/fsttcs.pdf 
+ 
 
 When Data Collection is performed via a service of some kind, such as the work from a Core Facility or Analytics 
 provider, even more care must be put into fully describing the provenance. The reliability of a good provider is
@@ -49,17 +51,13 @@ Data from a sequencing run can be inspected with a widely used public tool calle
 Institute, Cambridge, UK. A very useful tutorial is provided at: https://www.bioinformatics.babraham.ac.uk/projects/fastqc/ 
 
 A very good dataset can look like this:
-
 <a name="fastqc1"></a>
-![A very good dataset can look like this](fastqc-1.png)
-
-_A very good dataset can look like this_
+![fastqc1](fastqc-1.png)
 
 
+Whereas a very bad dataset may look like this:
 <a name="fastqc2" ></a> 
 ![fastqc2](fastqc-2.png)
-
-_ A very bad dataset can look like this _
 
 A program like FastQC can look at the dataset from a varietey of different perspectives, other than the above quality score 
 and allows the experimenter to find support for accepting or rejecting a dataset and also to diagnose possible sources of
@@ -80,6 +78,4 @@ standardisation, consortia have worked on the definition of stanadrdised ways of
 their summarised information to minimum sets of descriptors. Here are some examples  of such specifications:
 
 Minimum information about a microarray experiment (MIAME) https://www.nature.com/ng/journal/v29/n4/pdf/ng1201-365.pdf
-The minimum information about a proteomics experiment (MIAPE) https://www.nature.com/nbt/journal/v25/n8/pdf/nbt1329.pdf
-
-
+The minimum information about a proteomics experiment (MIAPE) https://www.nature.com/nbt/journal/v25/n8/pdf/nbt1329.pdf 
