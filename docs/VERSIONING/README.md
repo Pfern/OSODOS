@@ -107,19 +107,25 @@ _Example 2 (v2) - Data versioning ([PhD comics](http://phdcomics.com/comics/arch
 
 Through the course of a computational analysis, research data will go through a number of steps
 that might cause the data to be converted in different formats, reduced, filtered, and so on.
+Therefore, unlike what is shown in [example 2](#v2), at least some of the principles for file 
+naming discussed previously for manuscript versions ought to be used here as well. That said,
+data changes enacted by computational analytical steps are not (and should not) be acts of 
+creation process where something (like a well written, complete manuscript) grows out of nothing.
+In a sense, the information is already there, it just needs to be extracted out of the data.
+
 [Example 3](#v3) shows the volume reductions and types of information that are extracted and
 disseminated during the course of a "typical" analysis of next generation sequencing data.
-Here, too, a research product - in this case, data - will go through many versions that will 
-need to be tracked sensibly. However, these different data versions should not be the result
-of creative processes in quite the way that applies to manuscript versions. Rather, the data
-versions should be the output of automated steps that can be re-run at will. As such, it is
-not the data changes themselves that are created by human hands, but rather, this is true of
-the analytical workflow, which will grow and improve over the course of the study. If this is
-done dilligently, it should be possible to delete all but the initial, raw data to re-create
-everything else leading up to the result data. It should be obvious that this approach is 
-virtuous in a number of ways:
+Here, too, a research product - in this case, sequencing reads - will go through many versions 
+that will need to be tracked sensibly. However, these data versions should be the output of 
+automated steps that can be re-run at will. As such, it is not the data changes themselves 
+that are enacted by human hands, but rather, this is true of the analytical workflow, which 
+will grow and improve over the course of the study (sometimes, a very creative process). If 
+this is done dilligently, it should be possible to delete all but the initial, raw data to 
+re-create everything else leading up to the result data. It should be obvious that this approach 
+is virtuous in a number of ways:
 
-- The [reproducibility](../REPRODUCIBILITY) of the research output is improved.
+- The [reproducibility](../REPRODUCIBILITY) of the research output is improved and the 
+  [provenance trail](../DATA_CAPTURE) of the data is recorded automatically.
 - The need to develop a versioning system for intermediate data is lessened. These data become,
   in a sense, ephemeral - because they can be re-generated.
 - There is less storage space needed for different versions of intermediate data.
@@ -129,7 +135,20 @@ virtuous in a number of ways:
 
 _Example 3 (v3) - NGS data reduction and conversion ([gcoates](http://www.slideshare.net/gcoates/sharing-data-sanger-experiences))_
 
+Assuming sensible result data have been extracted, these will at some point be published in
+public repositories. Sometimes, this will be in a database for a specific research domain (like
+a DNA sequence database that issues public [accession numbers](https://support.ncbi.nlm.nih.gov/link/portal/28045/28049/Article/500/)),
+other times, this will be a more generic repository for research data, such as 
+[Dryad](http://datadryad.org/) or [Zenodo](https://zenodo.org/). Once deposited in any of these
+places, data versioning becomes a much bigger issue: if something is changed about a data 
+record, this needs to be unambiguously clear to anyone else using these data. Therefore, all
+these repositories have policies for data versioning. 
 
+Ever since GenBank abandoned the GI for sequence data, the only identifier is the accession 
+number, which is structured as a string of letters and numbers ending in a period followed 
+by the version number. In the case of both Dryad and Zenodo, their [respective](http://wiki.datadryad.org/Track_Version_Changes)
+[policies](https://blogs.openaire.eu/?p=2010) likewise state that for every change to
+deposited data a new identifier is minted (which, for both repositories, is a DOI).
 
 Software versioning
 -------------------
