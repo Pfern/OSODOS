@@ -68,11 +68,10 @@ in measurements can occur, even if we are only measuring weight with a scale or 
 I cooperative work, the need for adoption of standards and formats is even higher and simple things like the reliable time 
 stamping of the datasets can serously compromise the accreditation of datasets. Likewise, as the result of serious efforts in 
 standardisation, consortia have worked on the definition of stanadrdised ways of describing experiments, and managed to reduce 
-their summarised information to minimum sets of descriptors. Here are some examples:
+their summarised information to minimum sets of descriptors. Here are some examples  of such specifications:
 
-[Minimum information about a microarray experiment (MIAME)] (https://www.nature.com/ng/journal/v29/n4/pdf/ng1201-365.pdf)
-[The minimum information about a proteomics experiment (MIAPE)] (https://www.nature.com/nbt/journal/v25/n8/pdf/nbt1329.pdf)
-
+Minimum information about a microarray experiment (MIAME) https://www.nature.com/ng/journal/v29/n4/pdf/ng1201-365.pdf
+The minimum information about a proteomics experiment (MIAPE) https://www.nature.com/nbt/journal/v25/n8/pdf/nbt1329.pdf
 
 Data Provenance: Some Basic Issues http://db.cis.upenn.edu/DL/fsttcs.pdf
 
