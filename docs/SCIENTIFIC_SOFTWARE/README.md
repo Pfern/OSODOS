@@ -4,8 +4,9 @@ Research in the life sciences is increasingly [computational](https://doi.org/10
 because all research is about expanding what is known, means that the development and application of new 
 computational methods is part of the field. Even if you are primarily a bench scientist or a field worker, you should 
 have some awareness of scientific computing. How is software code written and how can you do this collaboratively? 
-How to use the code of others? How to share your own? How to improve your code, and make it verifiable and testable?
-Here we will address these questions and some of the approaches and community standards that are in current usage.
+How does one use the code of others? How do you share your own? How to improve your code, and make it verifiable and 
+testable? Here we will address these questions and some of the approaches and community standards that are in current 
+usage.
 
 Picking the right tools
 -----------------------
@@ -58,23 +59,45 @@ system facilitates the same way of working but accommodates more programming lan
 <a name="ss2"></a>
 ![Example 2, example output of the "Welcome to Python" notebook](SS2.png)
 
-_Example 2 (ss2) - example output of the "Welcome to Python" notebook. Note that the curves will look a bit different every time._
+_Example 2 (ss2) - example output of the modified "Welcome to Python" notebook._
 
 As an exercise of literate programming, try the [Welcome to Python](https://try.jupyter.org/) notebook. Modify the code to draw
 five (instead of four) curves, labeling the additional one `E`. An example of what the expected output might look like is 
-shown in [example 2](#ss2).
+shown in [example 2](#ss2), but keep in mind that these curves are randomly generated so they will look different every time.
 
-Open sourcing your code
----------------------
-- build on the shoulders of others
-- adopt community conventions
-- pick a permissive license
-- publish your code
-- collect feedback
+Working collaboratively
+-----------------------
+Like most aspects of scientific research, scientific software development is becoming increasingly collaborative, which means
+that developers of software code and analytical workflows are increasingly participating in [open source development](https://en.wikipedia.org/wiki/Open-source_software_development).
+There are numerous idealistic reasons for why this ought to be done (for example, because computational analysis is a
+research method and so should be transparent in order to be reproducible; or, because scientific software is typically 
+funded publicly, it should be freely available) but there are also very practical, self-interested reasons for adopting 
+open source. The main ones of these are that it allows you to build on the shoulders of others, e.g. by re-using software
+components developed and published by others, and that it allows you, in turn, to have greater impact with your work, 
+because others will use it (and cite it) in turn. To participate in open source developments, here are some of the main
+aspects to consider:
 
+- **Community conventions** - Every community of open source developers, whether it's a community centred around a 
+  programming language (say, Perl) or a problem domain (like bioinformatics) has its own conventions. Some of these may
+  be well-considered and useful, such as documentation standards, while others may be somewhat arbitrary, such as 
+  debates about what is or is not "pythonic" - while some community conventions might even be actively harmful, like 
+  the perverse pleasure in writing deliberately cryptic, obfuscated code. If you want to start contributing to a community,
+  learn about the conventions that have been adopted, especially insofar as they affect collaboration. For example, learn
+  what is expected of a software package that you plan to contribute: how do the files need to be organised? How does the
+  code need to be structured? Are there specific [design patterns](https://en.wikipedia.org/wiki/Software_design_pattern) 
+  that ought to be followed? 
+- **User rights** - Open source software is also referred to as "free software". This does not just mean in the sense of
+  "free beer", i.e. at no cost, but also - more importantly - in the sense of "free speech". In other words, open source
+  has to do with the rights of people to intellectual property. These rights are defined in software licenses, and they
+  are relevant to developers because they both concern what you can do with the software developed by others (e.g., under
+  what conditions, commercial or otherwise, can you re-use somebody else's source code) and what others can do with the 
+  source code that you write. Whereas the [creative commons](https://creativecommons.org/) licenses are typically used for 
+  works such as images, text (including scholarly publications) and data sets, open source software is usually released 
+  under one of the licenses recognised by the [open source initiative](https://opensource.org/).
+- **User feedback** - 
 
-Make it verifiable
-------------------
+Developing verifiable software
+------------------------------
 - provide test data
 - use continuous integration
 
