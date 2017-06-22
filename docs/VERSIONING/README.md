@@ -12,6 +12,7 @@ Manuscript versioning
 ---------------------
 <a name="v1"></a>
 ![Example 1, manuscript versioning](manuscript_versioning.jpg)
+
 _Example 1 (v1) - Manuscript versioning ([PhD comics](http://phdcomics.com/comics/archive.php?comicid=1531))_
 
 Even before a manuscript has been submitted for its first round of formal review it has 
@@ -101,6 +102,7 @@ Data versioning
 ---------------
 <a name="v2"></a>
 ![Example 2, data versioning](data_versioning.jpg)
+
 _Example 2 (v2) - Data versioning ([PhD comics](http://phdcomics.com/comics/archive.php?comicid=1323))_
 
 
@@ -108,6 +110,7 @@ Software versioning
 -------------------
 <a name="v3"></a>
 ![Example 3, software versioning](git_commit.png)
+
 _Example 3 (v3) - Software versioning ([XKCD](https://xkcd.com/1296/))_
 
 
