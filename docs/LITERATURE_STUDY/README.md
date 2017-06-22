@@ -1,5 +1,5 @@
-This module will show you a way to explore, organize and reference scientific literature of use to your research
-================================================================================================================
+This module will show you ways to explore, organize and reference scientific literature of use to your research
+===============================================================================================================
 The number of scientific journals and the papers they publish keeps growing. Because a lot of this publishing
 only happens online, the limits to article lengths are also being adhered to less strictly. This has led to
 a situation where any normal human being can no longer keep abreast of the developments in their field simply
@@ -89,7 +89,8 @@ be formatted according to the selected citation style.
 
 To make this work across computers and within research collaborations, you will need to install the Mendeley
 desktop application on each of the participating computers (whether your own or of a collaborator). The 
-application will then synchronise bibliographies and PDFs across these installations on request.
+application will then synchronise bibliographies and PDFs across these installations on request. This way, 
+you and your collaborators all around the world can assemble a shared collection of relevant literature.
 
 Accomplishments
 ---------------
