@@ -49,17 +49,13 @@ Data from a sequencing run can be inspected with a widely used public tool calle
 Institute, Cambridge, UK. A very useful tutorial is provided at: https://www.bioinformatics.babraham.ac.uk/projects/fastqc/ 
 
 A very good dataset can look like this:
-
 <a name="fastqc1"></a>
-![A very good dataset can look like this](fastqc-1.png)
-
-_A very good dataset can look like this_
+![fastqc1](fastqc-1.png)
 
 
+A very bad dataset can look like this:
 <a name="fastqc2" ></a> 
 ![fastqc2](fastqc-2.png)
-
-_ A very bad dataset can look like this _
 
 A program like FastQC can look at the dataset from a varietey of different perspectives, other than the above quality score 
 and allows the experimenter to find support for accepting or rejecting a dataset and also to diagnose possible sources of
