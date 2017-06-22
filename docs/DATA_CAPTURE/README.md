@@ -26,8 +26,10 @@ not only to the Data Collection act but also to the its futher movements between
 Provenance may or not entail ownership and licensing of its use. If the appropriate steps, as will be explained below, 
 are taken, authenticated provenance implies authorship. 
 
-To dig further, here is an interesting document about Data Provenance:
-Data Provenance: Some Basic Issues http://db.cis.upenn.edu/DL/fsttcs.pdf
+To dig further, here is an interesting document about Data Provenance: "
+Data Provenance: Some Basic Issues" http://db.cis.upenn.edu/DL/fsttcs.pdf by
+Peter Buneman, Sanjeev Khanna, and Wang-Chiew Tan.
+ 
 
 When Data Collection is performed via a service of some kind, such as the work from a Core Facility or Analytics 
 provider, even more care must be put into fully describing the provenance. The reliability of a good provider is
