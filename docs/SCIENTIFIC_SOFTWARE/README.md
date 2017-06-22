@@ -65,8 +65,8 @@ As an exercise of literate programming, try the [Welcome to Python](https://try.
 five (instead of four) curves, labeling the additional one `E`. An example of what the expected output might look like is 
 shown in [example 2](#ss2), but keep in mind that these curves are randomly generated so they will look different every time.
 
-Working collaboratively
------------------------
+Developing collaboratively
+--------------------------
 Like most aspects of scientific research, scientific software development is becoming increasingly collaborative, which means
 that developers of software code and analytical workflows are increasingly participating in [open source development](https://en.wikipedia.org/wiki/Open-source_software_development).
 There are numerous idealistic reasons for why this ought to be done (for example, because computational analysis is a
@@ -86,18 +86,28 @@ aspects to consider:
   what is expected of a software package that you plan to contribute: how do the files need to be organised? How does the
   code need to be structured? Are there specific [design patterns](https://en.wikipedia.org/wiki/Software_design_pattern) 
   that ought to be followed? 
-- **User rights** - Open source software is also referred to as "free software". This does not just mean in the sense of
-  "free beer", i.e. at no cost, but also - more importantly - in the sense of "free speech". In other words, open source
-  has to do with the rights of people to intellectual property. These rights are defined in software licenses, and they
-  are relevant to developers because they both concern what you can do with the software developed by others (e.g., under
-  what conditions, commercial or otherwise, can you re-use somebody else's source code) and what others can do with the 
-  source code that you write. Whereas the [creative commons](https://creativecommons.org/) licenses are typically used for 
-  works such as images, text (including scholarly publications) and data sets, open source software is usually released 
+- **Rights and licenses** - Open source software is also referred to as "free software". This does not just mean in the 
+  sense of "free beer", i.e. at no cost, but also - more importantly - in the sense of "free speech". In other words, open 
+  source has to do with the rights of people to intellectual property. These rights are defined in software licenses, and 
+  they are relevant to developers because they both concern what you can do with the software developed by others (e.g., 
+  under what conditions, commercial or otherwise, can you re-use somebody else's source code) and what others can do with 
+  the source code that you write. Whereas the [creative commons](https://creativecommons.org/) licenses are typically used 
+  for works such as images, text (including scholarly publications) and data sets, open source software is usually released 
   under one of the licenses recognised by the [open source initiative](https://opensource.org/).
-- **User feedback** - 
+- **Responsive communication** - Collaborative development and participation in a community also means to respond to feedback 
+  from others at every stage of the development cycle. When you are first planning a software tool or a computational workflow
+  you will need to [learn what your collaborators think the requirements are](https://en.wikipedia.org/wiki/Requirements_elicitation);
+  when you have a prototype or an early version you may need to 
+  [adjust your approach in response to early user testing](https://en.wikipedia.org/wiki/Agile_software_development); once
+  you have released something you may need to [manage and address issues](https://en.wikipedia.org/wiki/Issue_tracking_system) 
+  reported by users.
 
-Developing verifiable software
-------------------------------
+Some of the challenges of working collaboratively can at least partly be addressed (or facilitated) by technology. Specifically,
+collaborating on anything that changes over time, whether a manuscript, data, or source code, can be facilitated by technologies
+that track version changes, a topic that is dealt with in more detail in [another section](../VERSIONING).
+
+Developing robust, verifiable software
+--------------------------------------
 - provide test data
 - use continuous integration
 
