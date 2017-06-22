@@ -158,6 +158,34 @@ Software versioning
 
 _Example 4 (v4) - Software versioning ([XKCD](https://xkcd.com/1296/))_
 
+Software development is an exercise in managing complexity that expands gradually beyond
+the point where it still fits into any single person's head. Whereas it is unlikely that the 
+introduction of a flawed turn of phrase in a manuscript can invalidate it without being noticed,
+this is possible in software code. As such, changes need to be managed very carefully and need
+to be reversible - potentially even months down the line. To this end, numerous different
+[version control](https://en.wikipedia.org/wiki/Version_control) systems have been developed. 
+What these have in common is that they provide an essentially unlimited undo for managed folder
+structures with text files in them. The, at present, most popular of these systems, `git`, was
+initially developed for the community process by which the kernel of the Linux operating system
+is modified. As such, this system has as an especially useful feature the ability to collaborate
+in a distributed fashion on multiple so-called "clones" of managed folder structures (often called
+"repositories") in such a way that the modifications made by different people can be mixed and
+matched intelligently.
+
+Because `git` is an open source protocol, it can be freely adopted and facilitated by anyone that 
+chooses to do so. The most popular service to do so is [GitHub](http://github.com). In recent years
+it has gained great popularity, not just for collaboratively managing software source code versions,
+but also (as noted above), plain text manuscript files and small data files. In fact, the materials
+you are navigating now (text, images, PDFs, and so on) are also being assembled and developed 
+collaboratively in a repository on GitHub.
+
+The `git` protocol and the extra facilities provided by GitHub are very flexible and far-ranging. 
+To learn more about the specific application of these tools in biology, here is a publication you 
+might find useful:
+
+**Perez-Riverol, Y. et al.** 2016. Ten simple rules for taking advantage of Git and GitHub.
+_PLoS Computational Biology_ 12(7):e1004947 [[pdf](Ten_simple_rules_for_taking_advantage_of_Git_and_GitHub.PDF)]
+doi:[10.1371/journal.pcbi.1004947](http://doi.org/10.1371/journal.pcbi.1004947)
 
 Accomplishments
 ---------------
