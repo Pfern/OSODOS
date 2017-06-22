@@ -139,16 +139,17 @@ Assuming sensible result data have been extracted, these will at some point be p
 public repositories. Sometimes, this will be in a database for a specific research domain (like
 a DNA sequence database that issues public [accession numbers](https://support.ncbi.nlm.nih.gov/link/portal/28045/28049/Article/500/)),
 other times, this will be a more generic repository for research data, such as 
-[Dryad](http://datadryad.org/) or [Zenodo](https://zenodo.org/). Once deposited in any of these
-places, data versioning becomes a much bigger issue: if something is changed about a data 
-record, this needs to be unambiguously clear to anyone else using these data. Therefore, all
-these repositories have policies for data versioning. 
+[Dryad](http://datadryad.org/), [Zenodo](https://zenodo.org/) or [FigShare](http://figshare.com). 
+Once deposited in any of these places, data versioning becomes a much bigger issue: if something 
+is changed about a public data record, this needs to be unambiguously clear to anyone else using 
+these data. Therefore, all these repositories have policies for data versioning. 
 
-Ever since GenBank abandoned the GI for sequence data, the only identifier is the accession 
+Ever since GenBank abandoned the GI for sequence data, their only identifier is the accession 
 number, which is structured as a string of letters and numbers ending in a period followed 
-by the version number. In the case of both Dryad and Zenodo, their [respective](http://wiki.datadryad.org/Track_Version_Changes)
+by the version number. In the case of Dryad, Figshare and Zenodo, their [respective](http://wiki.datadryad.org/Track_Version_Changes)
+[versioning](https://support.figshare.com/support/solutions/articles/6000079064-can-i-edit-my-research-after-it-has-been-made-public-)
 [policies](https://blogs.openaire.eu/?p=2010) likewise state that for every change to
-deposited data a new identifier is minted (which, for both repositories, is a DOI).
+deposited data a new identifier is minted (which, for all three of these repositories, is a DOI).
 
 Software versioning
 -------------------
