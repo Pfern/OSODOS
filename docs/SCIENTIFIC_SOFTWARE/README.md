@@ -57,6 +57,7 @@ system facilitates the same way of working but accommodates more programming lan
 
 <a name="ss2"></a>
 ![Example 2, example output of the "Welcome to Python" notebook](SS2.png)
+
 _Example 2 (ss2) - example output of the "Welcome to Python" notebook. Note that the curves will look a bit different every time._
 
 As an exercise of literate programming, try the [Welcome to Python](https://try.jupyter.org/) notebook. Modify the code to draw
