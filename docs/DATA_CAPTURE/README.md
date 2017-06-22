@@ -52,9 +52,9 @@ A very good dataset can look like this:
 <a name="FastQC1"></a>
 ![FastQC1] fastqc1.png
 
-<a name="FQC2" ></a> 
+<a name="fastqc2" ></a> 
 ![A very bad dataset can look like this: ](fastqc2.png)
-_A very bad dataset can look like this_
+_A very bad dataset (fastqc2) can look like this_
 
 <a name="ss2"></a>
 ![Example 2, example output of the "Welcome to Python" notebook](SS2.png)
