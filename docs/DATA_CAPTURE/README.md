@@ -53,8 +53,7 @@ A very good dataset can look like this:
 ![FastQC1] fastqc1.png
 
 <a name="FQC2" ></a> 
-![FQC2](fastqc2.png)
-A very bad dataset can look like this: (FQC2)
+![A very bad dataset can look like this: ](fastqc2.png)
 
 
 A program like FastQC can look at the dataset from a varietey of different perspectives, other than the above quality score 
