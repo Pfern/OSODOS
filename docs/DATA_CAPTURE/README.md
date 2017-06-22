@@ -50,11 +50,16 @@ Institute, Cambridge, UK. A very useful tutorial is provided at: https://www.bio
 
 A very good dataset can look like this:
 
-<a name="Ffastqc1"></a>
-![A very good dataset can look like this](fastqc1.png)
+<a name="fastqc1"></a>
+![A very good dataset can look like this](fastqc-1.png)
+
+_A very good dataset can look like this_
+
 
 <a name="fastqc2" ></a> 
-![fastqc2](./fastqc2.png "A very bad dataset can look like this")
+![fastqc2](fastqc-2.png)
+
+_ A very bad dataset can look like this _
 
 A program like FastQC can look at the dataset from a varietey of different perspectives, other than the above quality score 
 and allows the experimenter to find support for accepting or rejecting a dataset and also to diagnose possible sources of
