@@ -7,7 +7,7 @@ that can be a way to pile-up habits, both good and bad. Good data capture habits
 datasets in which one can find the means to reconstruct the capture itself, identify the instruments 
 that were used, the reactants, the people intervening, etc. Fora a scientist, even if working alone, 
 good datasets are an assurance that his/her attitude towards a rigorous relationship with the experiments 
-started correctly. To the questions *Where*, *when* and *how*  (WWH) did you get yor data, one can exect to be 
+started correctly. To the questions where, when and how (WWH) did you get yor data, one can exect to be 
 able to answer unequivocally.
 
 It is relatively easy to produce and accumulate bad records and store bad datasets that have little 
