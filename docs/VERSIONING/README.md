@@ -105,13 +105,38 @@ Data versioning
 
 _Example 2 (v2) - Data versioning ([PhD comics](http://phdcomics.com/comics/archive.php?comicid=1323))_
 
+Through the course of a computational analysis, research data will go through a number of steps
+that might cause the data to be converted in different formats, reduced, filtered, and so on.
+[Example 3](#v3) shows the volume reductions and types of information that are extracted and
+disseminated during the course of a "typical" analysis of next generation sequencing data.
+Here, too, a research product - in this case, data - will go through many versions that will 
+need to be tracked sensibly. However, these different data versions should not be the result
+of creative processes in quite the way that applies to manuscript versions. Rather, the data
+versions should be the output of automated steps that can be re-run at will. As such, it is
+not the data changes themselves that are created by human hands, but rather, this is true of
+the analytical workflow, which will grow and improve over the course of the study. If this is
+done dilligently, it should be possible to delete all but the initial, raw data to re-create
+everything else leading up to the result data. It should be obvious that this approach is 
+virtuous in a number of ways:
+
+- The [reproducibility](../REPRODUCIBILITY) of the research output is improved.
+- The need to develop a versioning system for intermediate data is lessened. These data become,
+  in a sense, ephemeral - because they can be re-generated.
+- There is less storage space needed for different versions of intermediate data.
+
+<a name="v3"></a>
+![Example 3, data reduction](V1.png)
+
+_Example 3 (v3) - NGS data reduction and conversion ([gcoates](http://www.slideshare.net/gcoates/sharing-data-sanger-experiences))_
+
+
 
 Software versioning
 -------------------
-<a name="v3"></a>
-![Example 3, software versioning](git_commit.png)
+<a name="v4"></a>
+![Example 4, software versioning](git_commit.png)
 
-_Example 3 (v3) - Software versioning ([XKCD](https://xkcd.com/1296/))_
+_Example 4 (v4) - Software versioning ([XKCD](https://xkcd.com/1296/))_
 
 
 Accomplishments
