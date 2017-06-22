@@ -177,8 +177,8 @@ chooses to do so. The most popular service to do so is [GitHub](http://github.co
 it has gained great popularity, not just for collaboratively managing software source code versions,
 but also (as noted above), plain text manuscript files and small data files. In fact, the materials
 you are navigating now (text, images, PDFs, and so on) are also being assembled and developed 
-collaboratively in a repository on GitHub. As an exercise, have a look at [this change]() in the
-repository.
+collaboratively in a repository on GitHub. As an exercise, have a look at 
+[this change](https://github.com/Pfern/RODS17/commit/d16e088) in the repository.
 
 The `git` protocol and the extra facilities provided by GitHub are very flexible and far-ranging. 
 To learn more about the specific application of these tools in biology, here is a publication you 
