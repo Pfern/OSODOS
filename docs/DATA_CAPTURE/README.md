@@ -42,15 +42,18 @@ will not be uniform and tends to be worse at least at the end of each read. This
 that is tied to the measurement process. So, removing the tails of the reads, as much as removing traces from sequencing 
 adaptors, for example, is a normal task that lies in the hands of the experimentalist.
 
-Data from a sequencing run can be inspected with a widely used public tool called [FastQC] 
-(https://www.bioinformatics.babraham.ac.uk/projects/fastqc/) produced at the Babraham Institute, Cambridge, UK
+Data from a sequencing run can be inspected with a widely used public tool called **FastQC**
+https://www.bioinformatics.babraham.ac.uk/projects/fastqc/ produced at the Babraham Institute, Cambridge, UK
 
+A very good dataset can look like this:
+<a name="FastQC1">
+![Good](fastqc1.png)
+</a>
 
-<a name="FastQC1"></a>
-![A very good dataset can look like this:](fastqc1.png)
-
-<a name="FastQC2"></a>
-![A very bad dataset can look like this:](fastqc2.png)
+A very bad dataset can look like this:
+<a name="FastQC2">
+![Bad](fastqc2.png)
+</a>
 
 A program like FastQC can look at the dataset from a varietey of different perspectives, other than the above quality score 
 and allows the experimenter to find support fro accepting or rejecting a dataset and also to diagnose possible sources of
