@@ -44,8 +44,10 @@ hand. To automate this, numerous options exist. Here are some of the obvious, co
   series of program operations automatically. On many operating systems, shell programming is flexible 
   enough to accommodate simple conditionals ("do this if that is true") and loops ("do this for all files"), 
   which could easily be all you need if all the complex logic is encapsulated with the software tools
-  you are using.
-- **make tools** - one step up in terms of syntax is to use tools like `make`. Originally developed for
+  you are using. A very good for shell scripting on OSX and UNIX-like operating systems is
+  [here](http://tldp.org/LDP/abs/html/).
+- **make tools** - one step up in terms of syntax is to use tools like [make](https://en.wikipedia.org/wiki/Make_(software)). 
+  Originally developed for
   compiling software, `make` (and tools like it) also issue invocations on the command line, but they
   are more intelligent in handling dependencies between steps (i.e. step B can only be invoked if
   step A has completed successfully) and allow you to label intermediate steps so that you can run
