@@ -54,10 +54,14 @@ A very good dataset can look like this:
 
 <a name="FQC2" ></a> 
 ![A very bad dataset can look like this: ](fastqc2.png)
+_A very bad dataset can look like this_
 
+<a name="ss2"></a>
+![Example 2, example output of the "Welcome to Python" notebook](SS2.png)
+_Example 2 (ss2) - example output of the modified "Welcome to Python" notebook._
 
 A program like FastQC can look at the dataset from a varietey of different perspectives, other than the above quality score 
-and allows the experimenter to find support fro accepting or rejecting a dataset and also to diagnose possible sources of
+and allows the experimenter to find support for accepting or rejecting a dataset and also to diagnose possible sources of
 disturbance, figuring out strategies to clean it up and checking for the effectiveness of such clean-up processes.
 
 The above example shows an instance of data capture where, because we have large datasets in hands, a statistical assessment
