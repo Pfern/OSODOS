@@ -45,9 +45,12 @@ adaptors, for example, is a normal task that lies in the hands of the experiment
 Data from a sequencing run can be inspected with a widely used public tool called [FastQC] 
 (https://www.bioinformatics.babraham.ac.uk/projects/fastqc/) produced at the Babraham Institute, Cambridge, UK
 
-A very good dataset can look like this:
 
-A very bad dataset can look like this:
+<a name="FastQC1"></a>
+![A very good dataset can look like this:](fastqc1.png)
+
+<a name="FastQC2"></a>
+![A very bad dataset can look like this:](fastqc2.png)
 
 A program like FastQC can look at the dataset from a varietey of different perspectives, other than the above quality score 
 and allows the experimenter to find support fro accepting or rejecting a dataset and also to diagnose possible sources of
