@@ -53,7 +53,7 @@ A very good dataset can look like this:
 ![fastqc1](fastqc-1.png)
 
 
-A very bad dataset can look like this:
+Whereas a very bad dataset may look like this:
 <a name="fastqc2" ></a> 
 ![fastqc2](fastqc-2.png)
 
@@ -76,6 +76,4 @@ standardisation, consortia have worked on the definition of stanadrdised ways of
 their summarised information to minimum sets of descriptors. Here are some examples  of such specifications:
 
 Minimum information about a microarray experiment (MIAME) https://www.nature.com/ng/journal/v29/n4/pdf/ng1201-365.pdf
-The minimum information about a proteomics experiment (MIAPE) https://www.nature.com/nbt/journal/v25/n8/pdf/nbt1329.pdf
-
-
+The minimum information about a proteomics experiment (MIAPE) https://www.nature.com/nbt/journal/v25/n8/pdf/nbt1329.pdf 
