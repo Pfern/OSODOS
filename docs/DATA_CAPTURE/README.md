@@ -26,6 +26,9 @@ not only to the Data Collection act but also to the its futher movements between
 Provenance may or not entail ownership and licensing of its use. If the appropriate steps, as will be explained below, 
 are taken, authenticated provenance implies authorship. 
 
+To dig further, here is an interesting document about Data Provenance:
+Data Provenance: Some Basic Issues http://db.cis.upenn.edu/DL/fsttcs.pdf
+
 When Data Collection is performed via a service of some kind, such as the work from a Core Facility or Analytics 
 provider, even more care must be put into fully describing the provenance. The reliability of a good provider is
 measurable, as described in the REPRODUCIBILTY part of this course. This should not be confused with the reliability of 
@@ -46,14 +49,16 @@ Data from a sequencing run can be inspected with a widely used public tool calle
 Institute, Cambridge, UK. A very useful tutorial is provided at: https://www.bioinformatics.babraham.ac.uk/projects/fastqc/ 
 
 A very good dataset can look like this:
-<a name="FastQC1">
-![] fastqc1.png
-</a>
+<a name="FastQC1"></a>
+![FastQC1] fastqc1.png
 
-A very bad dataset can look like this: <a name="FastQC2" > fastqc2.png </a>
+<a name="fastqc2" ></a> 
+![A very bad dataset can look like this: ](fastqc2.png)
+_A very bad dataset can look like this_
+
 
 A program like FastQC can look at the dataset from a varietey of different perspectives, other than the above quality score 
-and allows the experimenter to find support fro accepting or rejecting a dataset and also to diagnose possible sources of
+and allows the experimenter to find support for accepting or rejecting a dataset and also to diagnose possible sources of
 disturbance, figuring out strategies to clean it up and checking for the effectiveness of such clean-up processes.
 
 The above example shows an instance of data capture where, because we have large datasets in hands, a statistical assessment
@@ -73,5 +78,4 @@ their summarised information to minimum sets of descriptors. Here are some examp
 Minimum information about a microarray experiment (MIAME) https://www.nature.com/ng/journal/v29/n4/pdf/ng1201-365.pdf
 The minimum information about a proteomics experiment (MIAPE) https://www.nature.com/nbt/journal/v25/n8/pdf/nbt1329.pdf
 
-Data Provenance: Some Basic Issues http://db.cis.upenn.edu/DL/fsttcs.pdf
 
