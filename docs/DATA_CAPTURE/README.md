@@ -20,35 +20,34 @@ table becomes artificially dependent from other recorded information in the lab-
 from it with a simple annotation mistake. Highly dangerous, yet quite common practice. Worse than just 
 being bad, it can "look" good, misleadingly!
 
-In Data Science, the the WWWH question is usually referred to as **provenance**. Provenance in data is tied 
-not only to the Data Collection act but also to the its futher movements between databases. 
+### Data provenance
+In Data Science, the the WWWH question is usually referred to as _provenance_. Provenance in data is tied 
+not only to the Data Collection act but also to the its futher movements between databases. Provenance may or 
+not entail ownership and licensing of its use. If the appropriate steps, as will be explained below, are taken, 
+authenticated provenance implies authorship. To dig further, here is an interesting document about Data Provenance: 
 
-Provenance may or not entail ownership and licensing of its use. If the appropriate steps, as will be explained below, 
-are taken, authenticated provenance implies authorship. 
-
-To dig further, here is an interesting document about Data Provenance: "
-Data Provenance: Some Basic Issues"  by
-Peter Buneman, Sanjeev Khanna, and Wang-Chiew Tan: http://db.cis.upenn.edu/DL/fsttcs.pdf 
+**Buneman P., Khanna S., and Tan, W.-C.** Data Provenance: Some Basic Issues http://db.cis.upenn.edu/DL/fsttcs.pdf 
  
-
 When Data Collection is performed via a service of some kind, such as the work from a Core Facility or Analytics 
 provider, even more care must be put into fully describing the provenance. The reliability of a good provider is
-measurable, as described in the REPRODUCIBILTY part of this course. This should not be confused with the reliability of 
-a specific set of measurements. Here the evaluation of data quality should be intrinsic to each dataset, and taken into 
-consideration in the analytical steps that follow.
+measurable, as described in the [reproducibility](../REPRODUCIBILTY) part of this course. This should not be confused 
+with the reliability of a specific set of measurements. Here the evaluation of data quality should be intrinsic to 
+each dataset, and taken into consideration in the analytical steps that follow.
 
 For example, in a sequencing project, the final preparation of the samples and the actual running of the sequencing 
 job is not usually in the hands of the experimentalist, and is handled by service personnel in a facility. The results 
 of a sequencing run are usually handed to the requester via a usually large amount of files, either in a folder deposited 
 in a server or in a hard disk that can be shipped. Either way care is taken to use standardised formats and keep data 
 integrity. The fist thing that the experimenter should do is assess data quality and decide on a strategy to accept or
-rejecty records and to clean-up the artifacts. In sequencing data, whichever instrumental platform is used, data quality 
-will not be uniform and tends to be worse at least at the end of each read. This is the result of a natural penomenon 
-that is tied to the measurement process. So, removing the tails of the reads, as much as removing traces from sequencing 
-adaptors, for example, is a normal task that lies in the hands of the experimentalist.
+rejecty records and to clean-up the artifacts. 
 
-Data from a sequencing run can be inspected with a widely used public tool called **FastQC** produced at the Babraham 
-Institute, Cambridge, UK. A very useful tutorial is provided at: https://www.bioinformatics.babraham.ac.uk/projects/fastqc/ 
+### Data quality in DNA sequencing
+In sequencing data, whichever instrumental platform is used, data quality will not be uniform and tends to be worse at least 
+at the end of each read. This is the result of a natural penomenon that is tied to the measurement process. So, removing 
+the tails of the reads, as much as removing traces from sequencing adaptors, for example, is a normal task that lies in the 
+hands of the experimentalist. Data from a sequencing run can be inspected with a widely used public tool called **FastQC** 
+produced at the Babraham Institute, Cambridge, UK. A very useful tutorial is provided at: 
+https://www.bioinformatics.babraham.ac.uk/projects/fastqc/ 
 
 A very good dataset can look like this:
 <a name="fastqc1"></a>
@@ -72,6 +71,7 @@ at different times and via different routes. It is very different if samples are
 different checking and calibrtation routines. In such cases, finding commonality is an issue, uncontrollable sources of variation 
 in measurements can occur, even if we are only measuring weight with a scale or length with a ruler!
 
+### Minimal information standards
 In cooperative work, the need for adoption of standards and formats is even higher and simple things like the reliable time 
 stamping of the datasets can serously compromise the accreditation of datasets. Likewise, as the result of serious efforts in 
 standardisation, consortia have worked on the definition of stanadrdised ways of describing experiments, and managed to reduce 

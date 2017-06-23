@@ -29,10 +29,13 @@ The example of the Open Knowledge Maps tool showed a very powerful technique tha
 a great deal of rigour in composing your search terms: the tool did it for you. Under some circumstances, for
 example once you have learned more about the terminology used in a particular field, you may instead want to be
 more precise and specific and use commonly agreed-upon terms with an accepted meaning. One example of this
-is in the medical field, where so-called MeSH (medical subject headings) terms are commonly used in composing
-search queries in the medical literature. Each MeSH term is defined in a 
-[controlled vocabulary](https://en.wikipedia.org/wiki/Controlled_vocabulary) and its meaning(s) organised by 
-the higher concept(s) it belongs to. By perusing the concept hierarchy for the MeSH term 
+is in the medical field, where so-called MeSH (Medical Subject Headings) terms are commonly used in composing
+search queries in the medical literature. 
+
+### Medical Subject Headings (MeSH)
+MeSH terms are defined in a 
+[controlled vocabulary](https://en.wikipedia.org/wiki/Controlled_vocabulary) and their meanings organised by 
+the higher concepts they belong to. For example, by perusing the concept hierarchy for the MeSH term 
 [DNA Barcoding, Taxonomic](https://www.ncbi.nlm.nih.gov/mesh/68058893), we discover there are actually two meanings:
 
 1. a technique for typing organisms by matching against a reference database of marker sequences, or
