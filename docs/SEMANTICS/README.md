@@ -150,12 +150,30 @@ taxon:[3702](http://ncbi.nlm.nih.gov/taxonomy/3702) along similar lines as was d
               481 ctttggttgc tacttgggcc gttgtttttt atgctttggc tttgtcttag ttgaaa
         //
 
+As we have seen, ontology terms can be embedded in data files in a variety of ways. Beyond the
+examples shown here, there are also 
+[open data formats](https://en.wikipedia.org/wiki/Resource_Description_Framework#Serialization_formats) 
+that are explicitly designed for linking ontology terms (and data values) together in 
+[statements](https://www.w3.org/TR/2004/REC-rdf-concepts-20040210/#section-triples) about 
+the world. This is a technique that is intended to link distributed data together on the 
+"[semantic web](https://en.wikipedia.org/wiki/Semantic_Web)", which, although very powerful, 
+is not necessarily something you have to aim for if your goal is simply to adopt common 
+terminology within existing data files.
+
+Irrespective of your specific reasons for wanting to use ontology terms, the 
+[growing number of ontologies](https://bioportal.bioontology.org/) complicates choosing
+the right one. It may therefore be useful to read the following article:
+
+**Malone, J. et al.** 2016. Ten simple rules for selecting a bio-ontology. _PLoS Computational Biology_
+12(2):e1004743 [[pdf](journal.pcbi.1004743.PDF)] doi:[10.1371/journal.pcbi.1004743](http://doi.org/10.1371/journal.pcbi.1004743)
 
 Accomplishments
 ---------------
-- You should be persuaded to tidily structure your data
-- You should know to use open, simple data formats
-- You should understand the purpose of ontologies and controlled vocabularies
-- You should know some common techniques for how ontology terms are included in data files
+In this section we have discussed some of the pitfalls in assembling tidy data sets that can be
+shared and integrated with others. You should now:
+- Be persuaded to tidily structure your data
+- Know to use open, simple data formats
+- Understand the purpose of ontologies and controlled vocabularies
+- Know some common techniques for how ontology terms are included in data files
 
 
