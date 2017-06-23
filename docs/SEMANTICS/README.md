@@ -84,7 +84,7 @@ the column headers then become [dwc:decimalLongitude](https://terms.tdwg.org/wik
 
 Useful ontologies and controlled vocabularies
 ---------------------------------------------
-Many databases have started to adopt terms from ontologies to annotate records with. We have already seen
+Many databases have started to adopt terms from ontologies with which to annotate records. We have already seen
 how databases with species occurrences such as [GBIF](http://www.gbif.org/occurrence) uses 
 [DarwinCore](http://rs.tdwg.org/dwc) terms. Likewise, GenBank uses the 
 [Sequence Ontology](http://www.sequenceontology.org/) as the terminology for sequence features
@@ -92,6 +92,7 @@ such as the [CDS](http://www.sequenceontology.org/so_wiki/index.php/Category:SO:
 from the Gene Ontology for gene functions, such as 
 GO:[0006118](http://amigo.geneontology.org/amigo/term/GO:0006118) (electron transport) and
 GO:[0005507](http://amigo.geneontology.org/amigo/term/GO:0005507) (copper ion binding), in the record below.
+(Note, also, the [versioned](../VERSIONING#versioning-public-database-records) accession number.)
 
         LOCUS       BT022039                 536 bp    mRNA    linear   PLN 03-MAY-2005
         DEFINITION  Arabidopsis thaliana At1g22480 gene, complete cds.
