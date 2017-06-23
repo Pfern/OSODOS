@@ -61,10 +61,10 @@ or [sharing](../DATA_SHARING) will likely also not display the data correctly.
 
 But what does it all mean?
 --------------------------
-The "tidy" data advice is good, but it is incomplete. Whereas the change from `weight` and `length` to
-`weight_kg` and `length_cm` is an improvement, the encoding of the latitude and longitude coordinates
-in the "tidy" version still omits crucial information: geographic coordinates can be expressed in different
-units (e.g. in minutes and seconds, or in decimal values), and it is not made explicit which one is 
+The advice to tidy your data and store it in an open file format is good, but it is incomplete. Whereas the change 
+from `weight` and `length` to `weight_kg` and `length_cm` is an improvement, the encoding of the latitude and 
+longitude coordinates in the "tidy" version still omits crucial information: geographic coordinates can be expressed 
+in different units (e.g. in minutes and seconds, or in decimal values), and it is not made explicit which one is 
 used, i.e. the semantics are still somewhat unclear. To address this, we might pick something like
 `longitude_decimal` and `latitude_decimal`, but this, like the other column headers, is actually an 
 arbitrary choice: maybe my colleague uses `decimal_longitude` or `longitude_dec`, which would 
