@@ -52,8 +52,9 @@ format readable by fewer programs than a plain text format such as
 the data can be re-used without further conversion, the risk that your data will be unintentionally altered 
 (corrupted) by Excel is very real:
 [gene name errors (because of this) are widespread in the scientific literature](http://doi.org/10.1186/s13059-016-1044-7).
+
 The point of structuring your data in "tidy" form as tabular, plain text will be immediately obvious once you 
-(or a collaborator) tries to analyse the data by including it, for example, in a 
+(or your collaborators, or people using your data) try to analyse the data by including it, for example, in a 
 [computational analysis workflow](../WORKFLOWS): software such as the R environment for statistical computing,
 will simply refuse to read untidy data correctly, and your chosen platform for data [versioning](../VERSIONING) 
 or [sharing](../DATA_SHARING) will likely also not display the data correctly.
