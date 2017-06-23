@@ -23,7 +23,10 @@ called quality assurance (QA). Industrial production has needed it, in many aspe
 requested very large contributions from statisticians and enginners. Quality assurance is strongly related to qualilty control 
 (QC) but is not quite the same: QC refers to the detection and evaluation of faults or disturbances, while QA refers to the 
 planning and execution of measures to prevent failures and to respond to their consequences. In many cases it relies on reports 
-from QC. This why one often finds QA and QC together in the same process (QA/QC).
+from QC. This why one often finds QA and QC together in the same process (QA/QC). An interesting exploration of the meaning of 
+the two terms can be found here:
+
+http://www.onquality.info/2011/10/difference-between-qa-and-qc.html/
 
 Standardised QA/QC procedures allow for **intercalibration**, a generic way of referrring to experiments performed in 
 reproducible circumstances in different laboratories or facilities. This is a common way of guaranteeing that quality is not 
