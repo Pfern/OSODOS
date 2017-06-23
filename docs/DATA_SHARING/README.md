@@ -1,5 +1,6 @@
 
-#Data Sharing in the scientific community#
+Data Sharing in the scientific community
+========================================
 
 Collaboration is a natural, essential element in research. Sharing of resources amongst scientists should be a lot easier than it 
 is, as it finds expected and unexpected barriers everywhere. It is also natural to expect that the more abstract objects are the 
@@ -16,7 +17,8 @@ the concerns that emerge from mixing different policies and resulting restrictio
 Standards, databases, policies about data sharing are quite comprehensively compiled by the BioSharing team at https://biosharing.org/
 
 
-#Choosing a platform#
+Choosing a platform
+-------------------
 In what concerns platforms to share various types of data, a researcher has access to a reasonable amount of choice. At 
 present (June 2017), we invite you to explore a number of repositories. Often they are complemented with a series of services 
 that offer some specific advantages, such las linking to publications, providing licensing options, offering digital object identifiers 
@@ -36,11 +38,13 @@ institutions to easily adhere to these principles in the most intuitive and effi
 
 https://figshare.com/
 
-#General list of repositories#
+General list of repositories
+----------------------------
 Nature publishes an online resource at https://www.nature.com/sdata/policies/repositories that
 pints to a large variety of repositories 
 
-#Repositories, Licensing, Attribution and Openness#
+Repositories, Licensing, Attribution and Openness
+-------------------------------------------------
 Data made available via open repositories enables a series of attractive opportunities for researchers. First, the opportunity for 
 attaching an attribution to the work of capturing, storing and curating data. Credit is assigned to the depositor following well 
 established and understod rules, in general one of the variants of the Creative Commons licensing scheme https://creativecommons.org/licenses/ 
