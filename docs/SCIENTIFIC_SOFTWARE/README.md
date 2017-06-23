@@ -15,7 +15,10 @@ plain text files. Programs that are intended for composing prose and tables for 
 Word and Excel) are wholely unsuitable for operating on such text files: they might do things such as automatically 
 convert "simple" quotes to “smart” ones, which might invalidate your data; convert between different, local 
 conventions for decimal points, which are commas in some countries; attempt to run spell checks on data, which 
-clutters the screen with useless information; attempt to export to proprietary file formats. The first, right tool to
+clutters the screen with useless information; attempt to export to proprietary file formats. 
+
+### Text editors
+Because of the aforementioned problems with using word processors to edit plain text, the first, right tool to
 either locate on your computer or install if it isn't there, is a [text editor](https://en.wikipedia.org/wiki/Text_editor).
 There are good, free, lighweight editors for every operating system, for example:
 
@@ -31,6 +34,7 @@ output data files, configuration files, as well as source code - a text editor w
 tool for the job will be an [integrated development environment](https://en.wikipedia.org/wiki/Integrated_development_environment)
 or IDE.
 
+### IDEs
 An IDE allows you to organise sets of files into projects such that the dependencies between the files are managed. An
 IDE will typically have a deeper understanding of the programming language you are using, so that it may spot problematic
 syntax and logic errors, and may suggest functions and variables for code completion. Also, an IDE will allow you to execute
@@ -74,33 +78,37 @@ research method and so should be transparent in order to be reproducible; or, be
 funded publicly, it should be freely available) but there are also very practical, self-interested reasons for adopting 
 open source. The main ones of these are that it allows you to build on the shoulders of others, e.g. by re-using software
 components developed and published by others, and that it allows you, in turn, to have greater impact with your work, 
-because others will use it (and cite it) in turn. To participate in open source developments, here are some of the main
-aspects to consider:
+because others will use it (and cite it) in turn. To participate in open source developments, here we discuss some of the 
+main aspects to consider.
 
-- **Community conventions** - Every community of open source developers, whether it's a community centred around a 
-  programming language (say, Perl) or a problem domain (like bioinformatics) has its own conventions. Some of these may
-  be well-considered and useful, such as documentation standards, while others may be somewhat arbitrary, such as 
-  debates about what is or is not "pythonic" - while some community conventions might even be actively harmful, like 
-  the perverse pleasure in writing deliberately cryptic, obfuscated code. If you want to start contributing to a community,
-  learn about the conventions that have been adopted, especially insofar as they affect collaboration. For example, learn
-  what is expected of a software package that you plan to contribute: how do the files need to be organised? How does the
-  code need to be structured? Are there specific [design patterns](https://en.wikipedia.org/wiki/Software_design_pattern) 
-  that ought to be followed? 
-- **Rights and licenses** - Open source software is also referred to as "free software". This does not just mean in the 
-  sense of "free beer", i.e. at no cost, but also - more importantly - in the sense of "free speech". In other words, open 
-  source has to do with the rights of people to intellectual property. These rights are defined in software licenses, and 
-  they are relevant to developers because they both concern what you can do with the software developed by others (e.g., 
-  under what conditions, commercial or otherwise, can you re-use somebody else's source code) and what others can do with 
-  the source code that you write. Whereas the [creative commons](https://creativecommons.org/) licenses are typically used 
-  for works such as images, text (including scholarly publications) and data sets, open source software is usually released 
-  under one of the licenses recognised by the [open source initiative](https://opensource.org/).
-- **Responsive communication** - Collaborative development and participation in a community also means to respond to feedback 
-  from others at every stage of the development cycle. When you are first planning a software tool or a computational workflow
-  you will need to [learn what your collaborators think the requirements are](https://en.wikipedia.org/wiki/Requirements_elicitation);
-  when you have a prototype or an early version you may need to 
-  [adjust your approach in response to early user testing](https://en.wikipedia.org/wiki/Agile_software_development); once
-  you have released something you may need to [manage and address issues](https://en.wikipedia.org/wiki/Issue_tracking_system) 
-  reported by users.
+### Community conventions
+Every community of open source developers, whether it's a community centred around a programming language or a problem 
+domain (like bioinformatics), has its own conventions. Some of these may be well-considered and useful, such as documentation 
+standards, while others may be somewhat arbitrary, such as debates about what is or is not "pythonic" - while some community 
+conventions might even be actively harmful, like the perverse pleasure in writing deliberately cryptic, obfuscated code. If 
+you want to start contributing to a community, learn about the conventions that have been adopted, especially insofar as they 
+affect collaboration. For example, learn what is expected of a software package that you plan to contribute: how do the files 
+need to be organised? How does the code need to be structured? Are there specific 
+[design patterns](https://en.wikipedia.org/wiki/Software_design_pattern) that ought to be followed? 
+
+### Rights and licenses
+Open source software is also referred to as "free software". This does not just mean in the sense of "free beer", i.e. at no 
+cost, but also - more importantly - in the sense of "free speech". In other words, open source has to do with the rights of 
+people to intellectual property. These rights are defined in software licenses, and they are relevant to developers because 
+they both concern what you can do with the software developed by others (e.g., under what conditions, commercial or otherwise, 
+can you re-use somebody else's source code) and what others can do with the source code that you write. Whereas the 
+[creative commons](https://creativecommons.org/) licenses are typically used for works such as images, text (including scholarly 
+publications) and data sets, open source software is usually released under one of the licenses recognised by the 
+[open source initiative](https://opensource.org/).
+
+### Responsive communication
+Collaborative development and participation in a community also means to respond to feedback from others at every stage of the 
+development cycle. When you are first planning a software tool or a computational workflow you will need to 
+[learn what your collaborators think the requirements are](https://en.wikipedia.org/wiki/Requirements_elicitation);
+when you have a prototype or an early version you may need to 
+[adjust your approach in response to early user testing](https://en.wikipedia.org/wiki/Agile_software_development); once
+you have released something you may need to [manage and address issues](https://en.wikipedia.org/wiki/Issue_tracking_system) 
+reported by users.
 
 Some of the challenges of working collaboratively can at least partly be addressed (or facilitated) by technology. Specifically,
 collaborating on anything that changes over time, whether a manuscript, data, or source code, can be facilitated by technologies
