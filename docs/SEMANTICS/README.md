@@ -66,7 +66,7 @@ in the "tidy" version still omits crucial information: geographic coordinates ca
 units (e.g. in minutes and seconds, or in decimal values), and it is not made explicit which one is 
 used, i.e. the semantics are still somewhat unclear. To address this, we might pick something like
 `longitude_decimal` and `latitude_decimal`, but this, like the other column headers, is actually an 
-an arbitrary choice: maybe my colleague uses `decimal_longitude` or `longitude_dec`, which would 
+arbitrary choice: maybe my colleague uses `decimal_longitude` or `longitude_dec`, which would 
 be a nightmare if we try to merge our tables automatically in a script that is not programmed to "know"
 that these are equivalent. We need to agree on a common terminology for this.
 
