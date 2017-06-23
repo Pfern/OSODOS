@@ -60,7 +60,26 @@ or [sharing](../DATA_SHARING) will likely also not display the data correctly.
 
 But what does it all mean?
 --------------------------
+The "tidy" data advice is good, but it is incomplete. Whereas the change from `weight` and `length` to
+`weight_kg` and `length_cm` is an improvement, the encoding of the latitude and longitude coordinates
+in the "tidy" version still omits crucial information: geographic coordinates can be expressed in different
+units (e.g. in minutes and seconds, or in decimal values), and it is not made explicit which one is 
+used, i.e. the semantics are still somewhat unclear. To address this, we might pick something like
+`longitude_decimal` and `latitude_decimal`, but this, like the other column headers, is actually an 
+an arbitrary choice: maybe my colleague uses `decimal_longitude` or `longitude_dec`, which would 
+be a nightmare if we try to merge our tables automatically in a script that is not programmed to "know"
+that these are equivalent. We need to agree on a common terminology for this.
 
+Common terminologies expressed as structured data in open file formats are called 
+[ontologies](https://en.wikipedia.org/wiki/Ontology_(information_science)) and
+[controlled vocabularies](https://en.wikipedia.org/wiki/Controlled_vocabulary). In the life sciences,
+numerous of these ontologies and controlled vocabularies have been and are being developed for the jargon
+of different subdomains. For example, a suitable controlled vocabulary for the terms involved in recording
+[species occurrences](http://www.gbif.org/occurrence) is the [DarwinCore](http://rs.tdwg.org/dwc), which 
+has terms for geographical coordinates in decimal form. If we choose to use these terms, we specify the 
+vocabulary that they came from by a prefix (`dwc:`, which identifies the DarwinCore vocabulary), so that 
+the column headers then become [dwc:decimalLongitude](https://terms.tdwg.org/wiki/dwc:decimalLongitude) and 
+[dwc:decimalLatitude](https://terms.tdwg.org/wiki/dwc:decimalLatitude).
 
 Examples of useful ontologies and controlled vocabularies
 ---------------------------------------------------------
@@ -76,5 +95,7 @@ Accomplishments
 ---------------
 - You should be persuaded to tidily structure your data
 - You should know to use open, simple data formats
+- You should understand the purpose of ontologies and controlled vocabularies
+- You should know some common techniques for including ontology terms in data files
 
 
