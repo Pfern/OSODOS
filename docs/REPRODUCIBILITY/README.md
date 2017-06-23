@@ -15,6 +15,20 @@ societies have studied ways of figthing the lack of reproducibility and issued r
 https://www.asm.org/index.php/colloquium-reports/item/4510-promoting-responsible-scientific-research). Within the 
 recommendation, training is clearly a priority, at various levels.
 
+In the scope of this course, the concerns are naturally focused on data. Reproducibily while handligg data is probably easier 
+to deal with. In a laboratory that produces measurements one needs to deal with instruments that exibit drifts and require 
+a variety of standardisation interventions that we generically call calibratons and controls. A good laboratory service kkeps a 
+flawless track of those, and becomes capable of responding to auditing operations at any time. The whole procedure is often 
+called quality assurance (QA). Industrial production has needed it, in many aspects, ahead of the research world. It has 
+requested very large contributions from statisticians and enginners. Quality assurance is strongly related to qualilty control 
+(QC) but is not quite the same: QC refers to the detection and evaluation of faults or disturbances, while QA refers to the 
+planning and execution of measures to prevent failures and to respond to their consequences. In many cases it relies on reports 
+from QC. This why one often finds QA and QC together in the same process (QA/QC).
+
+People concerned with data quality can find a lot of support from the accumulated knowledge and methodological developments in 
+this field. 
 
 
 
+
+ 
