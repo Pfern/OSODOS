@@ -193,6 +193,7 @@ of these tools in biology, here is a publication you might find useful:
 _PLoS Computational Biology_ 12(7):e1004947 [[pdf](Ten_simple_rules_for_taking_advantage_of_Git_and_GitHub.PDF)]
 doi:[10.1371/journal.pcbi.1004947](http://doi.org/10.1371/journal.pcbi.1004947)
 
+## Version numbers
 Managing software source code (and other files) in a version control system such as `git`, and 
 taking advantage of the additional facilities for continuous integration, automated testing, and
 collaborating in the open source spirit (as discussed in the section on 
