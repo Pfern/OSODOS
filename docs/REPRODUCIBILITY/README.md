@@ -30,13 +30,14 @@ reproducible circumstances in different laboratories or facilities. This is a co
 assessed differently, therefore facilities can rely on quality to the point of being able to replace each other if needed, when 
 for example there is an imbalance in measurement capacity that can be occasionally used to correct overloads of requests.
 
-
 People concerned with data quality can find a lot of support from the accumulated knowledge and methodological developments in 
-this field. Using QA/QC procedures to monitor data quality widens the comfort zone for the researcher, who neds to be concerned 
-with the way in which experiments are planned, samples are collected and grouped, etc.
+this field. Using QA/QC procedures to monitor data quality widens the comfort zone for the researcher, who needs to be concerned 
+with the way in which experiments are planned, samples are collected and grouped, etc. Deciding on which (experimental and 
+technical) and how many replicates are needed requires statistical skills that are very often below the required level.  
 
- 
-
+Here are two tutorials that can be helpful:
+https://www.moresteam.com/toolbox/design-of-experiments.cfm
+https://www.asm.org/index.php/colloquium-reports/item/4510-promoting-responsible-scientific-research
 
 
 
