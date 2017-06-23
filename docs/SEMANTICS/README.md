@@ -1,5 +1,5 @@
-Be explicit about what you mean in your data, and use common terminology and standards
-======================================================================================
+How to be explicit about what you mean in your data and use common terminology and standards
+============================================================================================
 In a number of locations in these pages we refer to cases where there is a common understanding
 among stakeholders of the meaning of certain terms. For example, in discussing 
 [community conventions in open source software development](../SCIENTIFIC_SOFTWARE#community-conventions),
@@ -90,9 +90,11 @@ how databases with species occurrences such as [GBIF](http://www.gbif.org/occurr
 [Sequence Ontology](http://www.sequenceontology.org/) as the terminology for sequence features
 such as the [CDS](http://www.sequenceontology.org/so_wiki/index.php/Category:SO:0000316_%21_CDS), and terms 
 from the Gene Ontology for gene functions, such as 
-GO:[0006118](http://amigo.geneontology.org/amigo/term/GO:0006118) (electron transport) and
-GO:[0005507](http://amigo.geneontology.org/amigo/term/GO:0005507) (copper ion binding), in the record below.
-(Note, also, the [versioned](../VERSIONING#versioning-public-database-records) accession number.)
+GO:[0006118](http://amigo.geneontology.org/amigo/term/GO:0006118) _electron transport_ and
+GO:[0005507](http://amigo.geneontology.org/amigo/term/GO:0005507) _copper ion binding_, in the record below.
+(Note, also, the [versioned](../VERSIONING#versioning-public-database-records) accession number `BT022039.1`
+and the way in which the taxon is anchored to an online taxonomy as 
+taxon:[3702](http://ncbi.nlm.nih.gov/taxonomy/3702) along similar lines as was done in the "tidy" data example.)
 
         LOCUS       BT022039                 536 bp    mRNA    linear   PLN 03-MAY-2005
         DEFINITION  Arabidopsis thaliana At1g22480 gene, complete cds.
