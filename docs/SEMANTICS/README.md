@@ -82,21 +82,77 @@ vocabulary that they came from by a prefix (`dwc:`, which identifies the DarwinC
 the column headers then become [dwc:decimalLongitude](https://terms.tdwg.org/wiki/dwc:decimalLongitude) and 
 [dwc:decimalLatitude](https://terms.tdwg.org/wiki/dwc:decimalLatitude).
 
-Examples of useful ontologies and controlled vocabularies
----------------------------------------------------------
-- [Gene name](http://www.genenames.org/cgi-bin/gene_symbol_report?hgnc_id=7419)
-- [Sequence Ontology](http://www.sequenceontology.org/)
-- Gene Ontology
-- DarwinCore vocabulary
-- DublinCore vocabulary
-- MeSH terms
-- ISA
+Useful ontologies and controlled vocabularies
+---------------------------------------------
+Many databases have started to adopt terms from ontologies to annotate records with. We have already seen
+how databases with species occurrences such as [GBIF](http://www.gbif.org/occurrence) uses 
+[DarwinCore](http://rs.tdwg.org/dwc) terms. Likewise, GenBank uses the 
+[Sequence Ontology](http://www.sequenceontology.org/) as the terminology for sequence features
+such as the [CDS](http://www.sequenceontology.org/so_wiki/index.php/Category:SO:0000316_%21_CDS), and terms 
+from the Gene Ontology for gene functions, such as 
+GO:[0006118](http://amigo.geneontology.org/amigo/term/GO:0006118) (electron transport) and
+GO:[0005507](http://amigo.geneontology.org/amigo/term/GO:0005507) (copper ion binding), in the record below.
+
+        LOCUS       BT022039                 536 bp    mRNA    linear   PLN 03-MAY-2005
+        DEFINITION  Arabidopsis thaliana At1g22480 gene, complete cds.
+        ACCESSION   BT022039
+        VERSION     BT022039.1
+        KEYWORDS    FLI_CDNA.
+        SOURCE      Arabidopsis thaliana (thale cress)
+          ORGANISM  Arabidopsis thaliana
+                    Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+                    Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+                    Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+                    Camelineae; Arabidopsis.
+        REFERENCE   1  (bases 1 to 536)
+          AUTHORS   Cheuk,R., Chen,H., Kim,C.J., Shinn,P. and Ecker,J.R.
+          TITLE     Arabidopsis ORF clones
+          JOURNAL   Unpublished
+        REFERENCE   2  (bases 1 to 536)
+          AUTHORS   Cheuk,R., Chen,H., Kim,C.J., Shinn,P. and Ecker,J.R.
+          TITLE     Direct Submission
+          JOURNAL   Submitted (03-MAY-2005) Salk Institute Genomic Analysis Laboratory
+                    (SIGnAL), Plant Biology Laboratory, The Salk Institute for
+                    Biological Studies, 10010 N. Torrey Pines Road, La Jolla, CA 92037,
+                    USA
+        FEATURES             Location/Qualifiers
+             source          1..536
+                             /organism="Arabidopsis thaliana"
+                             /mol_type="mRNA"
+                             /db_xref="taxon:3702"
+                             /chromosome="1"
+                             /clone="S80220"
+                             /ecotype="Columbia"
+                             /note="This clone is in pUNI 51"
+             CDS             6..530
+                             /note="plastocyanin-like domain-containing protein
+                             go_function: copper ion binding [goid 0005507];
+                             go_process: electron transport [goid 0006118]"
+                             /codon_start=1
+                             /product="At1g22480"
+                             /protein_id="AAY25451.1"
+                             /translation="MSTLLGCLVLIFSMVAQASSASLTVNWSLGTDYTPLTTGKTFSV
+                             GDTIVFNYGAGHTVDEVSENDYKSCTLGNSITSDSSGTTTIALTTTGPRYFICGIPGH
+                             CAAGMKLAVTVASNSSNGVAGGTTTPTPFTGGGGGYNPTTTQAIPCAAWAVSCPLRAL
+                             VATWAVVFYALALS"
+        ORIGIN      
+                1 aaaatatgag cacacttctt ggttgtcttg tcctcatatt ctctatggtc gcacaggcct
+               61 catccgccag tcttacggtg aactggtccc ttggcaccga ctacactccg ctcaccactg
+              121 gaaagacctt ctctgtcggc gataccatag tgttcaatta tggtgcgggt cacacggtgg
+              181 atgaagtgag cgagaacgac tacaagagtt gcactctagg gaactccatt acgtccgaca
+              241 gcagcggaac cacgaccata gctctcacga ccactggtcc tcgctacttc atctgtggaa
+              301 tccccggcca ttgcgctgcc ggtatgaagc tcgcagtcac cgtcgcgtcg aactcttcaa
+              361 acggtgtagc tggtggcacc actacaccaa ccccattcac cggaggtggt ggtggttaca
+              421 atcccacgac cacacaggcc attccttgtg cggcttgggc cgtgtcctgt ccattacggg
+              481 ctttggttgc tacttgggcc gttgtttttt atgctttggc tttgtcttag ttgaaa
+        //
+
 
 Accomplishments
 ---------------
 - You should be persuaded to tidily structure your data
 - You should know to use open, simple data formats
 - You should understand the purpose of ontologies and controlled vocabularies
-- You should know some common techniques for including ontology terms in data files
+- You should know some common techniques for how ontology terms are included in data files
 
 
