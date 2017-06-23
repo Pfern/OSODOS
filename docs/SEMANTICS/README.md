@@ -26,7 +26,7 @@ through the literature or perusing online resources. A common approach is then t
 spreadsheet. In this, there are certainly tidy and untidy ways to do this.
 
 <a name="s1"></a>
-![Example 1, untidy versus tidy data](journal.pcbi.1005097.g001.png)
+![Example 1, untidy versus tidy data](journal.pcbi.1005097.g001.PNG)
 
 Consider [example 1](#s1). _Dataset A is untidy because it mixes observational units (species, location of 
 observations, measurements about individuals), the units are mixed and listed with the observations, more 
