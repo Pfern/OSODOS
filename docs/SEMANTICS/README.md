@@ -1,5 +1,5 @@
-Be explicit about what you mean in your data, and use common terminology and standards
-======================================================================================
+How to be explicit about what you mean in your data and use common terminology and standards
+============================================================================================
 In a number of locations in these pages we refer to cases where there is a common understanding
 among stakeholders of the meaning of certain terms. For example, in discussing 
 [community conventions in open source software development](../SCIENTIFIC_SOFTWARE#community-conventions),
