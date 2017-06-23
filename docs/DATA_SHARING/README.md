@@ -40,14 +40,21 @@ https://figshare.com/
 
 General list of repositories
 ----------------------------
-Nature publishes an online resource at https://www.nature.com/sdata/policies/repositories that
-pints to a large variety of repositories 
+Nature publishes an online resource at https://www.nature.com/sdata/policies/repositories that points to a large variety of data 
+repositories.
 
-Repositories, Licensing, Attribution and Openness
--------------------------------------------------
+Licensing, Attribution and Openness in Data Repositories
+--------------------------------------------------------
 Data made available via open repositories enables a series of attractive opportunities for researchers. First, the opportunity for 
 attaching an attribution to the work of capturing, storing and curating data. Credit is assigned to the depositor following well 
-established and understod rules, in general one of the variants of the Creative Commons licensing scheme https://creativecommons.org/licenses/ 
+established and understod rules, in general one of the variants of the Creative Commons licensing scheme 
+https://creativecommons.org/licenses/ 
+
+Data sharing in this way also enables reuse and in particular reprocessing. This exposure of data to other resarchers, students and 
+the public is gaining popularity. It is obvious that others may find more from the same data by using different tools 
+with different parameter settings and options, and it is interesting to observe that it can be used preserving attribution. On the 
+other hand, the opportunities that arise when combining heterogeneous datasets may allow for important steps that would be much 
+more difficult otherwise. 
 
 
 
