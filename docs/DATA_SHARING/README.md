@@ -54,9 +54,7 @@ Data sharing in this way also enables reuse and in particular reprocessing. This
 the public is gaining popularity. It is obvious that others may find more from the same data by using different tools 
 with different parameter settings and options, and it is interesting to observe that it can be used preserving attribution. On the 
 other hand, the opportunities that arise when combining heterogeneous datasets may allow for important steps that would be much 
-more difficult otherwise. For example the identification of peptides in mass spectra is bound to benefit in reliability, and the gains 
-in downstream analysis from that extra reliability.
-
+more difficult otherwise. 
 
 
 
