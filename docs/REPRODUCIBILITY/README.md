@@ -25,8 +25,17 @@ requested very large contributions from statisticians and enginners. Quality ass
 planning and execution of measures to prevent failures and to respond to their consequences. In many cases it relies on reports 
 from QC. This why one often finds QA and QC together in the same process (QA/QC).
 
+Standardised QA/QC procedures allow for **intercalibration**, a generic way of referrring to experiments performed in 
+reproducible circumstances in different laboratories or facilities. This is a common way of guaranteeing that quality is not 
+assessed differently, therefore facilities can rely on quality to the point of being able to replace each other if needed, when 
+for example there is an imbalance in measurement capacity that can be occasionally used to correct overloads of requests.
+
+
 People concerned with data quality can find a lot of support from the accumulated knowledge and methodological developments in 
-this field. 
+this field. Using QA/QC procedures to monitor data quality widens the comfort zone for the researcher, who neds to be concerned 
+with the way in which experiments are planned, samples are collected and grouped, etc.
+
+ 
 
 
 
