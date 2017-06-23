@@ -37,7 +37,8 @@ the changes made by the collaborators one by one. With some luck, the merger of 
 still makes enough sense so that you can then work through it and accept or reject all 
 suggested changes.
 
-Needless to say, this way of managing change in a manuscript is not very satisfying. Numerous
+### Cloud solutions for collaborative writing 
+Needless to say, the off-line way of managing change in a Word is not very satisfying. Numerous
 approaches exist for collaborating on manuscripts "in the cloud" instead, but each has its
 own advantages and drawbacks. At time of writing, the following approaches can be helpful at
 least in some stages of manuscript drafting:
@@ -71,6 +72,7 @@ least in some stages of manuscript drafting:
   drawings, complex tables, etc. The one downside is that many of your collaborators will 
   find the syntax too daunting to deal with.
 
+### The scholarly publishing cycle
 Assuming you have figured out a way to work with your collaborators to draft a manuscript
 into a state you all agree is ready to be sent out into the world, the next question is then
 where it will go. It is becoming increasingly common in more and more of the natural sciences
