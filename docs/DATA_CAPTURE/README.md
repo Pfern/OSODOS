@@ -21,7 +21,7 @@ from it with a simple annotation mistake. Highly dangerous, yet quite common pra
 being bad, it can "look" good, misleadingly!
 
 ### Data provenance
-In Data Science, the the WWWH question is usually referred to as **provenance**. Provenance in data is tied 
+In Data Science, the the WWWH question is usually referred to as _provenance_. Provenance in data is tied 
 not only to the Data Collection act but also to the its futher movements between databases. Provenance may or 
 not entail ownership and licensing of its use. If the appropriate steps, as will be explained below, are taken, 
 authenticated provenance implies authorship. To dig further, here is an interesting document about Data Provenance: 
