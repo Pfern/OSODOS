@@ -137,6 +137,7 @@ is virtuous in a number of ways:
 
 _Example 3 (v3) - NGS data reduction and conversion ([gcoates](http://www.slideshare.net/gcoates/sharing-data-sanger-experiences))_
 
+### Versioning public database records
 Assuming sensible result data have been extracted, these will at some point be published in
 public repositories. Sometimes, this will be in a database for a specific research domain (like
 a DNA sequence database that issues public [accession numbers](https://support.ncbi.nlm.nih.gov/link/portal/28045/28049/Article/500/)),
