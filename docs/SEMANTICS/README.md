@@ -44,8 +44,8 @@ and length), information about "where", "when", and "what" animals were measured
 Using the tidy format makes this distinction clearer._ (reproduced from 
 [Hart et al., 2016](https://doi.org/10.1371/journal.pcbi.1005097))
 
-Assuming you follow this advice faithfully, your next decision will be what file format to store your data 
-in. Although you might be very productive in a spreadsheet editor such as Microsoft Excel, resist the
+Assuming you follow the advice from Hart et al. faithfully, your next decision will be what file format to store 
+your data in. Although you might be very productive in a spreadsheet editor such as Microsoft Excel, resist the
 temptation to store your data in Excel's proprietary file format (`.xls` or `.xlsx`). Not only is Excel 
 format readable by fewer programs than a plain text format such as 
 [tab-separated values](https://en.wikipedia.org/wiki/Tab-separated_values), which reduces the ways in which
