@@ -36,7 +36,9 @@ with the way in which experiments are planned, samples are collected and grouped
 technical) and how many replicates are needed requires statistical skills that are very often below the required level.  
 
 Here are two tutorials that can be helpful:
+
 https://www.moresteam.com/toolbox/design-of-experiments.cfm
+
 https://www.asm.org/index.php/colloquium-reports/item/4510-promoting-responsible-scientific-research
 
 
