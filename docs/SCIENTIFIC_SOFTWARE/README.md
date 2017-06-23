@@ -89,7 +89,9 @@ conventions might even be actively harmful, like the perverse pleasure in writin
 you want to start contributing to a community, learn about the conventions that have been adopted, especially insofar as they 
 affect collaboration. For example, learn what is expected of a software package that you plan to contribute: how do the files 
 need to be organised? How does the code need to be structured? Are there specific 
-[design patterns](https://en.wikipedia.org/wiki/Software_design_pattern) that ought to be followed? 
+[design patterns](https://en.wikipedia.org/wiki/Software_design_pattern) that ought to be followed? Conventions for 
+[package names and their meanings](https://pause.perl.org/pause/query?ACTION=pause_namingmodules) or for the keywords
+to use in [package descriptions](https://cran.r-project.org/doc/contrib/Leisch-CreatingPackages.pdf)?
 
 ### Rights and licenses
 Open source software is also referred to as "free software". This does not just mean in the sense of "free beer", i.e. at no 
