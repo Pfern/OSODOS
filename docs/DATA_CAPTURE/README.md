@@ -1,6 +1,6 @@
 
-This module will show you enhanced data capture techniques in order to produce reliable records
-===============================================================================================
+On how to enhance data capture techniques in order to produce more reliable records
+===================================================================================
 
 Capturing data in a laboratory is a daily operation that easily falls in routine chores. Something 
 that can be a way to pile-up habits, both good and bad. Good data capture habits result in organised 
