@@ -11,3 +11,5 @@ Modes of open access publishing
 
 About gold / green  OA
 
+About citations and other metrics
+---------------------------------
