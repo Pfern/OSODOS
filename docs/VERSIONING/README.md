@@ -15,7 +15,7 @@ Manuscript versioning
 
 _Example 1 (v1) - Manuscript versioning ([PhD comics](http://phdcomics.com/comics/archive.php?comicid=1531))_
 
-Even before a manuscript has been submitted for its first round of formal review it has 
+Even before a manuscript has been submitted for its first round of peer review it has 
 generally gone through [a disheartening number of versions](#v1). If you are writing a
 manuscript in a program such as Microsoft Word, you will probably want to adopt a system
 where the different versions of the manuscript are prefixed with the version's date in simple 
