@@ -167,23 +167,52 @@ be added to scientific articles by publishers:
   the infographic and its underlying data and analysis are available as Jupyter
   notebook.
 
-About citations and other metrics
+Getting cited and making it count
 ---------------------------------
-Once your article is published, and if you uploaded an earlier version to a 
-preprint server, you will now need to make sure that people using the DOI of 
-that preprint version will be able to locate the "final" version. This might 
-mean that the record on the preprint server will need to be updated to point to
-the "final" DOI. The cumbersome nature of the scholarly publishing cycle, with potentially 
-many versions floating around on cloud services, preprint servers, indexing databases and
-publisher websites, demonstrates the need for clear, unambiguous, globally unique 
-identifiability of manuscripts. The DOI was invented for this purpose, and tools such as
-reference managers (e.g. Mendeley) make use of it to locate the "correct" metadata associated
-with this article. The most important of these metadata is Your Name, because only if you are
-also uniquely identifiable will you get credited (e.g. cited) for your work (this is one of
-the reasons why systems such as [ORCID](https://en.wikipedia.org/wiki/ORCID) are in usage).
+The currency with which scientists recognise each other's work is citations. How
+to get cited? The best way to get cited is to do interesting, novel work. The
+next best way is to present your work in a clear and appealing way, using a good
+title, a clear abstract and the right keywords. Some content in your article may
+be discouraging, such as poor writing, or unnecessary but intimidating formulae.
+Other good ways to get cited are to make your article and any associated 
+[data](../DATA_SHARING) and [computational workflows](../WORKFLOWS) freely
+available: a 
+[recent study](https://figshare.com/articles/Nature_Communications_dataset/1108068) 
+showed that open access publications are cited more often.
 
+A contentious issue in establishing the supposed quality of a scientist's work
+is the "impact factor" of the journals that the work gets published in. Although
+as a metric it is [criticised](http://biorxiv.org/content/early/2016/07/05/062109),
+it does try to capture something meaningful: some journals are read and cited 
+much more than others. Scientists want to publish in those journals, which 
+forces the journal to become more selective, making it that much more of an
+accomplishment if you do make it through and get published in, say, _Nature_.
 
-- being identifiable
-- citation indexes
-- impact factors
-- citation counts / H-index / i10
+Apart from doing good, open science and publishing it in high-impact journals 
+there are also some practical steps that you might consider to increase 
+citations. For example, it is important that you make it clear which version of 
+your article should be cited. The cumbersome nature of the scholarly publishing 
+cycle, with potentially many versions of an article floating around on cloud 
+services, preprint servers, indexing databases and publisher websites, creates 
+the need for clear, unambiguous, globally unique identifiability of manuscripts.
+The DOI was invented for this purpose, and tools such as reference managers 
+(e.g. Mendeley) make use of it to locate the "correct" metadata associated with 
+this article. You should therefore make sure that the right DOI is used. For 
+example, if you uploaded an earlier version to a preprint server, you should 
+make sure that people using the DOI issued for that preprint version will be 
+able to locate the "final" version. This might mean that the record on the 
+preprint server needs to be updated to point to the "final" DOI. 
+
+The next step towards being credited correctly for your work is being 
+identifiable. Citations are tracked by automated processes (such as 
+[Web of Science](http://ipscience.thomsonreuters.com/product/web-of-science/) 
+and [Google Scholar](http://scholar.google.com)) that scan the literature for
+citations to your work and compute metrics such as the 
+[H](https://en.wikipedia.org/wiki/H-index) index. If these automated processes 
+encounter multiple, different versions of your name, e.g. because you got 
+married and took on your spouse's name, or you have middle names, then some 
+citations might not flow towards you but to your alias. This is one of the 
+reasons why systems such as the [ORCID](https://en.wikipedia.org/wiki/ORCID), 
+which identifies researchers with an identifier that can be attached to
+publications, have come into usage.
+
