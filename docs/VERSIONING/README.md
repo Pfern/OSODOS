@@ -72,33 +72,10 @@ least in some stages of manuscript drafting:
   drawings, complex tables, etc. The one downside is that many of your collaborators will 
   find the syntax too daunting to deal with.
 
-### The scholarly publishing cycle
-Assuming you have figured out a way to work with your collaborators to draft a manuscript
-into a state you all agree is ready to be sent out into the world, the next question is then
-where it will go. It is becoming increasingly common in more and more of the natural sciences
-to send a manusript to a [preprint](https://en.wikipedia.org/wiki/Preprint) server. This will
-be the first version that is identifiable on the web and that will likely be assigned a 
-[digital object identifier](https://en.wikipedia.org/wiki/Digital_object_identifier) or DOI.
-
-Subsequently, you might submit your manuscript for peer review, and, finally, for publication
-in a journal. The review cycle will result in more "private" versions of your manuscript:
-versions that are annotated by the reviewers, versions by your collaborators to address the
-reviewer comments, a version that you send back to the editor. This might happen multiple 
-times. Finally, upon acceptance, you will be sent page proofs to correct (to make sure 
-the manuscript will look correct in print). You will then sent back that version with any
-required corrections, and then the manuscript will be "actually" published.
-
-If you uploaded an earlier version to a preprint server, you will now need to make sure that
-people using the DOI of that preprint version will be able to locate the "final" version.
-This might mean that the record on the preprint server will need to be updated to point to
-the "final" DOI. The cumbersome nature of the scholarly publishing cycle, with potentially 
-many versions floating around on cloud services, preprint servers, indexing databases and
-publisher websites, demonstrates the need for clear, unambiguous, globally unique 
-identifiability of manuscripts. The DOI was invented for this purpose, and tools such as
-reference managers (e.g. Mendeley) make use of it to locate the "correct" metadata associated
-with this article. The most important of these metadata is Your Name, because only if you are
-also uniquely identifiable will you get credited (e.g. cited) for your work (this is one of
-the reasons why systems such as [ORCID](https://en.wikipedia.org/wiki/ORCID) are in usage).
+What all these systems have in common is that they have facilities for stepping through 
+the revisions of a document, and the contributions made by collaborators, for the
+entire history of a manuscript. This is very hard to accomplish when you collaborate
+by emailing manuscript versions around.
 
 Data versioning
 ---------------
