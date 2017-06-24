@@ -4,6 +4,9 @@ _In silico_ research skills for the life sciences
 -----------------------------------------------
 ![Word cloud of terms in the text](wordle.png)
 
+Background
+----------
+
 Contents
 --------
 ### Science
@@ -19,9 +22,6 @@ Contents
 - [Scientific software](SCIENTIFIC_SOFTWARE)
 - [Computational workflows](WORKFLOWS)
 - [Interoperability and integration](SEMANTICS)
-
-Background
-----------
 
 Who is this for?
 ----------------
