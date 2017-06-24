@@ -4,9 +4,9 @@ Every output of every project, whether a manuscript, some data, or an analytical
 goes through an unpredictable number of versions. Whatever you call the "final" version
 never is - and you will be happiest accepting this and developing a way of working and
 collaborating that accommodates change at every stage while keeping specific versions
-uniquely identifiable. Here we will consider some general principles that apply to the 
-process of version changes and identifiability in scholarly publishing, research data 
-sets, and software code.
+of what you are working on uniquely identifiable. Here we will consider some general 
+principles that apply to the process of version changes and identifiability in scholarly 
+publishing, research data sets, and software code.
 
 Manuscript versioning
 ---------------------
