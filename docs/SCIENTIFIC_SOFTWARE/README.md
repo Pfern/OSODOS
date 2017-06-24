@@ -100,8 +100,8 @@ people to intellectual property. These rights are defined in software licenses, 
 they both concern what you can do with the software developed by others (e.g., under what conditions, commercial or otherwise, 
 can you re-use somebody else's source code) and what others can do with the source code that you write. Whereas the 
 [creative commons](https://creativecommons.org/) licenses are typically used for works such as images, text (including scholarly 
-publications) and data sets, open source software is usually released under one of the licenses recognised by the 
-[open source initiative](https://opensource.org/).
+publications) and [data sets](../DATA_SHARING#licensing-attribution-and-openness-in-data-repositories), open source software is 
+usually released under one of the licenses recognised by the [open source initiative](https://opensource.org/).
 
 ### Responsive communication
 Collaborative development and participation in a community also means to respond to feedback from others at every stage of the 
