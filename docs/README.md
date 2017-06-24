@@ -1,5 +1,6 @@
 Reproducible, Open, Data Science
 ================================
+![Word cloud of terms in the text](wordle.png)
 
 Contents
 --------
