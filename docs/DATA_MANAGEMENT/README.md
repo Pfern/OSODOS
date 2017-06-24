@@ -1,8 +1,6 @@
 Data Management
 ===============
-
-Anyone handling data should be aware of the need to manage it. There are risks of loss or corruption, there is growth, there is the 
-possible need to share, there is attribution, etc.
+Anyone handling data should be aware of the need to manage it. There are risks of loss or corruption, there is growth, there is the possible need to share, there is attribution, etc.
 
 The need for data management and the need to create plans
 ---------------------------------------------------------
@@ -18,10 +16,7 @@ Permanent, long term data storage requires tailored stategical decision-maling. 
 
 Getting to know how to write a Data Management Plan
 ---------------------------------------------------
-One possible way to make some progress in increasing one's capabilities for writing data management plans is to look at well built examples to get inspired. 
-No single plan will suit everyone's needs, but it is common practice to use a good one as a seed and modify it to one's needs.
-
-You can find some good examples here: 
+One possible way to make some progress in increasing one's capabilities for writing data management plans is to look at well built examples to get inspired. No single plan will suit everyone's needs, but it is common practice to use a good one as a seed and modify it to one's needs. You can find some good examples here: 
 
 http://data.library.arizona.edu/data-management-plans/data-management-plan-examples
 
