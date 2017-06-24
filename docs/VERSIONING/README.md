@@ -15,10 +15,14 @@ Manuscript versioning
 
 _Example 1 (v1) - Manuscript versioning ([PhD comics](http://phdcomics.com/comics/archive.php?comicid=1531))_
 
-Even before a manuscript has been submitted for its first round of peer review it has 
-generally gone through [a disheartening number of versions](#v1). If you are writing a
-manuscript in a program such as Microsoft Word, you will probably want to adopt a system
-where the different versions of the manuscript are prefixed with the version's date in simple 
+Even before a manuscript has been submitted for its first round of 
+[peer review](../PUBLISHING#peer-review) it has generally gone through 
+[a disheartening number of versions](#v1). If you are writing a manuscript in a program 
+such as Microsoft Word, you will want to come up with a sensible file naming scheme 
+that is infinitely expandable and allows you to identify what the latest was that you
+and your collaborators were working - without temping fate by calling it `latest.doc` or
+`final.doc`. Instead, you probably want to adopt a system where the different 
+versions of the manuscript are prefixed with the version's date in simple 
 [ISO8601](https://en.wikipedia.org/wiki/ISO_8601) format (i.e. YYYY-MM-DD), so that the 
 most recent version comes to the top of a folder when you sort file names numerically.
  
@@ -30,11 +34,11 @@ by their initials. For example: `manuscript.doc` would then become `2017-06-22-m
 and the version returned by your contributor would be `2017-06-22-manuscript-RAV.doc`. Note 
 that this returned version still matches the date of the version that you sent around, even
 though `RAV` probably made you wait for weeks. If you have just one collaborator you might
-then continue with the returned version, accept or reject the changes, and tag it with the
+then continue with the returned version, accept or reject the changes, and rename it with the
 date of the new version. If you have multiple collaborators, there is a facility for "merging"
 documents, which you will need to do iteratively starting from the version you sent out, merging
 the changes made by the collaborators one by one. With some luck, the merger of all collaborators
-still makes enough sense so that you can then work through it and accept or reject all 
+still makes enough sense so that you can then work through it and accept or reject each of the 
 suggested changes.
 
 ### Cloud solutions for collaborative writing 
