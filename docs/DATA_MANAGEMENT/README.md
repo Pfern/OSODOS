@@ -4,7 +4,7 @@ Data Management
 ===============
 
 Anyone handling data should be aware of the need to manage it. There are risks of loss or corruption, there is growth, there is the 
-possible need to share, there is attribution, e4tc.
+possible need to share, there is attribution, etc.
 
 There are several reasons why one should think that data from one or many projects can easily be at risk if not managed properly. Naturally the need to manage data is reduced if the volume of data is low, but it is also true that even small volumes of data that go unmanaged cause serious problems when there is a loss of any kind. Research Funding agencies began to ask for a data management plan in the grant applications. This has obliged researchers to at least get informed, but it is quite clear that training provision in this area is far below the present and foreseeable levels of demand.
 
