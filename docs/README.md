@@ -1,5 +1,7 @@
-Research skills for the 21st century
+Open science, open data, open source
 ====================================
+In silico research skills for the life sciences
+-----------------------------------------------
 ![Word cloud of terms in the text](wordle.png)
 
 Contents
