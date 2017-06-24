@@ -20,11 +20,11 @@ makes perfect, but here are some potentially useful guidelines:
 
 The scholarly publishing cycle
 ------------------------------
-**Preprints** - Assuming you have managed to draft a manuscript collaboratively 
-into a state you all agree is ready to be sent out into the world, the next 
-question is then where it will go. As the chart below shows, it is becoming 
-increasingly common (and in more and more of the natural sciences) to send a 
-manuscript to a 
+### Preprints
+Assuming you have managed to draft a manuscript collaboratively into a state you 
+all agree is ready to be sent out into the world, the next question is then 
+where it will go. As the chart below shows, it is becoming increasingly common 
+(and in more and more of the natural sciences) to send a manuscript to a 
 [preprint](https://en.wikipedia.org/wiki/Preprint) server, such as 
 [arXiv](http://arxiv.org), [PeerJ Preprints](https://peerj.com/preprints/),
 and [biorXiv](http://biorxiv.org). 
@@ -50,9 +50,10 @@ accessible and uniquely identifiable to anyone on the web. It will likely be
 assigned a [digital object identifier](https://en.wikipedia.org/wiki/Digital_object_identifier) 
 or DOI.
 
-**Peer review** - Subsequent to, perhaps, an upload to a preprint sever, you will 
-submit your manuscript for peer review and publication in a journal. During this
-process you will most likely:
+###Peer review
+Subsequent to, perhaps, an upload to a preprint sever, you will submit your 
+manuscript for peer review and publication in a journal. During this process you 
+will most likely:
 
 1. Prepare and upload a package that consists of your manuscript (double-spaced, 
    with line numbers), the illustrations and any supplementary data in separate 
@@ -87,16 +88,84 @@ process you will most likely:
    the annotated page proofs, and, perhaps, a signed statement where you 
    transfer copyright to the publisher. Also, you will most likely have to pay:
    for colour figures and other expenses associated with making a "pretty" 
-   publication, but possibly also for "open access", which is discussed in more
-   detail in the next section.
+   publication, but possibly also for _open access charges_, which are discussed 
+   in more detail in the next section.
    
 <a name="p2"></a>
 ![Peer review](car_peer_review_comic_12.jpg)
 
-**Open access publishing** 
-- gold / green  OA
-- institutional repositories
-- researchgate
+###Open access publishing
+The scholarly publishing model has undergone very little change over the last
+three hundred years, despite that fact that means of communication have changed 
+enormously. Once upon a time, people had full jobs picking the letters (that is,
+pieces of lead) of an article one by one from wooden cases: the upper cases in 
+front of them had the capital letters. Stacking the letters line by line and 
+then page by page, this _type setting_ was laborious and therefore costly. Then,
+the article was printed on paper, and this printed paper was shipped around the 
+world. Needless to say, readers needed to pay for all this work and material. 
+It is not so obvious why this is still the case in an age of desktop publishing 
+and internet communication; nor is it particularly justifiable that the general 
+public first finances the research at public institutions out of their taxes, 
+and then has to pay again to read the results. Enter _open access_ (OA) 
+publishing.
+
+The idea behind open access publishing is that everyone should be able to read 
+scientific publications without hindrance. To accomplish this, there are,
+broadly speaking, two models. "Green" OA simply means that you, the author, 
+often have the right to share your article with others. Even in the olden days,
+authors would get - or buy - a pile of "reprints" of their article that they 
+could mail to interested readers (who would make their interest known by sending 
+the author a special "reprint request card"). In the age of PDFs, authors can
+- and usually may, often after some period imposed by the publisher - upload 
+these to their personal website, to an institutional repository, or to their web 
+page on, for example, [ResearchGate](http://ResearchGate.org). The latter 
+website is one of the locations where the Unpaywall plugin discussed in the 
+section on [literature study](../LITERATURE_STUDY) often finds free versions of 
+articles.
+
+<a name="p3"></a>
+![Reprint request](Sperber_reprint_request-350x257.jpg)
+
+_Example 2 (p2) - [Ye olden days, when scientists were always "Sirs", apparently](https://cashp.columbian.gwu.edu/good-old-days)_
+
+"Gold" OA means that the author pays the publisher to make the article 
+immediately freely available on their website. Because publishers then lose
+the ability to charge readers for the article, they attempt to essentially 
+recoup this from authors. Hence, _open access charges_ usually exceed $1000.
+
+###Enhancements to scientific publications
+The previous sections may have painted a somewhat negative picture of the 
+scholarly publishing business. This does not mean that there is no useful place 
+for publishers, and that there is nothing they can do to enhance scientific
+publications beyond "type setting". Here are some examples of the value that can
+be added to scientific articles by publishers:
+
+- **Semantic annotations** - many scientific articles contain terms that 
+  originate in some sort of [controlled vocabulary](../SEMANTICS), such as gene 
+  names, species names, chemicals, and so on. Some publishers have started to
+  provide services that automatically annotate articles with recognised terms.
+  For example, the [Biodiversity Data Journal](https://bdj.pensoft.net/) does
+  this for species names.
+- **Machine readable publications** - the language in some scientific articles 
+  is structured so rigidly that it is, or could be made, machine readable. An
+  example of this lies in taxonomic descriptions of species (such as in 
+  [floras](https://en.wikipedia.org/wiki/Flora_(publication))): in a recent 
+  study, such descriptions were read by scripts and converted to 
+  [an ontology](http://doi.org/10.1186/s13326-016-0107-8). An ongoing initiative
+  to make taxonomic publications machine readable for such purposes is 
+  offered by [Plazi](http://plazi.org/resources/treatmentbank/goldengate-editor/).
+- **Enhanced PDFs** - PDF files can contain more than just formatted text and
+  figures: they can be enhanced with interactive visualisations (including 3D),
+  clickable links, and so on. Some publishers (such as
+  [nature](http://www.nature.com/news/announcement-nature-papers-enhanced-1.13125))
+  are now offering enhanced PDFs with such interactive features.
+- **Executable publications** - some articles contain a lot of 
+  [computational analysis](../WORKFLOWS) that could be presented in a
+  [re-runnable](../REPRODUCIBILITY) form. For example, here is 
+  [a paper](http://doi.org/10.1101/gr.094508.109) whose analysis can be re-run
+  as a Galaxy workflow. In [another example](http://doi.org/10.22541/au.149693987.70506124),
+  the infographic and its underlying data and analysis are available as Jupyter
+  notebook.
 
 About citations and other metrics
 ---------------------------------
