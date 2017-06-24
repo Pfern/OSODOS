@@ -10,7 +10,7 @@ The need for data management and the need to create plans
 ---------------------------------------------------------
 There are several reasons why one should think that data from one or many projects can easily be at risk if not managed properly. Naturally the need to manage data is reduced if the volume of data is low, but it is also true that even small volumes of data that go unmanaged cause serious problems when there is a loss of any kind. Research Funding agencies began to ask for a data management plan in the grant applications. This has obliged researchers to at least get informed, but it is quite clear that training provision in this area is far below the present and foreseeable levels of demand.
 
-The Software and Data Carpentry initiatives have been motivated by the above referenced concerns and some of its teachers have worked on a set of recommendations (best practices) in a scientific paper "Ten Simple Rules for Digital Data Storage" that you can read here (./journal.pcbi.1005097.PDF).
+The Software and Data Carpentry initiatives have been motivated by the above referenced concerns and some of its teachers have worked on a set of recommendations (best practices) in a scientific paper **"Ten Simple Rules for Digital Data Storage"** that you can read [here] (./journal.pcbi.1005097.PDF).
 
 Data from research projects
 --------------------------
