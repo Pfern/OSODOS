@@ -46,7 +46,7 @@ This application requests support to collect public-use data from a survey of mo
 User registration is required in order to access or download files. As part of the registration process, users must agree to the conditions of use governing access to the public release data, including restrictions against attempting to identify study participants, destruction of the data after analyses are completed, reporting responsibilities, restrictions on redistribution of the data to third parties, and proper acknowledgement of the data resource. Registered users will receive user support, as well as information related to errors in the data, future releases, workshops, and publication lists. The information provided to users will not be used for commercial purposes, and will not be redistributed to third parties. "
 
 
-Online training on Data Managemet Plans
+Online training on Data Management Plans
 ---------------------------------------
 A suitable alternative can be acquiring some online training via a simple web-based tutorial on Data Management Plans, such as this one from PennState University:
 
