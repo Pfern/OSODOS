@@ -29,9 +29,9 @@ Browsing though several of these you will discover ideas that may fit your requi
 
 Futher examples to illustrate Data Management and sharing (from NIH)
 --------------------------------------------------------------------
-"The precise content and level of detail to be included in a data-sharing plan depends on several factors, such as whether or not the investigator is planning to share data, the size and complexity of the dataset, and the like. Below are several examples of data-sharing plans.
-
-### Example 1
+>The precise content and level of detail to be included in a data-sharing plan depends on several factors, such as whether or not the investigator is planning to share data, the size and complexity of the dataset, and the like. Below are several examples of data-sharing plans.
+>
+>Example 1
 The proposed research will involve a small sample (less than 20 subjects) recruited from clinical facilities in the New York City area with Williams syndrome. This rare craniofacial disorder is associated with distinguishing facial features, as well as mental retardation. Even with the removal of all identifiers, we believe that it would be difficult if not impossible to protect the identities of subjects given the physical characteristics of subjects, the type of clinical data (including imaging) that we will be collecting, and the relatively restricted area from which we are recruiting subjects. Therefore, we are not planning to share the data.
 
 ### Example 2
@@ -47,6 +47,10 @@ Online training on Data Management Plans
 A suitable alternative can be acquiring some online training via a simple web-based tutorial on Data Management Plans, such as this one from PennState University:
 
 https://www.e-education.psu.edu/dmpt/
+
+
+
+Teachers with the [Data Carpentry](http://www.datacarpentry.org/) initiative have been motivated by the above referenced concerns have worked on a set of recommendations (best practices) in a scientific paper [**"Ten Simple Rules for Digital Data Storage"**](journal.pcbi.1005097.PDF).
 
 
 
