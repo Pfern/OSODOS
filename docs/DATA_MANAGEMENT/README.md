@@ -10,6 +10,8 @@ The need for data management and the need to create plans
 ---------------------------------------------------------
 There are several reasons why one should think that data from one or many projects can easily be at risk if not managed properly. Naturally the need to manage data is reduced if the volume of data is low, but it is also true that even small volumes of data that go unmanaged cause serious problems when there is a loss of any kind. Research Funding agencies began to ask for a data management plan in the grant applications. This has obliged researchers to at least get informed, but it is quite clear that training provision in this area is far below the present and foreseeable levels of demand.
 
+The Software and Data Carpentry initiatives have been motivated by the above referenced concerns and some of its teachers have worked on a set of recommendations (best practices) in a scientific paper "Ten Simple Rules for Digital Data Storage" that you can read here (./journal.pcbi.1005097.PDF).
+
 Data from research projects
 --------------------------
 Research projects generate enormous quantities of data, every single day. In many cases it is clear that raw, unprocessed data should be kept, but in many others it is not adequate at all. In large scale sequencing, but also in radio astronomy and particle physics, for example, the volumes of raw data are often enormous and their permanent storage is unreasonable. Performing the sequence again may be a lot more adequate, if the ned arises.
@@ -51,6 +53,9 @@ Online training on Data Management Plans
 A suitable alternative can be acquiring some online training via a simple web-based tutorial on Data Management Plans, such as this one from PennState University:
 
 https://www.e-education.psu.edu/dmpt/
+
+
+
 
 Specific issues with sensitive data
 -----------------------------------
