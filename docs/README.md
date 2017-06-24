@@ -7,7 +7,7 @@ _In silico_ research skills for the life sciences
 Contents
 --------
 ### Science
-- [Coping with the literature](LITERATE_STUDY)
+- [Coping with the literature](LITERATURE_STUDY)
 - [Managing change](VERSIONING)
 - [Publishing](PUBLISHING)
 ### Data
