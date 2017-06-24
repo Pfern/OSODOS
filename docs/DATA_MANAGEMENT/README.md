@@ -21,9 +21,11 @@ Getting to know how to write a Data Management Plan
 One possible way to make some progress in increasing one's capabilities for writing data management plans is to look at well built examples to get inspired. 
 No single plan will suit everyone's needs, but it is common practice to use a good one as a seed and modify it to one's needs.
 
-You can find some good examples here: http://data.library.arizona.edu/data-management-plans/data-management-plan-examples
+You can find some good examples here: 
 
-Browsing though several of these you will discover ideas that fit your requirements, here and there.
+http://data.library.arizona.edu/data-management-plans/data-management-plan-examples
+
+Browsing though several of these you will discover ideas that may fit your requirements, here and there.
 
 Futher examples to illustrate Data Management and sharing (from NIH)
 --------------------------------------------------------------------
