@@ -50,7 +50,7 @@ accessible and uniquely identifiable to anyone on the web. It will likely be
 assigned a [digital object identifier](https://en.wikipedia.org/wiki/Digital_object_identifier) 
 or DOI.
 
-###Peer review
+### Peer review
 Subsequent to, perhaps, an upload to a preprint sever, you will submit your 
 manuscript for peer review and publication in a journal. During this process you 
 will most likely:
@@ -94,7 +94,7 @@ will most likely:
 <a name="p2"></a>
 ![Peer review](car_peer_review_comic_12.jpg)
 
-###Open access publishing
+### Open access
 The scholarly publishing model has undergone very little change over the last
 three hundred years, despite that fact that means of communication have changed 
 enormously. Once upon a time, people had full jobs picking the letters (that is,
@@ -133,7 +133,7 @@ immediately freely available on their website. Because publishers then lose
 the ability to charge readers for the article, they attempt to essentially 
 recoup this from authors. Hence, _open access charges_ usually exceed $1000.
 
-### Enhancements to scientific publications
+### Enhanced publications
 The previous sections may have painted a somewhat negative picture of the 
 scholarly publishing business. This does not mean that there is no useful place 
 for publishers, and that there is nothing they can do to enhance scientific
