@@ -1,5 +1,3 @@
-
-
 Data Management
 ===============
 
@@ -10,7 +8,7 @@ The need for data management and the need to create plans
 ---------------------------------------------------------
 There are several reasons why one should think that data from one or many projects can easily be at risk if not managed properly. Naturally the need to manage data is reduced if the volume of data is low, but it is also true that even small volumes of data that go unmanaged cause serious problems when there is a loss of any kind. Research Funding agencies began to ask for a data management plan in the grant applications. This has obliged researchers to at least get informed, but it is quite clear that training provision in this area is far below the present and foreseeable levels of demand.
 
-The Software and Data Carpentry initiatives have been motivated by the above referenced concerns and some of its teachers have worked on a set of recommendations (best practices) in a scientific paper **"Ten Simple Rules for Digital Data Storage"** that you can read [here] (./journal.pcbi.1005097.PDF).
+Teachers with the [Data Carpentry](http://www.datacarpentry.org/) initiative have been motivated by the above referenced concerns have worked on a set of recommendations (best practices) in a scientific paper [**"Ten Simple Rules for Digital Data Storage"**](journal.pcbi.1005097.PDF).
 
 Data from research projects
 --------------------------
@@ -31,31 +29,33 @@ Browsing though several of these you will discover ideas that may fit your requi
 
 Futher examples to illustrate Data Management and sharing (from NIH)
 --------------------------------------------------------------------
+>The precise content and level of detail to be included in a data-sharing plan depends on several factors, such as whether or not the investigator is planning to share data, the size and complexity of the dataset, and the like. Below are several examples of data-sharing plans.
+>
+>Example 1
+>
+>The proposed research will involve a small sample (less than 20 subjects) recruited from clinical facilities in the New York City area with Williams syndrome. This rare craniofacial disorder is associated with distinguishing facial features, as well as mental retardation. Even with the removal of all identifiers, we believe that it would be difficult if not impossible to protect the identities of subjects given the physical characteristics of subjects, the type of clinical data (including imaging) that we will be collecting, and the relatively restricted area from which we are recruiting subjects. Therefore, we are not planning to share the data.
+>
+>Example 2
+>
+>The proposed research will include data from approximately 500 subjects being screened for three bacterial sexually transmitted diseases (STDs) at an inner city STD clinic. The final dataset will include self-reported demographic and behavioral data from interviews with the subjects and laboratory data from urine specimens provided. Because the STDs being studied are reportable diseases, we will be collecting identifying information. Even though the final dataset will be stripped of identifiers prior to release for sharing, we believe that there remains the possibility of deductive disclosure of subjects with unusual characteristics. Thus, we will make the data and associated documentation available to users only under a data-sharing agreement that provides for: (1) a commitment to using the data only for research purposes and not to identify any individual participant; (2) a commitment to securing the data using appropriate computer technology; and (3) a commitment to destroying or returning the data after analyses are completed.
+>
+>Example 3
+>
+>This application requests support to collect public-use data from a survey of more than 22,000 Americans over the age of 50 every 2 years. Data products from this study will be made available without cost to researchers and analysts. https://ssl.isr.umich.edu/hrs/ Link to Non-U.S. Government Site
+>
+>Disclaimer
+>
+>User registration is required in order to access or download files. As part of the registration process, users must agree to the conditions of use governing access to the public release data, including restrictions against attempting to identify study participants, destruction of the data after analyses are completed, reporting responsibilities, restrictions on redistribution of the data to third parties, and proper acknowledgement of the data resource. Registered users will receive user support, as well as information related to errors in the data, future releases, workshops, and publication lists. The information provided to users will not be used for commercial purposes, and will not be redistributed to third parties.
 
-"The precise content and level of detail to be included in a data-sharing plan depends on several factors, such as whether or not the investigator is planning to share data, the size and complexity of the dataset, and the like. Below are several examples of data-sharing plans.
-
-Example 1
-
-The proposed research will involve a small sample (less than 20 subjects) recruited from clinical facilities in the New York City area with Williams syndrome. This rare craniofacial disorder is associated with distinguishing facial features, as well as mental retardation. Even with the removal of all identifiers, we believe that it would be difficult if not impossible to protect the identities of subjects given the physical characteristics of subjects, the type of clinical data (including imaging) that we will be collecting, and the relatively restricted area from which we are recruiting subjects. Therefore, we are not planning to share the data.
-
-Example 2
-
-The proposed research will include data from approximately 500 subjects being screened for three bacterial sexually transmitted diseases (STDs) at an inner city STD clinic. The final dataset will include self-reported demographic and behavioral data from interviews with the subjects and laboratory data from urine specimens provided. Because the STDs being studied are reportable diseases, we will be collecting identifying information. Even though the final dataset will be stripped of identifiers prior to release for sharing, we believe that there remains the possibility of deductive disclosure of subjects with unusual characteristics. Thus, we will make the data and associated documentation available to users only under a data-sharing agreement that provides for: (1) a commitment to using the data only for research purposes and not to identify any individual participant; (2) a commitment to securing the data using appropriate computer technology; and (3) a commitment to destroying or returning the data after analyses are completed.
-
-Example 3
-
-This application requests support to collect public-use data from a survey of more than 22,000 Americans over the age of 50 every 2 years. Data products from this study will be made available without cost to researchers and analysts. https://ssl.isr.umich.edu/hrs/ Link to Non-U.S. Government Site - Click for Disclaimer|
-User registration is required in order to access or download files. As part of the registration process, users must agree to the conditions of use governing access to the public release data, including restrictions against attempting to identify study participants, destruction of the data after analyses are completed, reporting responsibilities, restrictions on redistribution of the data to third parties, and proper acknowledgement of the data resource. Registered users will receive user support, as well as information related to errors in the data, future releases, workshops, and publication lists. The information provided to users will not be used for commercial purposes, and will not be redistributed to third parties. "
-
+Paper on simple rules to prepare a DMP
+--------------------------------------
+**William K. Michener** has prepared a set of recommendations in a scientific paper [**"Ten Simple Rules for Creating a Good Data Management Plan"**](journal.pcbi.1004525.PDF).
 
 Online training on Data Management Plans
----------------------------------------
-A suitable alternative can be acquiring some online training via a simple web-based tutorial on Data Management Plans, such as this one from PennState University:
+----------------------------------------
+A suitable alternative can be acquiring some online training via a simple web-based tutorial on Data Management Plans (DMP), such as this one from PennState University:
 
 https://www.e-education.psu.edu/dmpt/
-
-
-
 
 Specific issues with sensitive data
 -----------------------------------
