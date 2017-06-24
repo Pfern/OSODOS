@@ -43,19 +43,14 @@ purpose of this? Here is an [introductory video](https://youtu.be/2zMgY8Dx9co)
 created by [asapbio](http://asapbio.org/), _a scientist-driven initiative to 
 promote the productive use of preprints in the life sciences._
 
-<iframe 
-	width="560" 
-	height="315" 
-	src="https://www.youtube.com/embed/2zMgY8Dx9co" 
-	frameborder="0" 
-	allowfullscreen></iframe>
+[![Preprints](https://img.youtube.com/vi/2zMgY8Dx9co/0.jpg)](https://www.youtube.com/watch?v=2zMgY8Dx9co)
 
 Your preprint will be the first version of your manuscript that is publicly 
 accessible and uniquely identifiable to anyone on the web. It will likely be 
 assigned a [digital object identifier](https://en.wikipedia.org/wiki/Digital_object_identifier) 
 or DOI.
 
-**Peer review** Subsequent to, perhaps, an upload to a preprint sever, you will 
+**Peer review** - Subsequent to, perhaps, an upload to a preprint sever, you will 
 submit your manuscript for peer review and publication in a journal. During this
 process you will most likely:
 
