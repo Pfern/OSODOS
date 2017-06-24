@@ -8,6 +8,8 @@ How to find what you need? How to get access to what you need? How to organize y
 how to do this collaboratively? Here we will address these questions and the principles behind them, illustrated
 by some current examples.
 
+![Randall Munroe on open access publishing](LS2.jpg)
+
 Searching the literature
 ------------------------
 When you are just getting into a new research topic, you will want to develop an overview of the different
