@@ -1,11 +1,24 @@
 Open science, open data, open source
 ====================================
-In silico research skills for the life sciences
+_In silico_ research skills for the life sciences
 -----------------------------------------------
 ![Word cloud of terms in the text](wordle.png)
 
 Contents
 --------
+### Science
+- [Coping with the literature](LITERATE_STUDY)
+- [Managing change](VERSIONING)
+- [Publishing](PUBLISHING)
+### Data
+- [Collecting data](DATA_CAPTURE)
+- [Reproducibility](REPRODUCIBILITY)
+- [Data sharing](DATA_SHARING)
+- [Data management](DATA_MANAGEMENT)
+### Source code
+- [Scientific software](SCIENTIFIC_SOFTWARE)
+- [Computational workflows](WORKFLOWS)
+- [Interoperability and integration](SEMANTICS)
 
 Background
 ----------
