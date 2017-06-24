@@ -133,7 +133,7 @@ immediately freely available on their website. Because publishers then lose
 the ability to charge readers for the article, they attempt to essentially 
 recoup this from authors. Hence, _open access charges_ usually exceed $1000.
 
-###Enhancements to scientific publications
+### Enhancements to scientific publications
 The previous sections may have painted a somewhat negative picture of the 
 scholarly publishing business. This does not mean that there is no useful place 
 for publishers, and that there is nothing they can do to enhance scientific
