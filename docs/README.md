@@ -1,5 +1,5 @@
-Reproducible, Open, Data Science
-================================
+Research skills for the 21st century
+====================================
 ![Word cloud of terms in the text](wordle.png)
 
 Contents
