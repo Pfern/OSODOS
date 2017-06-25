@@ -1,8 +1,7 @@
-Reproducible and Responsible Research 
-in the OPEN world:
+Reproducible and Responsible Research in the OPEN
 =========================================================
 
-Open Sience, Open Data and Open Source
+Open Science, Open Data and Open Source
 ======================================
 
 
