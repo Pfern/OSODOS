@@ -1,9 +1,8 @@
-Reproducible and Responsible Research in the OPEN
-=========================================================
-
 Open Science, Open Data and Open Source
 ======================================
 
+for Reproducible and Responsible Research
+=========================================
 
 Description 
 -----------
