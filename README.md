@@ -1,4 +1,5 @@
-Reproducible and Responsible Research in the OPEN eorl:
+Reproducible and Responsible Research 
+in the OPEN world:
 =========================================================
 
 Open Sience, Open Data and Open Source
