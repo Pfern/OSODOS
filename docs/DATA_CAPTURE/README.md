@@ -7,7 +7,9 @@ Capturing data in a laboratory is a daily operation that easily falls in routine
 It is relatively easy to produce and accumulate bad records and store bad datasets that have little or zero scientific value. Apparently good practices like keeping a lab-book, usually mandatory nowadays, are NOT a guarantee that experiments are properly recorded into datasets that allow anyone, including the original researcher, to fully address the WWWH questions, to start with. For example, a bad habit that apparently looks good is to record data in spreadsheets, occasionally print parts of spreadsheets on paper and glue tables in the lab-book. Easily the WWWH questions become unanswerable, the content of such a table becomes artificially dependent from other recorded information in the lab-book but it easily detaches from it with a simple annotation mistake. Highly dangerous, yet quite common practice. Worse than just being bad, it can "look" good, misleadingly!
 
 ### Data provenance
-In Data Science, the the WWWH question is usually referred to as _provenance_. Provenance in data is tied not only to the Data Collection act but also to the its futher movements between databases. Provenance may or not entail ownership and licensing of its use. If the appropriate steps, as will be explained below, are taken, authenticated provenance implies authorship. To dig further, here is an interesting document about Data Provenance: 
+In Data Science, the the WWWH question is usually referred to as **provenance**. 
+
+Provenance in data is tied not only to the Data Collection act but also to the its futher movements between databases. Provenance may or not entail ownership and licensing of its use. If the appropriate steps, as will be explained below, are taken, authenticated provenance implies authorship. To dig further, here is an interesting document about Data Provenance: 
 
 **Buneman P., Khanna S., and Tan, W.-C.** Data Provenance: Some Basic Issues http://db.cis.upenn.edu/DL/fsttcs.pdf 
  
@@ -21,7 +23,6 @@ In sequencing data, whichever instrumental platform is used, data quality will n
 A very good dataset can look like this:
 <a name="fastqc1"></a>
 ![fastqc1](fastqc-1.png)
-
 
 Whereas a very bad dataset may look like this:
 <a name="fastqc2" ></a> 
