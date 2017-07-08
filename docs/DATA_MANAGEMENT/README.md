@@ -52,13 +52,18 @@ A suitable alternative can be acquiring some online training via a simple web-ba
 
 https://www.e-education.psu.edu/dmpt/
 
+Best Practice for Research Data Management 
+------------------------------------------
+
+The purpose of LEARN (http://learn-rdm.eu/en/about/) is to take the LERU Roadmap for Research Data produced by the League of European Research Universities (LERU) and to develop this in order to build a coordinated e-infrastructure across Europe and beyond.
+
+The  "Toolkit of Best Practice for Research Data Management" can be downloaded from http://learn-rdm.eu/en/dissemination/
+
 Specific issues with sensitive data
 -----------------------------------
 Particularly acute cases arise when we speak about sensitive data, as for example in data management plans that involve patient data, even when there is informed consent. It is not always obvious but human genetic data consisting only of stretches of sequence from a single human sample may be sufficient to uniquely identify a person. This could even be considered good, were it not for the fact that it may be used to violate individual privacy in ways that do not protect citizens. 
 
-... to be expanded...
-
-
+To a large extent, the problems of lack of protection arise from the inadequacy of legislation. In general terms, there is very limited or no punishment for perpetrators that abuse the fundamental rights of individuals using sensitive data, for example non-anonimised health data used for businesses such as insurance companies, employers, etc.
 
 
 
