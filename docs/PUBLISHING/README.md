@@ -15,7 +15,7 @@ Assuming you have managed to draft a manuscript collaboratively into a state you
 
 _Example 1 (p1) - Growth in preprint servers (source: Jordan Anaya)_
 
-When you upload your manuscript to such a server, it will not be type set - so this is your chance to make a pretty PDF. What may happen is that a human on the other end will do some checks to see if what you uploaded is indeed a scholarly manuscript and that you have the right to post there (i.e. it is not copyrighted somehow), but it will not be peer reviewed. What, then, is the purpose of this? Here is an [introductory video](https://youtu.be/2zMgY8Dx9co) created by [asapbio](http://asapbio.org/), _a scientist-driven initiative to promote the productive use of preprints in the life sciences._
+When you upload your manuscript to such a server, it might not be type set - so this is your chance to make a pretty PDF, perhaps using an [online authoring tool](https://intercom.help/authorea/publish/submitting-to-biorxiv). What may happen is that a human on the other end will do some checks to see if what you uploaded is indeed a scholarly manuscript and that you have the right to post there (i.e. it is not copyrighted somehow), but it will not be peer reviewed. What, then, is the purpose of this? Here is an [introductory video](https://youtu.be/2zMgY8Dx9co) created by [asapbio](http://asapbio.org/), _a scientist-driven initiative to promote the productive use of preprints in the life sciences._
 
 [![Preprints](https://img.youtube.com/vi/2zMgY8Dx9co/0.jpg)](https://www.youtube.com/watch?v=2zMgY8Dx9co)
 
