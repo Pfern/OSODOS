@@ -65,5 +65,12 @@ Particularly acute cases arise when we speak about sensitive data, as for exampl
 
 To a large extent, the problems of lack of protection arise from the inadequacy of legislation. In general terms, there is very limited or no punishment for perpetrators that abuse the fundamental rights of individuals using sensitive data, for example non-anonimised health data used for businesses such as insurance companies, employers, etc.
 
+Accomplishments
+---------------
+Afteer exploring this module you must:
 
+- Be aware of the factors that justify the need for a data management plan.
+- Know where to get guidelines or inspiration to create a data management plan
+- Be confident about what best practices to pick from the Research Data Management resource in learn-rdm.eu
+- Be aware of the specicific difficulties that arise when sensitive data is used
 
