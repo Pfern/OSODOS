@@ -1,4 +1,4 @@
-<a name="Boland2017">
+<a name="Boland2017" />
 **Boland, Mary Regina, Karczewski, Konrad J., Tatonetti, Nicholas P.**. 2017. Ten Simple Rules to Enable Multi-site Collaborations through Data Sharing. _PLoS Computational Biology_. **13** (1): e1005278. [[10.1371/journal.pcbi.1005278](http://doi.org/10.1371/journal.pcbi.1005278)]
 
 <a name="Brazma2001">
