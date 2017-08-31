@@ -9,6 +9,9 @@ References
 <a name="Buneman2000"></a>
 **Buneman, P., Khanna, S., Tan, W.-C.** 2000. Data Provenance: Some Basic Issues. _Lecture Notes in Computer Science: Foundations of Software Technology and Theoretical Computer Science_. **1974** : 87--93. [[10.1007/3-540-44450-5_6](http://doi.org/10.1007/3-540-44450-5_6)] `[id:Buneman2000]`
 
+<a name="Cock2009"></a>
+**Cock, P. J. A., Fields, C. J., Goto, N., Heuer, M. L., Rice, P. M.** 2009. The Sanger FASTQ file format for sequences with quality scores, and the Solexa/Illumina FASTQ variants. _Nucleic Acids Research_. **38** (6): 1767--1771. [[10.1093/nar/gkp1137](http://doi.org/10.1093/nar/gkp1137)] `[id:Cock2009]`
+
 <a name="Hart2016"></a>
 **Hart, E. M., Barmby, P., LeBauer, D., Michonneau, F., Mount, S., Mulrooney, P., Poisot, T., Woo, K. H., Zimmerman, N. B., Hollister, J. W.** 2016. Ten Simple Rules for Digital Data Storage. _PLoS Computational Biology_. **12** (10): e1005097. [[10.1371/journal.pcbi.1005097](http://doi.org/10.1371/journal.pcbi.1005097)] `[id:Hart2016]`
 
