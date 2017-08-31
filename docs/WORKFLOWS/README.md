@@ -1,6 +1,6 @@
 This module will show you how to do computational analyses in a reproducible and re-usable manner
 =================================================================================================
-Virtually no research project of interest that includes _in silico_ analysis only uses a single software tool, operating on a single data set, under a single set of parameters. There will be iterations over data sets, sweeps over parameter ranges, and multiple software tools will be used. These are all operations whose [reproducibility](../REPRODUCIBILITY) is every bit as vital as that of a wet lab procedure. Therefore, the haphazard and manual chaining together of computational analyses is a recipe for failure. In addition, because research is usually exploratory such that the right approach only becomes clear after many failed attempts <!-- added to Mendeley --> (["everything you do, you will probably have to do over again"](A_quick_guide_to_organizing_computational_biology_projects.PDF)), manual repetition becomes boring and error prone. Hence, computational analysis should be viewed and organised as a workflow that is automated as much as possible so that it can be re-run at will and shared with collaborators as well as the wides research community. Here we will consider some of the practical approaches and considerations in developing computational analysis workflows.
+Virtually no research project of interest that includes _in silico_ analysis only uses a single software tool, operating on a single data set, under a single set of parameters. There will be iterations over data sets, sweeps over parameter ranges, and multiple software tools will be used. These are all operations whose [reproducibility](../REPRODUCIBILITY) is every bit as vital as that of a wet lab procedure. Therefore, the haphazard and manual chaining together of computational analyses is a recipe for failure. In addition, because research is usually exploratory such that the right approach only becomes clear after many failed attempts (["everything you do, you will probably have to do over again"](../REFERENCES#Noble2009)), manual repetition becomes boring and error prone. Hence, computational analysis should be viewed and organised as a workflow that is automated as much as possible so that it can be re-run at will and shared with collaborators as well as the wides research community. Here we will consider some of the practical approaches and considerations in developing computational analysis workflows.
 
 Organising a computational analysis
 -----------------------------------
@@ -15,10 +15,7 @@ A computational analysis workflow chains [software tools](../SCIENTIFIC_SOFTWARE
 - **bin** - compiled executables and scripts (i.e. the [$PATH](https://en.wikipedia.org/wiki/PATH_(variable)) for the workflow)
 - **results** - outcomes of analysis steps
 
-Some of these folder names match those in UNIX-like operating systems (such as Linux) and play roughly the same role. This is, of course, no coincidence - but rather a mnemonic aid. To read more about the reasoning underlying this project structure, consult the publication that this came from:
-
-<!-- added to Mendeley -->
-**Noble, W.S.**. 2009. A quick guide to organizing computational biology projects. _PLoS Computational Biology_ 5(7):e1000424 [[pdf](A_quick_guide_to_organizing_computational_biology_projects.PDF)] doi:[10.1371/journal.pcbi.1000424](http://doi.org/10.1371/journal.pcbi.1000424)
+Some of these folder names match those in UNIX-like operating systems (such as Linux) and play roughly the same role. This is, of course, no coincidence - but rather a mnemonic aid. To read more about the reasoning underlying this project structure, consult [[Noble2009](../REFERENCES#Noble2009)] (where this layout came from).
 
 Workflow tools
 --------------
