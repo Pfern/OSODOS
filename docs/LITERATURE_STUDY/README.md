@@ -51,7 +51,7 @@ A real-world example of literature management
 The pages you are reading now were written in a simple text file syntax (Markdown) that, although it is very useful for creating websites and e-books, does not by itself support in-text citations. Nevertheless, we did have a need for citing scientific literature in these pages here and there, and we did not want to do this 'by hand'. We therefore had to come up with a workaround, which was the following:
 1. We collected our references using the [Mendeley browser bookmarklet](https://www.mendeley.com/reference-management/web-importer), which resulted in a [public library](https://www.mendeley.com/community/osodos/). 
 2. We then made sure in [Mendeley Desktop](https://www.mendeley.com/download-mendeley-desktop/) that every reference has at least an author, year, title, journal, and doi. We also made sure that all authors only had initials in their first names.
-3. We  exported the library to a [bibtex file](https://github.com/Pfern/OSODOS/blob/master/assets/references.bib)
+3. We  exported the library to a [bibtex file](https://github.com/Pfern/OSODOS/blob/master/data/references.bib)
 4. We wrote a [script](https://github.com/Pfern/OSODOS/blob/master/src/bib2markdown.py) that converts the bibtex file to [a list of references in Markdown](../REFERENCES).
 5. While writing the various pages, we cited the references by their bibtex key (a unique identifier that you can make up yourself, for which we used AuthorYear), creating a clickable link to the list of references, using syntax such as: `[Zhang2014](../REFERENCES#Zhang2014)`
 This might seem complicated at first, but it ensured consistent formatting and linking and once we had this workflow in place it was easy to add more references and cite them.
