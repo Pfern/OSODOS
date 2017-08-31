@@ -9,12 +9,8 @@ It is relatively easy to produce and accumulate bad records and store bad datase
 ### Data provenance
 In Data Science, the the WWWH question is usually referred to as **provenance**. 
 
-Provenance in data is tied not only to the Data Collection act but also to the its futher movements between databases. Provenance may or not entail ownership and licensing of its use. If the appropriate steps, as will be explained below, are taken, authenticated provenance implies authorship. To dig further, here is an interesting document about Data Provenance: 
+Provenance in data is tied not only to the Data Collection act but also to the its futher movements between databases. Provenance may or not entail ownership and licensing of its use. If the appropriate steps, as will be explained below, are taken, authenticated provenance implies authorship. To dig further, [[Buneman2000](../REFERENCES#Buneman2000)] is an interesting document about Data Provenance.
 
-<!-- added to mendeley -->
-**Buneman P., Khanna S., and Tan, W.-C.** Data Provenance: Some Basic Issues http://db.cis.upenn.edu/DL/fsttcs.pdf 
-[[Buneman2000](../REFERENCES#Buneman2000)]
- 
 When Data Collection is performed via a service of some kind, such as the work from a Core Facility or Analytics provider, even more care must be put into fully describing the provenance. The reliability of a good provider is measurable, as described in the [reproducibility](../REPRODUCIBILTY) part of this course. This should not be confused with the reliability of a specific set of measurements. Here the evaluation of data quality should be intrinsic to each dataset, and taken into consideration in the analytical steps that follow.
 
 For example, in a sequencing project, the final preparation of the samples and the actual running of the sequencing job is not usually in the hands of the experimentalist, and is handled by service personnel in a facility. The results of a sequencing run are usually handed to the requester via a usually large amount of files, either in a folder deposited in a server or in a hard disk that can be shipped. Either way care is taken to use standardised formats and keep data integrity. The fist thing that the experimenter should do is assess data quality and decide on a strategy to accept or reject records and to clean up the artifacts. 
@@ -35,13 +31,7 @@ A program like FastQC can look at the dataset from a varietey of different persp
 The above example shows an instance of data capture where, because we have large datasets in hands, a statistical assessment of quality may be comfortable or easy to perform. Also, this step in the provenance comes from a single machine, run by an identifiable team of professionals that, in principle, checks the ientire service provision regularly for the quality of the service itself. That is obvously not the case if we are dealing with field work, for example, where sample are collected by human agents that we barely know, over a large geographical area in a long period. It is very different if samples travel at different times and via different routes. It is very different if samples are measured with different instruments with different checking and calibrtation routines. In such cases, finding commonality is an issue, uncontrollable sources of variation in measurements can occur, even if we are only measuring weight with a scale or length with a ruler!
 
 ### Minimal information standards
-In cooperative work, the need for adoption of standards and formats is even higher and simple things like the reliable time stamping of the datasets can serously compromise the accreditation of datasets. Likewise, as the result of serious efforts in standardisation, consortia have worked on the definition of stanadrdised ways of describing experiments, and managed to reduce their summarised information to minimum sets of descriptors. Here are some examples  of such specifications:
-
-<!-- added to Mendeley -->
-- Minimum information about a microarray experiment (MIAME) https://www.nature.com/ng/journal/v29/n4/pdf/ng1201-365.pdf
-
-<!-- added to Mendeley -->
-- Minimum information about a proteomics experiment (MIAPE) https://www.nature.com/nbt/journal/v25/n8/pdf/nbt1329.pdf 
+In cooperative work, the need for adoption of standards and formats is even higher and simple things like the reliable time stamping of the datasets can serously compromise the accreditation of datasets. Likewise, as the result of serious efforts in standardisation, consortia have worked on the definition of stanadrdised ways of describing experiments, and managed to reduce their summarised information to minimum sets of descriptors. [[Brazma2001](../REFERENCES#Brazma2001)] and [[Taylor2007](../REFERENCES#Taylor2007)] are some examples  of such specifications.
 
 This is only the tip of the iceberg. If you continue to dig ito this subject you will find that much more can be done to enhance not only the reliability, but also the traceability, for example. In any case, always keep original data and invest on its correct annotation and storage. 
 
