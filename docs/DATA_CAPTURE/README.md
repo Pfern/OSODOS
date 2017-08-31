@@ -13,6 +13,7 @@ Provenance in data is tied not only to the Data Collection act but also to the i
 
 <!-- added to mendeley -->
 **Buneman P., Khanna S., and Tan, W.-C.** Data Provenance: Some Basic Issues http://db.cis.upenn.edu/DL/fsttcs.pdf 
+[[Buneman2000](../REFERENCES#Buneman2000)]
  
 When Data Collection is performed via a service of some kind, such as the work from a Core Facility or Analytics provider, even more care must be put into fully describing the provenance. The reliability of a good provider is measurable, as described in the [reproducibility](../REPRODUCIBILTY) part of this course. This should not be confused with the reliability of a specific set of measurements. Here the evaluation of data quality should be intrinsic to each dataset, and taken into consideration in the analytical steps that follow.
 
