@@ -1,9 +1,6 @@
 Data Sharing in the scientific community
 ========================================
-Collaboration is a natural, essential element in research. Sharing of resources amongst scientists should be a lot easier than it is, as it finds expected and unexpected barriers everywhere. It is also natural to expect that the more abstract objects are the easier it is to share them, at least on the technical aspects, size, costs, etc. Sharing data to enable collaboration is a path that you might like to start exploring by using some guidance and the one that can be found here:
-
-<!-- added to Mendeley -->
-http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005278
+Collaboration is a natural, essential element in research. Sharing of resources amongst scientists should be a lot easier than it is, as it finds expected and unexpected barriers everywhere. It is also natural to expect that the more abstract objects are the easier it is to share them, at least on the technical aspects, size, costs, etc. Sharing data to enable collaboration across disparate locations is a path that you might like to start exploring by using some guidance, e.g. as outlined in [[Boland2017](../REFERENCES#Boland2017)].
 
 This article will equip you with ideas about sharing data in various types of environments, considering the concerns that emerge from mixing different policies and resulting restrictions. Standards, databases, policies about data sharing are quite comprehensively compiled by the BioSharing team at https://biosharing.org/
 
