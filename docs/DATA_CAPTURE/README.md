@@ -39,3 +39,12 @@ In cooperative work, the need for adoption of standards and formats is even high
 - Minimum information about a proteomics experiment (MIAPE) https://www.nature.com/nbt/journal/v25/n8/pdf/nbt1329.pdf 
 
 This is only the tip of the iceberg. If you continue to dig ito this subject you will find that much more can be done to enhance not only the reliability, but also the traceability, for example. In any case, always keep original data and invest on its correct annotation and storage. 
+
+Accomplishments
+---------------
+After exploring this module, you should now be able to:
+- Figure out how to collect datasets so that WWWH (who, where, when and how) questions can always be unequivocally answered.
+- How to document datasets so that provenance is uniquely assigned
+- How to assess data quality early, while it is being collected
+- How to locate and respect standards for minimal information about experiments
+
