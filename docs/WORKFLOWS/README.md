@@ -10,7 +10,7 @@ Organising a computational analysis
 A computational analysis workflow chains [software tools](../SCIENTIFIC_SOFTWARE) together in a series of steps that operate on [data](../DATA_CAPTURE). Although each analysis will be different, some common file types (source code, compiled executables, data files, configuration files, etc.) are usually involved. Hence, a common project organisation such as shown in [example 1](#w1) can probably be applied. Adopting such a scheme will result in a predictable, self-documenting structure that you can easily pick back up even if you return to a project months later. In this example, the basic layout is as follows:
 
 - **doc** - contains documentation files leading up to a scholarly manuscript
-- **data** - data files and metadata (i.e. data about data), here as README text files
+- **data** - data files and metadata (i.e. data about data, here as README text files)
 - **src** - source code for compiled executables
 - **bin** - compiled executables and scripts (i.e. the [$PATH](https://en.wikipedia.org/wiki/PATH_(variable)) for the workflow)
 - **results** - outcomes of analysis steps
