@@ -11,6 +11,7 @@ In Data Science, the the WWWH question is usually referred to as **provenance**.
 
 Provenance in data is tied not only to the Data Collection act but also to the its futher movements between databases. Provenance may or not entail ownership and licensing of its use. If the appropriate steps, as will be explained below, are taken, authenticated provenance implies authorship. To dig further, here is an interesting document about Data Provenance: 
 
+<!-- added to mendeley -->
 **Buneman P., Khanna S., and Tan, W.-C.** Data Provenance: Some Basic Issues http://db.cis.upenn.edu/DL/fsttcs.pdf 
  
 When Data Collection is performed via a service of some kind, such as the work from a Core Facility or Analytics provider, even more care must be put into fully describing the provenance. The reliability of a good provider is measurable, as described in the [reproducibility](../REPRODUCIBILTY) part of this course. This should not be confused with the reliability of a specific set of measurements. Here the evaluation of data quality should be intrinsic to each dataset, and taken into consideration in the analytical steps that follow.
@@ -35,7 +36,10 @@ The above example shows an instance of data capture where, because we have large
 ### Minimal information standards
 In cooperative work, the need for adoption of standards and formats is even higher and simple things like the reliable time stamping of the datasets can serously compromise the accreditation of datasets. Likewise, as the result of serious efforts in standardisation, consortia have worked on the definition of stanadrdised ways of describing experiments, and managed to reduce their summarised information to minimum sets of descriptors. Here are some examples  of such specifications:
 
+<!-- added to Mendeley -->
 - Minimum information about a microarray experiment (MIAME) https://www.nature.com/ng/journal/v29/n4/pdf/ng1201-365.pdf
+
+<!-- added to Mendeley -->
 - Minimum information about a proteomics experiment (MIAPE) https://www.nature.com/nbt/journal/v25/n8/pdf/nbt1329.pdf 
 
 This is only the tip of the iceberg. If you continue to dig ito this subject you will find that much more can be done to enhance not only the reliability, but also the traceability, for example. In any case, always keep original data and invest on its correct annotation and storage. 
