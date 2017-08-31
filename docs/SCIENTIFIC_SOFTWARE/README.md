@@ -1,6 +1,6 @@
 This module will show you ways to improve scientific software code and script development
 =========================================================================================
-Research in the life sciences is increasingly <!-- added to Mendeley --> [computational](https://doi.org/10.1371/journal.pbio.2002050), which, because all research is about expanding what is known, means that the development and application of new computational methods is part of the field. Even if you are primarily a bench scientist or a field worker, you should have some awareness of scientific computing. How is software code written and how can you do this collaboratively? How does one use the code of others? How do you share your own? How to improve your code, and make it verifiable and testable? Here we will address these questions and some of the approaches and community standards that are in current usage.
+Research in the life sciences is increasingly computational (or so says [[Markowetz2017](../REFERENCES#Markowetz2017)] in a somewhat controversial paper), which, because all research is about expanding what is known, means that the development and application of new computational methods is part of the field. Even if you are primarily a bench scientist or a field worker, you should have some awareness of scientific computing. How is software code written and how can you do this collaboratively? How does one use the code of others? How do you share your own? How to improve your code, and make it verifiable and testable? Here we will address these questions and some of the approaches and community standards that are in current usage.
 
 Picking the right tools
 -----------------------
@@ -61,13 +61,7 @@ In every programming language in common usage in scientific computing there are 
 - Sets of tests can be integrated automatically in [systems](https://en.wikipedia.org/wiki/Continuous_integration) that run periodically (for example, every time a [version change is recorded](../VERSIONING)) to verify that the system still functions as intended.
 - If you make major changes in the architecture of the software you can verify automatically that this change did not break anything.
 
-For further reading on these and related topics, you may be interested in:
-
-<!-- added to Mendeley -->
-- **Taschuk, M. and Wilson G.**, 2017. Ten simple rules for making research software more robust. _PLoS Computational Biology_ 13(4):e1005412 [[pdf](Ten_simple_rules_for_making_research_software_more_robust.pdf)] doi:[10.1371/journal.pcbi.1005412](https://doi.org/10.1371/journal.pcbi.1005412)
-
-<!-- added to Mendeley -->
-- **List, M., Ebert, P. and Albrecht, F.**, 2017. Ten simply rules for developing usable software in computational biology. _PLoS Computational Biology_ 13(1):e1005265 [[pdf](Ten_simple_rules_for_developing_usable_software_in_computational_biology.pdf)] doi:[10.1371/journal.pcbi.1005265](https://doi.org/10.1371/journal.pcbi.1005265)
+For further reading on these and related topics, you may be interested in the guidelines provided by [[Taschuk2017](../REFERENCES#Taschuk2017)] and [[List2017](../REFERENCES#List2017)].
 
 Accomplishments
 ---------------

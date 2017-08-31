@@ -67,10 +67,9 @@ To a large extent, the problems of lack of protection arise from the inadequacy 
 
 Accomplishments
 ---------------
-Afteer exploring this module you must:
+After exploring this module you must:
 
 - Be aware of the factors that justify the need for a data management plan.
 - Know where to get guidelines or inspiration to create a data management plan
-- Be confident about what best practices to pick from the Research Data Management resource in learn-rdm.eu
+- Be confident about what best practices to pick from the Research Data Management resource in http://learn-rdm.eu/en/dissemination/
 - Be aware of the specicific difficulties that arise when sensitive data is used
-
