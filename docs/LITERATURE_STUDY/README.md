@@ -47,10 +47,10 @@ At present, the most popular of these is probably Mendeley. It has several virtu
 To make this work across computers and within research collaborations, you will need to install the Mendeley desktop application on each of the participating computers (whether your own or of a collaborator). The application will then synchronise bibliographies and PDFs across these installations on request. This way, you and your collaborators all around the world can assemble a shared collection of relevant literature.
 
 > To give you an idea of how this works in practice, here is the workflow that we followed when we wrote these pages:
-> 1. We collected references using the Mendeley browser bookmarklet, which resulted in a [public library](https://www.mendeley.com/community/osodos/). We then made sure in Mendeley Desktop that every reference has an author, year, title, journal, and doi. We also made sure that all authors only had initials in their first names.
-> 2. We then exported the Mendeley library to a [bibtex file](https://github.com/Pfern/OSODOS/blob/master/assets/references.bib)
-> 3. We ran a [script](https://github.com/Pfern/OSODOS/blob/master/src/bib2markdown.py) that converts the bibtex file to a list of references in Markdown 
-> 4. We then cited the references by their bibtex key, e.g. `[Zhang2014](../REFERENCES#Zhang2014)`
+> 1. We collected references using the [Mendeley browser bookmarklet](https://www.mendeley.com/reference-management/web-importer), which resulted in a [public library](https://www.mendeley.com/community/osodos/). We then made sure in [Mendeley Desktop](https://www.mendeley.com/download-mendeley-desktop/) that every reference has an author, year, title, journal, and doi. We also made sure that all authors only had initials in their first names.
+> 2. We  exported the library to a [bibtex file](https://github.com/Pfern/OSODOS/blob/master/assets/references.bib)
+> 3. We wrote a [script](https://github.com/Pfern/OSODOS/blob/master/src/bib2markdown.py) that converts the bibtex file to a list of references in Markdown, the format in which these pages are written.
+> 4. In the various pages, we then cited the references by their bibtex key, creating a clickable link to the list of references, using syntax such as: `[Zhang2014](../REFERENCES#Zhang2014)`
 
 Accomplishments
 ---------------
