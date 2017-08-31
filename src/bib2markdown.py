@@ -10,17 +10,20 @@ with open(sys.argv[1]) as bibtex_file:
 
 bib_database = bibtexparser.loads(bibtex_str)
 
+print "References"
+print "=========="
+
 for entry in bib_database.entries:
 
 	# this is an HTML anchor so we can refer to the reference entry in markdown as:
 	# [Foo2017](../REFERENCES#Foo2017)
-	print '<a name="{}">'.format(entry['ID'])
+	print '<a name="{}"></a>'.format(entry['ID'])
 	
 	# bibtex separates authors with ' and '
 	authors = entry['author'].replace(' and ', ', ')
 	
 	# these keys are (supposed to be) in every entry
-	print '**{}**. {}. {}. _{}_.'.format(
+	print '**{}** {}. {}. _{}_.'.format(
 		authors, 
 		entry['year'], 
 		entry['title'], 
@@ -40,4 +43,5 @@ for entry in bib_database.entries:
 		print '{}.'.format(entry['pages']),
 	
 	# should appear in every entry:
-	print '[[{}](http://doi.org/{})]\n'.format(entry['doi'],entry['doi'])
+	print '[[{}](http://doi.org/{})]'.format(entry['doi'],entry['doi']),
+	print '`[id:{}]`\n'.format(entry['ID'])
