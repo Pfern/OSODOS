@@ -73,4 +73,3 @@ Afteer exploring this module you must:
 - Know where to get guidelines or inspiration to create a data management plan
 - Be confident about what best practices to pick from the Research Data Management resource in learn-rdm.eu
 - Be aware of the specicific difficulties that arise when sensitive data is used
-
