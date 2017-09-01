@@ -6,14 +6,18 @@ This article will equip you with ideas about sharing data in various types of en
 
 Choosing a platform
 -------------------
-In what concerns platforms to share various types of data, a researcher has access to a reasonable amount of choice. At present (June 2017), we invite you to explore a number of repositories. Often they are complemented with a series of services that offer some specific advantages, such las linking to publications, providing licensing options, offering digital object identifiers (DOI) They differ quite considerably in their policies, level of curation and organization methods. Specificity also occurs in the case of repositiories orienteed towards certain communities of users. Such is the case of digital libraries, for example.
+In what concerns platforms to share various types of data, a researcher has access to a reasonable amount of choice. At present (August 2017), we invite you to explore a number of repositories. Often they are complemented with a series of services that offer some specific advantages, such as linking to publications, providing licensing options, offering digital object identifiers (DOI). They differ quite considerably in their policies, level of curation and organization methods. Specificity also occurs in the case of repositiories orientated towards certain communities of users. Such is the case of digital libraries, for example.
 
 - **Dryad Digital Repository** "The Dryad Digital Repository is a curated resource that makes the data underlying scientific publications discoverable, freely reusable, and citable. Dryad provides a general-purpose home for a wide diversity of datatypes." http://datadryad.org/
 
 - **FigShare** "As governments and funders of research see the benefit of open content, the creation of recommendations, mandates and enforcement of mandates are coming thick and fast. figshare has always led the way in enabling academics, publishers and institutions to easily adhere to these principles in the most intuitive and efficient manner." Mark Hahnel, Founder and CEO, figshare https://figshare.com/
 
-General list of repositories
-----------------------------
+- **Zenodo** "Zenodo helps researchers receive credit by making the research results citable and through OpenAIRE integrates them into existing reporting lines to funding agencies like the European Commission. Citation information is also passed to DataCite and onto the scholarly aggregators." https://zenodo.org/
+
+- **Dataverse** "Dataverse is an open source web application to share, preserve, cite, explore, and analyze research data. It facilitates making data available to others, and allows you to replicate others' work more easily. Researchers, data authors, publishers, data distributors, and affiliated institutions all receive academic credit and web visibility." https://dataverse.org/
+
+List of domain-specific repositories
+------------------------------------
 Nature publishes an online resource at https://www.nature.com/sdata/policies/repositories that points to a large variety of data repositories.
 
 Licensing, Attribution and Openness in Data Repositories
