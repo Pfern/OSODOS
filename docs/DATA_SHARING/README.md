@@ -90,6 +90,6 @@ Accomplishments
 In this section we have discussed the different infrastructural solutions for sharing research data and how these relate to the developing principles for data sharing. You should now be able to:
 - Explain what the terms of the **FAIR** acronym stand for in relation to data sharing
 - Explain the difference between sharing raw and intermediate data, and result data
-- Assess the advantages and drawbacks of sharing data via email, USB drives, peer-to-peer, HTTP, FTP and RSync
+- Assess the advantages and drawbacks of different data sharing approaches within teams
 - Be able to locate the appropriate domain-specific repository for a given, common research data type (e.g. DNA sequence)
-- Be able to locate several generic repositories for opaque research data and weight their advantages and drawbacks against domain-specific repositories
+- Be able to locate generic repositories for opaque research data and weigh their advantages and drawbacks against domain-specific ones
