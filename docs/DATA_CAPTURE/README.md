@@ -2,7 +2,7 @@
 On how to enhance data capture techniques in order to produce more reliable records
 ===================================================================================
 
-Capturing data in a laboratory is a daily operation that easily falls in routine chores. Something that can be a way to pile-up habits, both good and bad. Good data capture habits result in organised datasets in which one can find the means to reconstruct the capture itself, identify the instruments that were used, the reactants, the people intervening, etc. For a scientist, even if working alone, good datasets are an assurance that his/her attitude towards a rigorous relationship with the experiments started correctly. To the questions who, where, when and how (WWWH) did you get your data, one can exect to be able to answer unequivocally. 
+Capturing data in a laboratory is a daily operation that easily falls in routine chores. Something that can be a way to pile-up habits, both good and bad. Good data capture habits result in organised datasets in which one can find the means to reconstruct the capture itself, identify the instruments that were used, the reactants, the people intervening, etc. For a scientist, even if working alone, good datasets are an assurance that his/her attitude towards a rigorous relationship with the experiments started correctly. To the questions who, where, when and how (WWWH) did you get your data, one can exect to be able to answer unequivocally. That information needs to feed the annotation that is recorded together with the dataset at or near the data capture time.
 
 It is relatively easy to produce and accumulate bad records and store bad datasets that have little or zero scientific value. Apparently good practices like keeping a lab-book, usually mandatory nowadays, are NOT a guarantee that experiments are properly recorded into datasets that allow anyone, including the original researcher, to fully address the WWWH questions, to start with. For example, a bad habit that apparently looks good is to record data in spreadsheets, occasionally print parts of spreadsheets on paper and glue tables in the lab-book. Easily the WWWH questions become unanswerable, the content of such a table becomes artificially dependent from other recorded information in the lab-book but it easily detaches from it with a simple annotation mistake. Highly dangerous, yet quite common practice. Worse than just being bad, it can "look" good, misleadingly!
 
@@ -35,11 +35,14 @@ In cooperative work, the need for adoption of standards and formats is even high
 
 This is only the tip of the iceberg. If you continue to dig ito this subject you will find that much more can be done to enhance not only the reliability, but also the traceability, for example. In any case, always keep original data and invest on its correct annotation and storage. 
 
-Accomplishments
----------------
-After exploring this module, you should now be able to:
-- Figure out how to collect datasets so that WWWH (who, where, when and how) questions can always be unequivocally answered.
-- How to document datasets so that provenance is uniquely assigned
-- How to assess data quality early, while it is being collected
-- How to locate and respect standards for minimal information about experiments
+### Negative data
+It is quite common that data that is collected from experiments is not usable to prove working hypotheses. In fact, in some cases it would just disprove them. By convention we call it **negative data**. Unfortunately there is no common agreement on what to do with it, and in most cases it gets hiden from everybody else. Yet, it is quite obvious that it could play an important role  in avoiding useless experimentation and even bad hypothesis formulation. For the time being, responsible researchers should always keept this kind of data in repositories where it should be labelled as having been considered negative, and annotated just as any other dataset. Possibly awaiting reuse, negative data should not be discarded. 
 
+Expected Outcomes
+-----------------
+After exploring this module, you should be able to:
+- Figure out how to collect and annotate datasets so that WWWH (who, where, when and how) questions can always be unequivocally answered.
+- Document datasets so that provenance is uniquely assigned
+- Assess data quality early, while it is being collected
+- Locate and respect standards for minimal information about experiments
+- Think about a strategy to deal with your own negative data
