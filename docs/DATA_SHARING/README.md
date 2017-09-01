@@ -6,6 +6,11 @@ This article will equip you with ideas about sharing data in various types of en
 
 Depositing result data
 ----------------------
+The final outcomes of a data-intensive research projects in terms of data are referred to as "result data". For example, for a genome re-sequencing project, these are the specific gene variants detected in the individuals that were sequenced (e.g. see [this pyramid](../VERSIONING#v3)). These are the data that the conclusions of any associated scholarly publications will probably be most intimately tied to, and the pressures to share these data will therefore come from more sides than in the case of raw or intermediate data:
+
+1. Funding agencies more and more require that these data are shared.
+2. Many journal require that these data are deposited in a data repository such that the associated publication refers to a public, clearly identifiable, data record.
+3. A publication based on open, reusable data is more likely to be cited (e.g. by 9% in the case of microarray data [[Piwowar2013](../REFERENCES#Piwowar2013)]).
 
 ### Generic data repositories
 In what concerns platforms to share various types of data, a researcher has access to a reasonable amount of choice. At present (August 2017), we invite you to explore a number of repositories. Often they are complemented with a series of services that offer some specific advantages, such as linking to publications, providing licensing options, offering digital object identifiers (DOI). They differ quite considerably in their policies, level of curation and organization methods. Specificity also occurs in the case of repositiories orientated towards certain communities of users. Such is the case of digital libraries, for example.
