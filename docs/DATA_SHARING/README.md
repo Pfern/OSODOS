@@ -84,3 +84,12 @@ Licensing, Attribution and Openness in Data Repositories
 Data made available via open repositories enables a series of attractive opportunities for researchers. First, the opportunity for attaching an attribution to the work of capturing, storing and curating data. Credit is assigned to the depositor following well established and understood rules, in general this is ensure by assigning one of the variants of the [Creative Commons licensing scheme](https://creativecommons.org/licenses/). (Refer to [the equivalent session on this topic for software development](../SCIENTIFIC_SOFTWARE#rights-and-licenses) to see what is done with source code.)
 
 Data sharing in this way also enables reuse and, in particular, reprocessing. This exposure of data to other resarchers, students and the public is gaining popularity. It is obvious that others may find more from the same data by using different tools with different parameter settings and options, and it is interesting to observe that it can be used preserving attribution. On the other hand, the opportunities that arise when combining heterogeneous datasets may allow for important steps that would be much more difficult otherwise. 
+
+Accomplishments
+---------------
+In this section we have discussed the different infrastructural solutions for sharing research data and how these relate to the developing principles for data sharing. You should now be able to:
+- Explain what the terms of the **FAIR** acronym stand for in relation to data sharing
+- Explain the difference between sharing raw and intermediate data, and result data
+- Assess the advantages and drawbacks of sharing data via email, USB drives, peer-to-peer, HTTP, FTP and RSync
+- Be able to locate the appropriate domain-specific repository for a given, common research data type (e.g. DNA sequence)
+- Be able to locate several generic repositories for opaque research data and weight their advantages and drawbacks against domain-specific repositories
