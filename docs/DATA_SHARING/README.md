@@ -1,10 +1,10 @@
 Data Sharing in the scientific community
 ========================================
-Collaboration is a natural, essential element in research. Sharing of resources amongst scientists should be a lot easier than it is, as it finds expected and unexpected barriers everywhere. In recent years, issues surrounding scientific data sharing have received a lot of attention, and this has led both to a better understanding of the right principles and practices that should surround such sharing as well as to better infrastructure. 
+Collaboration is a natural, essential element in research. However, sharing of resources amongst scientists should be a lot easier than it is, as it finds expected and unexpected barriers everywhere. In recent years, issues surrounding scientific data sharing have received a lot of attention, and this has led both to a better understanding of the right principles and practices that should surround such sharing as well as to better infrastructure. 
 
 The FAIR Guiding Principles
 ---------------------------
-The principle that (should) guide scientific data sharing are abbreviated as **FAIR**, which stands for _Findable, Accessible, Interoperable, Reusable_. What is meant by this is outlined below, and discussed in much greater detail in [[Wilkinson2016](../REFERENCES#Wilkinson2016)].
+The principles that (should) guide scientific data sharing are abbreviated as **FAIR**, which stands for _Findable, Accessible, Interoperable, Reusable_. What is meant by this is outlined below, and discussed in much greater detail in [[Wilkinson2016](../REFERENCES#Wilkinson2016)].
 
 > To be **Findable**:
 > - F1. (meta)data are assigned a [globally unique and persistent identifier](../VERSIONING)
@@ -29,7 +29,7 @@ The principle that (should) guide scientific data sharing are abbreviated as **F
 > - R1.2. (meta)data are associated with detailed provenance
 > - R1.3. (meta)data meet domain-relevant community standards
 
-Many different standards, databases, and policies can be adopted and combined to comply with these general principles. These are indexed on [FAIRSharing](https://fairsharing.org/), which also contains an extensive educational section.
+Many different standards, databases, and policies can be adopted and combined to develop practices that comply with these general principles. These are collected on [FAIRSharing](https://fairsharing.org/), which also contains an extensive educational section.
 
 Sharing raw and intermediate data
 ---------------------------------
