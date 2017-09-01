@@ -85,8 +85,8 @@ Data made available via open repositories enables a series of attractive opportu
 
 Data sharing in this way also enables reuse and, in particular, reprocessing. This exposure of data to other resarchers, students and the public is gaining popularity. It is obvious that others may find more from the same data by using different tools with different parameter settings and options, and it is interesting to observe that it can be used preserving attribution. On the other hand, the opportunities that arise when combining heterogeneous datasets may allow for important steps that would be much more difficult otherwise. 
 
-Accomplishments
----------------
+Expected Outcomes
+-----------------
 In this section we have discussed the different infrastructural solutions for sharing research data and how these relate to the developing principles for data sharing. You should now be able to:
 - Explain what the terms of the **FAIR** acronym stand for in relation to data sharing
 - Explain the difference between sharing raw and intermediate data, and result data
