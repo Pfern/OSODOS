@@ -42,6 +42,9 @@ References
 <a name="Perez2016"></a>
 **Perez-Riverol, Y., Gatto, L., Wang, R., Sachsenberg, T., Uszkoreit, J., Leprevost, F., Fufezan, C., Ternent, T., Eglen, S. J., Katz, D. S., Pollard, T. J., Konovalov, A., Flight, R. M., Blin, K., Vizcaino, J. A.** 2016. Ten Simple Rules for Taking Advantage of Git and GitHub. _PLoS Computational Biology_. **12** (7): e1004947. [[10.1371/journal.pcbi.1004947](http://doi.org/10.1371/journal.pcbi.1004947)] `[id:Perez2016]`
 
+<a name="Piwowar2013"></a>
+**Piwowar, H. A., Vision, T. J.** 2013. Data reuse and the open data citation advantage. _PeerJ_. **1** : e175. [[10.7717/peerj.175](http://doi.org/10.7717/peerj.175)] `[id:Piwowar2013]`
+
 <a name="Pond2009"></a>
 **Pond, S. K., Wadhawan, S., Chiaromonte, F., Ananda, G., Chung, W. Y., Taylor, J., Nekrutenko, A.** 2009. Windshield splatter analysis with the Galaxy metagenomic pipeline. _Genome Research_. **19** (11): 2144--2153. [[10.1101/gr.094508.109](http://doi.org/10.1101/gr.094508.109)] `[id:Pond2009]`
 
