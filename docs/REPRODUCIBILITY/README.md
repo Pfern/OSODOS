@@ -25,6 +25,7 @@ Here are two tutorials that can be helpful:
 - https://www.moresteam.com/toolbox/design-of-experiments.cfm
 - https://www.asm.org/index.php/colloquium-reports/item/4510-promoting-responsible-scientific-research
 
+Case studies and lessons from the data-intensive sciences: _The Practice of Reproducible Research_:
 
+- https://www.practicereproducibleresearch.org/
 
- 
