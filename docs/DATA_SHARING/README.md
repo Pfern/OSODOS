@@ -1,5 +1,5 @@
-Data Sharing in the scientific community
-========================================
+How to share research data fairly and sensibly
+==============================================
 Collaboration is a natural, essential element in research. However, sharing of resources amongst scientists should be a lot easier than it is, as it finds expected and unexpected barriers everywhere. In recent years, issues surrounding scientific data sharing have received a lot of attention, and this has led both to a better understanding of the right principles and practices that should surround such sharing as well as to better infrastructure. 
 
 The FAIR Guiding Principles
