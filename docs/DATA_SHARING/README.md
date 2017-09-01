@@ -8,9 +8,10 @@ Depositing result data
 ----------------------
 The final outcomes of a data-intensive research projects in terms of data are referred to as "result data". For example, for a genome re-sequencing project, these are the specific gene variants detected in the individuals that were sequenced (e.g. see [this pyramid](../VERSIONING#v3)). These are the data that the conclusions of any associated scholarly publications will probably be most intimately tied to, and the pressures to share these data will therefore come from more sides than in the case of raw or intermediate data:
 
-1. Funding agencies more and more require that these data are shared.
-2. Many journal require that these data are deposited in a data repository such that the associated publication refers to a public, clearly identifiable, data record.
+1. Funding agencies more and more require that these data are shared. Research projects funded by such agencies probably need to submit a [data management plan](../DATA_MANAGEMENT) for approval to the agency that describes how this will be handled.
+2. Many journals require that these data are deposited in a data repository such that the associated publication refers to a public, clearly identifiable, data record. (In addition to policies of individual journals, community initiatives to establish author guidelines to this end are being developed [[Nosek2015](../REFERENCES#Nosek2015)].)
 3. A publication based on open, reusable data is more likely to be cited (e.g. by 9% in the case of microarray data [[Piwowar2013](../REFERENCES#Piwowar2013)]).
+4. Data sets themselves might be citable, which is a vision that is being advanced, for example, by the [Joint Declaration of Data Citation Principles](https://www.force11.org/group/joint-declaration-data-citation-principles-final) and by infrastructural initiatives such as [DataCite](https://www.datacite.org/).
 
 ### Generic data repositories
 In what concerns platforms to share various types of data, a researcher has access to a reasonable amount of choice. At present (August 2017), we invite you to explore a number of repositories. Often they are complemented with a series of services that offer some specific advantages, such as linking to publications, providing licensing options, offering digital object identifiers (DOI). They differ quite considerably in their policies, level of curation and organization methods. Specificity also occurs in the case of repositiories orientated towards certain communities of users. Such is the case of digital libraries, for example.
