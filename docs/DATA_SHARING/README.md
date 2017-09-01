@@ -1,11 +1,36 @@
 Data Sharing in the scientific community
 ========================================
-Collaboration is a natural, essential element in research. Sharing of resources amongst scientists should be a lot easier than it is, as it finds expected and unexpected barriers everywhere. It is also natural to expect that the more abstract objects are the easier it is to share them, at least on the technical aspects, size, costs, etc. Sharing data to enable collaboration across disparate locations is a path that you might like to start exploring by using some guidance, e.g. as outlined in [[Boland2017](../REFERENCES#Boland2017)].
+Collaboration is a natural, essential element in research. Sharing of resources amongst scientists should be a lot easier than it is, as it finds expected and unexpected barriers everywhere. In recent years, issues surrounding scientific data sharing have received a lot of attention, and this has led both to a better understanding of the right principles and practices that should surround such sharing as well as to better infrastructure. 
 
-This article will equip you with ideas about sharing data in various types of environments, considering the concerns that emerge from mixing different policies and resulting restrictions. Standards, databases, policies about data sharing are quite comprehensively compiled by the BioSharing team at https://biosharing.org/
+The FAIR Guiding Principles
+---------------------------
+The principle that (should) guide scientific data sharing are abbreviated as **FAIR**, which stands for _Findable, Accessible, Interoperable, Reusable_. What is meant by this is outlined below, and discussed in much greater detail in [[Wilkinson2016](../REFERENCES#Wilkinson2016)].
+
+> To be **Findable**:
+> - F1. (meta)data are assigned a [globally unique and persistent identifier](../VERSIONING)
+> - F2. data are described with rich metadata (defined by R1 below)
+> - F3. metadata clearly and explicitly include the identifier of the data it describes
+> - F4. (meta)data are registered or indexed in a searchable resource
+> To be **Accessible**:
+> - A1. (meta)data are retrievable by their identifier using a standardized communications protocol
+> - A1.1 the protocol is open, free, and universally implementable
+> - A1.2 the protocol allows for an authentication and authorization procedure, where necessary
+> - A2. metadata are accessible, even when the data are no longer available
+> To be **Interoperable**:
+> - I1. (meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation.
+> - I2. (meta)data use [vocabularies](../SEMANTICS) that follow FAIR principles
+> - I3. (meta)data include qualified references to other (meta)data
+> To be **Reusable**:
+> - R1. meta(data) are richly described with a plurality of accurate and relevant attributes
+> - R1.1. (meta)data are released with a clear and accessible data usage license
+> - R1.2. (meta)data are associated with detailed provenance
+> - R1.3. (meta)data meet domain-relevant community standards
+
+Many different standards, databases, and policies can be adopted and combined to comply with these general principles. These are indexed on [FAIRSharing](https://fairsharing.org/), which also contains an extensive educational section.
 
 Sharing raw and intermediate data
 ---------------------------------
+Sharing data to enable collaboration across disparate locations is a path that you might like to start exploring by using some guidance, e.g. as outlined in [[Boland2017](../REFERENCES#Boland2017)].
 
 Depositing result data
 ----------------------
