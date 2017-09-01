@@ -9,8 +9,14 @@ References
 <a name="Buneman2000"></a>
 **Buneman, P., Khanna, S., Tan, W.-C.** 2000. Data Provenance: Some Basic Issues. _Lecture Notes in Computer Science: Foundations of Software Technology and Theoretical Computer Science_. **1974** : 87--93. [[10.1007/3-540-44450-5_6](http://doi.org/10.1007/3-540-44450-5_6)] `[id:Buneman2000]`
 
+<a name="Chavan2011"></a>
+**Chavan, V., Penev, L.** 2011. The data paper: a mechanism to incentivize data publishing in biodiversity science. _BMC Bioinformatics_. **12** (Suppl 15): S2. [[10.1186/1471-2105-12-S15-S2](http://doi.org/10.1186/1471-2105-12-S15-S2)] `[id:Chavan2011]`
+
 <a name="Cock2009"></a>
 **Cock, P. J. A., Fields, C. J., Goto, N., Heuer, M. L., Rice, P. M.** 2009. The Sanger FASTQ file format for sequences with quality scores, and the Solexa/Illumina FASTQ variants. _Nucleic Acids Research_. **38** (6): 1767--1771. [[10.1093/nar/gkp1137](http://doi.org/10.1093/nar/gkp1137)] `[id:Cock2009]`
+
+<a name="Gewin2016"></a>
+**Gewin, V.** 2016. Data sharing: An open mind on open data. _Nature_. **529** (7584): 117--119. [[10.1038/nj7584-117a](http://doi.org/10.1038/nj7584-117a)] `[id:Gewin2016]`
 
 <a name="Hart2016"></a>
 **Hart, E. M., Barmby, P., LeBauer, D., Michonneau, F., Mount, S., Mulrooney, P., Poisot, T., Woo, K. H., Zimmerman, N. B., Hollister, J. W.** 2016. Ten Simple Rules for Digital Data Storage. _PLoS Computational Biology_. **12** (10): e1005097. [[10.1371/journal.pcbi.1005097](http://doi.org/10.1371/journal.pcbi.1005097)] `[id:Hart2016]`
@@ -36,6 +42,9 @@ References
 <a name="Noble2009"></a>
 **Noble, W. S.** 2009. A quick guide to organizing computational biology projects. _PLoS Computational Biology_. **5** (7): e1000424. [[10.1371/journal.pcbi.1000424](http://doi.org/10.1371/journal.pcbi.1000424)] `[id:Noble2009]`
 
+<a name="Nosek2015"></a>
+**Nosek, B. A., Alter, G., Banks, G. C., Borsboom, D., Bowman, S. D., Breckler, S. J., Buck, S., Chambers, C. D., Chin, G., Christensen, G., Contestabile, M., Dafoe, A., Eich, E., Freese, J., Glennerster, R., Goroff, D., Green, D. P., Hesse, B., Humphreys, M., Ishiyama, J., Karlan, D., Kraut, A., Lupia, A., Mabry, P., Madon, T., Malhotra, N., Mayo-Wilson, E., McNutt, M., Miguel, E., Paluck, E. L., Simonsohn, U., Soderberg, C., Spellman, B. A., Turitto, J., VandenBos, G., Vazire, S., Wagenmakers, E. J., Wilson, R., Yarkoni, T.** 2015. Promoting an open research culture. _Science_. **348** (6242): 1422--1425. [[10.1126/science.aab2374](http://doi.org/10.1126/science.aab2374)] `[id:Nosek2015]`
+
 <a name="Pepe2017"></a>
 **Pepe, A., Cantiello, M., Nicholson, J.** 2017. The arXiv of the future will not look like the arXiv. _Authorea preprint_. [[10.22541/au.149693987.70506124](http://doi.org/10.22541/au.149693987.70506124)] `[id:Pepe2017]`
 
@@ -48,6 +57,9 @@ References
 <a name="Pond2009"></a>
 **Pond, S. K., Wadhawan, S., Chiaromonte, F., Ananda, G., Chung, W. Y., Taylor, J., Nekrutenko, A.** 2009. Windshield splatter analysis with the Galaxy metagenomic pipeline. _Genome Research_. **19** (11): 2144--2153. [[10.1101/gr.094508.109](http://doi.org/10.1101/gr.094508.109)] `[id:Pond2009]`
 
+<a name="Sandve2013"></a>
+**Sandve, G. K., Nekrutenko, A., Taylor, J., Hovig, E.** 2013. Ten Simple Rules for Reproducible Computational Research. _PLoS Computational Biology_. **9** (10): e1003285. [[10.1371/journal.pcbi.1003285](http://doi.org/10.1371/journal.pcbi.1003285)] `[id:Sandve2013]`
+
 <a name="Taschuk2017"></a>
 **Taschuk, M., Wilson, G.** 2017. Ten simple rules for making research software more robust. _PLoS Computational Biology_. **13** (4): e1005412. [[10.1371/journal.pcbi.1005412](http://doi.org/10.1371/journal.pcbi.1005412)] `[id:Taschuk2017]`
 
@@ -56,6 +68,9 @@ References
 
 <a name="Weinberger2015"></a>
 **Weinberger, C. J., Evans, J. A., Allesina, S.** 2015. Ten simple (Empirical) rules for writing science. _PLoS Computational Biology_. **11** (4): e1004205. [[10.1371/journal.pcbi.1004205](http://doi.org/10.1371/journal.pcbi.1004205)] `[id:Weinberger2015]`
+
+<a name="Wilkinson2016"></a>
+**Wilkinson, M. D., Dumontier, M., Aalbersberg, I. J. J., Appleton, G., Axton, M., Baak, A., Blomberg, N., Boiten, J.-W., {da Silva Santos}, L. B., Bourne, P. E., Bouwman, J., Brookes, A. J., Clark, T., Crosas, M, Dillo, I., Dumon, O., Edmunds, S., Evelo, C. T., Finkers, R., Gonzalez-Beltran, A., Gray, A. J. G., Groth, P., Goble, C., Grethe, J. S., Heringa, J., {'t Hoen}, P. A. C., Hooft, R., Kuhn, T., Kok, R., Kok, J., Lusher, S. J., Martone, M. E., Mons, A., Packer, A. L., Persson, B., Rocca-Serra, P., Roos, M., van Schaik, R., Sansone, S.-A., Schultes, E., Sengstag, T., Slater, T., Strawn, G., Swertz, M. A., Thompson, M., van der Lei, J., van Mulligen, E., Velterop, J., Waagmeester, A., Wittenburg, P., Wolstencroft, K., Zhao, J., Mons, B.** 2016. The FAIR Guiding Principles for scientific data management and stewardship.. _Scientific data_. **3** : 160018. [[10.1038/sdata.2016.18](http://doi.org/10.1038/sdata.2016.18)] `[id:Wilkinson2016]`
 
 <a name="Zhang2014"></a>
 **Zhang, W.** 2014. Ten Simple Rules for Writing Research Papers. _PLoS Computational Biology_. **10** (1): e1003453. [[10.1371/journal.pcbi.1003453](http://doi.org/10.1371/journal.pcbi.1003453)] `[id:Zhang2014]`
