@@ -4,10 +4,10 @@ Research in the life sciences is increasingly computational (or so says [[Markow
 
 Picking the right tools
 -----------------------
-All source code, and a lot of research data (molecular sequence data, tabular data, analysis logs, etc.), consists of plain text files. Programs that are intended for composing prose and tables for human readers (such as Microsoft Word and Excel) are wholely unsuitable for operating on such text files: they might do things such as automatically convert "simple" quotes to ‚Äúsmart‚Äù ones, which might invalidate your data; convert between different, local conventions for decimal points, which are commas in some countries; attempt to run spell checks on data, which clutters the screen with useless information; attempt to export to proprietary file formats. 
+All source code, and a lot of research data (molecular sequence data, tabular data, analysis logs, etc.), consists of plain text files. Programs that are intended for composing prose and tables for human readers (such as Microsoft Word and Excel) are wholely unsuitable for operating on such text files: they might do things such as automatically convert "simple" quotes to ‚ÄúsmartÄù ones, which might invalidate your data; convert between different, local conventions for decimal points, which are commas in some countries; attempt to run spell checks on data, which clutters the screen with useless information; attempt to export to proprietary file formats. 
 
 ### Text editors
-Because of the aforementioned problems with using word processors to edit plain text, the first, right tool to either locate on your computer or install if it isn't there, is a [text editor](https://en.wikipedia.org/wiki/Text_editor). There are good, free, lighweight editors for every operating system, for example:
+Because of the aforementioned problems with using word processors to edit plain text, the first, right tool to either locate on your computer or install if it isn't there, is a [text editor](https://en.wikipedia.org/wiki/Text_editor). There are good, free, lightweight editors for every operating system, for example:
 
 - On Windows there is [notepad++](https://notepad-plus-plus.org/) and [editpad](https://www.editpadlite.com/)
 - On OSX there is [BBedit](https://www.barebones.com/products/bbedit/)
