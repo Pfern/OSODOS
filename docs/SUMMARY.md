@@ -1,5 +1,5 @@
 # Open Science, Open Data, Open Source
-* [Front matter](FRONT_MATTER) <!-- disclaimers, colofon, etc. -->
+* [Front matter](README.md) <!-- disclaimers, colofon, etc. -->
 * [Who is this for?](ROADMAP)
 * Open Science
     * [How to navigate the scientific record](LITERATURE_STUDY)
@@ -10,3 +10,5 @@
     * [How to capture data to produce reliable records](DATA_CAPTURE)
     * [How to manage data and plan for it](DATA_MANAGEMENT)
     * [How to share research data fairly and sensibly](DATA_SHARING)
+* Open Source
+    * [How to do analyses in a workflow-oriented manner](WORKFLOWS)
