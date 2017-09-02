@@ -1,5 +1,5 @@
-Hoe to improve scientific software code and script development
-==============================================================
+How to improve scientific source code and script development
+============================================================
 Research in the life sciences is increasingly computational (or so says [[Markowetz2017](../REFERENCES#Markowetz2017)] in a somewhat controversial paper), which, because all research is about expanding what is known, means that the development and application of new computational methods is part of the field. Even if you are primarily a bench scientist or a field worker, you should have some awareness of scientific computing. How is software code written and how can you do this collaboratively? How does one use the code of others? How do you share your own? How to improve your code, and make it verifiable and testable? Here we will address these questions and some of the approaches and community standards that are in current usage.
 
 Picking the right tools
