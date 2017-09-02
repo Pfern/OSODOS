@@ -59,7 +59,7 @@ Apart from doing good, open science and publishing it in high-impact journals th
 
 The next step towards being credited correctly for your work is being identifiable. Citations are tracked by automated processes (such as [Web of Science](http://ipscience.thomsonreuters.com/product/web-of-science/) and [Google Scholar](http://scholar.google.com)) that scan the literature for citations to your work and compute metrics such as the [H](https://en.wikipedia.org/wiki/H-index) index. If these automated processes encounter multiple, different versions of your name, e.g. because you got married and took on your spouse's name, or you have middle names, then some citations might not flow towards you but to your alias. This is one of the reasons why systems such as the [ORCID](https://en.wikipedia.org/wiki/ORCID), which identifies researchers with an identifier that can be attached to publications, have come into usage.
 
-Expected Outcomes
+Expected outcomes
 -----------------
 In this section we discussed scientific publishing. After reading this, you should be able to:
 - Outline the main steps of the scholarly publishing cycle
