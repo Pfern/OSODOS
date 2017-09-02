@@ -1,5 +1,5 @@
-Open access, open data, open source
-===================================
+Open Science, Open Data, Open Source
+====================================
 21st century research skills for the life sciences
 --------------------------------------------------
 _Pedro Fernandes_ and _Rutger Vos_
