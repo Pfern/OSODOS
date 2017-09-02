@@ -7,10 +7,5 @@ Idea:
 adopts unambiguous terminology, etc.
 
 
-
-
-Learn Data Science
-https://github.com/nborwankar/LearnDataScience
-
 Scikit-learn Tutorial
 https://github.com/jakevdp/sklearn_tutorial
