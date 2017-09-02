@@ -1,5 +1,5 @@
-Data Management
-===============
+How to manage data and plan for it
+==================================
 Anyone handling data should be aware of the need to manage it. There are risks of loss or corruption, there is growth, there is the possible need to share, there is attribution, etc.
 
 The need for data management and the need to create plans
@@ -65,7 +65,7 @@ Particularly acute cases arise when we speak about sensitive data, as for exampl
 
 To a large extent, the problems of lack of protection arise from the inadequacy of legislation. In general terms, there is very limited or no punishment for perpetrators that abuse the fundamental rights of individuals using sensitive data, for example non-anonimised health data used for businesses such as insurance companies, employers, etc.
 
-Expected Outcomes
+Expected outcomes
 -----------------
 After exploring this module you will:
 - Be aware of the factors that justify the need for a data management plan.
