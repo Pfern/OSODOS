@@ -1,5 +1,5 @@
-This module will show you how to manage research output going through different versions
-========================================================================================
+How to manage research output going through different versions
+==============================================================
 Every output of every project, whether a manuscript, some data, or an analytical workflow goes through an unpredictable number of versions. Whatever you call the "final" version never is - and you will be happiest accepting this and developing a way of working and collaborating that accommodates change at every stage while keeping specific versions of what you are working on uniquely identifiable. Here we will consider some general principles that apply to the process of version changes and identifiability in scholarly publishing, research data sets, and software code.
 
 Manuscript versioning
@@ -74,8 +74,8 @@ Instead, it is more or less conventional in software development to release soft
 
 Whichever version numbering scheme for software is adopted, it is of vital importance in [computational workflows](../WORKFLOWS) and [reproducibility](../REPRODUCIBILITY) that version numbers are issued consistently by software authors and recorded in sufficient detail by software users.
 
-Accomplishments
----------------
+Expected outcomes
+-----------------
 You have now learned about some of the considerations involved in managing changes in research output in such a way that every changed version can still be unambiguously identified. You should now be able to:
 - Manage collaborative writing of manuscripts using Microsoft Word
 - Make an informed choice between different cloud solutions for writing
