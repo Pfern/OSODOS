@@ -38,8 +38,8 @@ Like all the text files that you invest a lot of time in to develop, the files a
 - **containerisation** - a more lightweight solution for bundling tools that are otherwise difficult to install is offered by "containerisation". Here, the idea is that a lot of the standard components bundled in a virtual machine are actually redundant because the host operating system within which the virtual machine is run has these components as well. Hence, a more lightweight solution can be arrived at by only packaging the non-standard components of a workflow environment into a "container", e.g. as implemented in [Docker](https://www.docker.com/). Note, however, that there has to be tighter relationship between the host operating system and the container (because they share more components), so this approach works best on Linux hosts. Also, there is more potential for security risks than with virtual machines, so providers of compute power (such as, for example, your institutional system administrator) might be less keen to support containers.
 - **provisioning** - another solution to dependency management is to define all the dependencies and the steps to their installation in a script. For example, the SUPERSMART pipeline uses a [puppet](https://puppet.com) script to [install all the dependencies](https://github.com/naturalis/supersmart/blob/master/conf/manifests/default.pp).
 
-Accomplishments
----------------
+Expected outcomes
+-----------------
 You have now learned about computational analysis workflows and should be able to:
 
 - Understand the value of consistent project organisation
