@@ -37,6 +37,9 @@ _Example 2 (ss2) - example output of the modified "Welcome to Python" notebook._
 
 As an exercise of literate programming, try the [Welcome to Python](https://try.jupyter.org/) notebook. Modify the code to draw five (instead of four) curves, labeling the additional one `E`. An example of what the expected output might look like is shown in [example 2](#ss2), but keep in mind that these curves are randomly generated so they will look different every time.
 
+Numerous learning materials for this method of programming exist on the web. As applied specifically to data science, we found the following potentially worthwhile:
+- [LearnDataScience](https://github.com/nborwankar/LearnDataScience)
+
 Working with others
 -------------------
 Like most aspects of scientific research, scientific software development is becoming increasingly collaborative, which means that developers of software code and analytical workflows are increasingly participating in [open source development](https://en.wikipedia.org/wiki/Open-source_software_development). There are numerous idealistic reasons for why this ought to be done (for example, because computational analysis is a research method and so should be transparent in order to be reproducible; or, because scientific software is typically funded publicly, it should be freely available) but there are also very practical, self-interested reasons for adopting open source. The main ones of these are that it allows you to build on the shoulders of others, e.g. by re-using software components developed and published by others, and that it allows you, in turn, to have greater impact with your work, because others will use it (and cite it) in turn. To participate in open source developments, here we discuss some of the main aspects to consider.
