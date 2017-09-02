@@ -13,3 +13,5 @@
 * Open Source
     * [How to do analyses in a workflow-oriented manner](WORKFLOWS)
     * [How to be formally explicit about data and concepts](SEMANTICS)
+    * [How to improve scientific source code development](SCIENTIFIC_SOFTWARE)
+    
