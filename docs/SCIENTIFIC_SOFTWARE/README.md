@@ -1,5 +1,5 @@
-This module will show you ways to improve scientific software code and script development
-=========================================================================================
+Hoe to improve scientific software code and script development
+==============================================================
 Research in the life sciences is increasingly computational (or so says [[Markowetz2017](../REFERENCES#Markowetz2017)] in a somewhat controversial paper), which, because all research is about expanding what is known, means that the development and application of new computational methods is part of the field. Even if you are primarily a bench scientist or a field worker, you should have some awareness of scientific computing. How is software code written and how can you do this collaboratively? How does one use the code of others? How do you share your own? How to improve your code, and make it verifiable and testable? Here we will address these questions and some of the approaches and community standards that are in current usage.
 
 Picking the right tools
@@ -64,8 +64,8 @@ In every programming language in common usage in scientific computing there are 
 
 For further reading on these and related topics, you may be interested in the guidelines provided by [[Taschuk2017](../REFERENCES#Taschuk2017)] and [[List2017](../REFERENCES#List2017)].
 
-Accomplishments
----------------
+Expected outcomes
+-----------------
 You have now had an encounter with some of the principles, tools and techniques that play a role in scientific software development. You should now be able to:
 - Understand why to use a text editor for plain text files
 - Understand what the purpose is of an IDE
