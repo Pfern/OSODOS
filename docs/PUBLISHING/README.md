@@ -1,5 +1,5 @@
-How to publish a scientific article that gets read
-==================================================
+How to publish your research with impact
+========================================
 Elsewhere in these materials we discuss technological solutions and logical principles for [how to study the scientific literature](../LITERATURE_STUDY) and [how to edit and revise a manuscript](../VERSIONING) collaboratively. The next challenges will be to write something good and publish it such that it is most likely to be read, cited, and otherwise recognised. Scientific writing is both a creative exercise in logical exposition and rhetoric as well as a highly rigid following of established rules for document structure and jargon usage. Practice makes perfect, but [[Zhang2014](../REFERENCES#Zhang2014)] and [[Weinberger2015](../REFERENCES#Weinberger2015)] provide some useful guidelines.
 
 The scholarly publishing cycle
