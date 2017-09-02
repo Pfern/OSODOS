@@ -4,9 +4,6 @@ _In silico_ research skills for the life sciences
 -----------------------------------------------
 ![Word cloud of terms in the text](wordle.png)
 
-Background
-----------
-
 Contents
 --------
 ### Science
