@@ -1,6 +1,6 @@
 
-How to enhance data capture to produce more reliable records
-============================================================
+How to capture data to produce reliable records
+===============================================
 
 Capturing data in a laboratory is a daily operation that easily falls in routine chores. Something that can be a way to pile-up habits, both good and bad. Good data capture habits result in organised datasets in which one can find the means to reconstruct the capture itself, identify the instruments that were used, the reactants, the people intervening, etc. For a scientist, even if working alone, good datasets are an assurance that his/her attitude towards a rigorous relationship with the experiments started correctly. To the questions who, where, when and how (WWWH) did you get your data, one can exect to be able to answer unequivocally. That information needs to feed the annotation that is recorded together with the dataset at or near the data capture time.
 
