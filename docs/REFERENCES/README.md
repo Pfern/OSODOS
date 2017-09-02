@@ -18,6 +18,9 @@ References
 <a name="Gewin2016"></a>
 **Gewin, V.** 2016. Data sharing: An open mind on open data. _Nature_. **529** (7584): 117--119. [[10.1038/nj7584-117a](http://doi.org/10.1038/nj7584-117a)] `[id:Gewin2016]`
 
+<a name="Goodman2016"></a>
+**Goodman, S. N., Fanelli, D., Ioannidis, J. P. A.** 2016. What does research reproducibility mean?. _Science Translational Medicine_. **8** (341): 341ps12--341ps12. [[10.1126/scitranslmed.aaf5027](http://doi.org/10.1126/scitranslmed.aaf5027)] `[id:Goodman2016]`
+
 <a name="Hart2016"></a>
 **Hart, E. M., Barmby, P., LeBauer, D., Michonneau, F., Mount, S., Mulrooney, P., Poisot, T., Woo, K. H., Zimmerman, N. B., Hollister, J. W.** 2016. Ten Simple Rules for Digital Data Storage. _PLoS Computational Biology_. **12** (10): e1005097. [[10.1371/journal.pcbi.1005097](http://doi.org/10.1371/journal.pcbi.1005097)] `[id:Hart2016]`
 
@@ -38,6 +41,9 @@ References
 
 <a name="Michener2015"></a>
 **Michener, W. K.** 2015. Ten Simple Rules for Creating a Good Data Management Plan. _PLoS Computational Biology_. **11** (10): e1004525. [[10.1371/journal.pcbi.1004525](http://doi.org/10.1371/journal.pcbi.1004525)] `[id:Michener2015]`
+
+<a name="Mobley2013"></a>
+**Mobley, A., Linder, S. K., Braeuer, R., Ellis, L. M., Zwelling, L.** 2013. A Survey on Data Reproducibility in Cancer Research Provides Insights into Our Limited Ability to Translate Findings from the Laboratory to the Clinic. _PLoS ONE_. **8** (5): e63221. [[10.1371/journal.pone.0063221](http://doi.org/10.1371/journal.pone.0063221)] `[id:Mobley2013]`
 
 <a name="Noble2009"></a>
 **Noble, W. S.** 2009. A quick guide to organizing computational biology projects. _PLoS Computational Biology_. **5** (7): e1000424. [[10.1371/journal.pcbi.1000424](http://doi.org/10.1371/journal.pcbi.1000424)] `[id:Noble2009]`
