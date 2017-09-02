@@ -1,7 +1,7 @@
 How to make your research reproducible
 ======================================
 Reproducibility is a basic requirement of any scientific endeavour. An experiment is simply invalid if another researcher can not produce (substantially) the same set of results from the same input. Anybody, in the same conditions, should be able to follow specifications and reproduce experiments and results. Likewise, experiments shound be robust and perform equally well, independently of the observer. Note that this is distinct from replication, which might be defined as:
-> The ability of a researcher to duplicate the results of a prior study if the same procedures are followed but new data are collected.
+> The ability of a researcher to duplicate the results of a prior study if the same procedures are followed but new data are collected ([[Goodman2016](../REFERENCES#Goodman2016)])
 
 The reproducibility crisis and the aspects of addressing it
 -----------------------------------------------------------
