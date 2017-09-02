@@ -42,7 +42,7 @@ The result of these developments is that scientists have become much more concer
 ### Example cases of reproducible research
 In these pages we introduce the general principles and useful technologies for open source, open data, and open science. However, it is difficult to give one specific recipe to follow: different studies require different analytical tools, use different data types, and are performed by researchers with different ways of thinking, interests, and technological skills. In this context, an instructive collection of case studies is provided in the extensive e-book _[The Practice of Reproducible Research](https://www.practicereproducibleresearch.org/)_, which show the application of the technologies we introduce in these materials in a variety of research domains.
 
-Expected Outcomes
+Expected outcomes
 -----------------
 In this section we have discussed reproducibility in research, ranging from lab measurements to their analysis. We presented general principles and pointed you in the direction of example cases. You should now be able to:
 - Articulate the difference between reproducibility and replicability
