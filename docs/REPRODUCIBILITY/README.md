@@ -40,11 +40,7 @@ The result of these developments is that scientists have become much more concer
 10. **Provide Public Access to Scripts, Runs, and Results** - the time that publications could get away with vague statements that scripts are "available on request" (which are then not honoured) has passed. We strongly endorse an ethic of [open, freely available source code](../SCIENTIFIC_SOFTWARE#working-with-others)
 
 ### Example cases of reproducible research
-In these pages we introduce the general principles and useful technologies for open source, open data, and open science. However, it is difficult to give one specific recipe to follow: different studies require different analytical tools, use different data types, and are performed by researchers with different ways of thinking, interests, and technological skills.
-
-Case studies and lessons from the data-intensive sciences: _The Practice of Reproducible Research_:
-
-- https://www.practicereproducibleresearch.org/
+In these pages we introduce the general principles and useful technologies for open source, open data, and open science. However, it is difficult to give one specific recipe to follow: different studies require different analytical tools, use different data types, and are performed by researchers with different ways of thinking, interests, and technological skills. In this context, an instructive collection of case studies is provided in the extensive e-book _[The Practice of Reproducible Research](https://www.practicereproducibleresearch.org/)_, which show the application of the technologies we introduce in these materials in a variety of research domains.
 
 Expected Outcomes
 -----------------
