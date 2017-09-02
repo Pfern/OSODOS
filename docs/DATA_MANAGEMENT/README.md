@@ -6,8 +6,6 @@ The need for data management and the need to create plans
 ---------------------------------------------------------
 There are several reasons why one should think that data from one or many projects can easily be at risk if not managed properly. Naturally the need to manage data is reduced if the volume of data is low, but it is also true that even small volumes of data that go unmanaged cause serious problems when there is a loss of any kind. Research Funding agencies began to ask for a data management plan in the grant applications. This has obliged researchers to at least get informed, but it is quite clear that training provision in this area is far below the present and foreseeable levels of demand.
 
-Teachers with the [Data Carpentry](http://www.datacarpentry.org/) initiative have been motivated by the above referenced concerns have worked on a set of recommendations (best practices) in a scientific paper [**"Ten Simple Rules for Digital Data Storage"**](../REFERENCES#Hart2016).
-
 Data from research projects
 --------------------------
 Research projects generate enormous quantities of data, every single day. In many cases it is clear that raw, unprocessed data should be kept, but in many others it is not adequate at all. In large scale sequencing, but also in radio astronomy and particle physics, for example, the volumes of raw data are often enormous and their permanent storage is unreasonable. Performing the sequence again may be a lot more adequate, if the ned arises.
@@ -22,8 +20,8 @@ http://data.library.arizona.edu/data-management-plans/data-management-plan-examp
 
 Browsing though several of these you will discover ideas that may fit your requirements, here and there.
 
-Futher examples to illustrate Data Management and sharing (from NIH)
---------------------------------------------------------------------
+Examples to illustrate Data Management and sharing (from NIH)
+-------------------------------------------------------------
 >The precise content and level of detail to be included in a data-sharing plan depends on several factors, such as whether or not the investigator is planning to share data, the size and complexity of the dataset, and the like. Below are several examples of data-sharing plans.
 >
 >Example 1
@@ -42,22 +40,23 @@ Futher examples to illustrate Data Management and sharing (from NIH)
 >
 >User registration is required in order to access or download files. As part of the registration process, users must agree to the conditions of use governing access to the public release data, including restrictions against attempting to identify study participants, destruction of the data after analyses are completed, reporting responsibilities, restrictions on redistribution of the data to third parties, and proper acknowledgement of the data resource. Registered users will receive user support, as well as information related to errors in the data, future releases, workshops, and publication lists. The information provided to users will not be used for commercial purposes, and will not be redistributed to third parties.
 
-Paper on simple rules to prepare a DMP
+Useful resources about data management
 --------------------------------------
-**William K. Michener** has prepared a set of recommendations in a scientific paper [**"Ten Simple Rules for Creating a Good Data Management Plan"**](../REFERENCES#Michener2015).
 
-Online training on Data Management Plans
-----------------------------------------
-A suitable alternative can be acquiring some online training via a simple web-based tutorial on Data Management Plans (DMP), such as this one from PennState University:
+### Publications
+Teachers with the [Data Carpentry](http://www.datacarpentry.org/) initiative have been motivated by the above referenced concerns have worked on a set of recommendations (best practices) in a scientific paper [**"Ten Simple Rules for Digital Data Storage"**](../REFERENCES#Hart2016).
 
-https://www.e-education.psu.edu/dmpt/
+William K. Michener has prepared a set of recommendations in a scientific paper [**"Ten Simple Rules for Creating a Good Data Management Plan"**](../REFERENCES#Michener2015).
 
-Best Practice for Research Data Management 
-------------------------------------------
+### Online training
+A suitable alternative can be acquiring some online training via a simple web-based tutorial on Data Management Plans (DMP), such as [this one](https://www.e-education.psu.edu/dmpt/) from PennState University:
 
-The purpose of LEARN (http://learn-rdm.eu/en/about/) is to take the LERU Roadmap for Research Data produced by the League of European Research Universities (LERU) and to develop this in order to build a coordinated e-infrastructure across Europe and beyond.
+### Best Practices and guidelines
+The purpose of [LEARN](http://learn-rdm.eu/en/about/) is to take the LERU Roadmap for Research Data produced by the League of European Research Universities (LERU) and to develop this in order to build a coordinated e-infrastructure across Europe and beyond.
 
 The  "Toolkit of Best Practice for Research Data Management" can be downloaded from http://learn-rdm.eu/en/dissemination/
+
+Guidelines on FAIR Data Management in Horizon 2020 http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf
 
 Specific issues with sensitive data
 -----------------------------------
