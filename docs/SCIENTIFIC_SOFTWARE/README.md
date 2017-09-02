@@ -1,5 +1,5 @@
-This module will show you ways to improve scientific software code and script development
-=========================================================================================
+How to improve scientific source code and script development
+============================================================
 Research in the life sciences is increasingly computational (or so says [[Markowetz2017](../REFERENCES#Markowetz2017)] in a somewhat controversial paper), which, because all research is about expanding what is known, means that the development and application of new computational methods is part of the field. Even if you are primarily a bench scientist or a field worker, you should have some awareness of scientific computing. How is software code written and how can you do this collaboratively? How does one use the code of others? How do you share your own? How to improve your code, and make it verifiable and testable? Here we will address these questions and some of the approaches and community standards that are in current usage.
 
 Picking the right tools
@@ -27,7 +27,8 @@ viewing various things such as help documentation or statistical plots._
 
 Just like text editors, numerous IDEs exist. For most programming languages there are very good, free options. For example, for the R language for statistics there is [RStudio](https://www.rstudio.com) (shown in [example 1](#ss1)), for Python there is [pycharm](https://www.jetbrains.com/pycharm/), for Java there is [eclipse](https://www.eclipse.org/), and so on.
 
-A slightly different take on source code development that is more geared towards analysis workflows than to application development is provided by the [literate programming](https://en.wikipedia.org/wiki/Literate_programming) paradigm. In this way of working, source code is primarily a prose document, interspersed with bits of executable code and dynamic visualisations. This is found in R programming in the guise of [RMarkdown](http://rmarkdown.rstudio.com/) (an example of this is the [working document](https://github.com/ropensci/RNeXML/blob/master/manuscripts/manuscript.Rmd) that formed the basis of [the publication for the RNeXML library](http://doi.org/10.1111/2041-210X.12469)). The [Jupyter](http://jupyter.org/) system facilitates the same way of working but accommodates more programming languages.
+### Literate programming
+A slightly different take on source code development that is more geared towards analysis workflows than to application development is provided by the [literate programming](https://en.wikipedia.org/wiki/Literate_programming) paradigm. In this way of working, source code is primarily a prose document, interspersed with bits of executable code and dynamic visualisations. This is found in R programming in the guise of [RMarkdown](http://rmarkdown.rstudio.com/) (an example of this is the [working document](https://github.com/ropensci/RNeXML/blob/master/manuscripts/manuscript.Rmd) that formed the basis of [the publication for the RNeXML library](http://doi.org/10.1111/2041-210X.12469)). The [Jupyter](http://jupyter.org/) system facilitates the same way of working but accommodates more programming languages, while [ActivePapers](http://www.activepapers.org/) has a facility for (recursive) inclusion of data from other ActivePapers, i.e. a form of citation.
 
 <a name="ss2"></a>
 ![Example 2, example output of the "Welcome to Python" notebook](SS2.png)
@@ -63,8 +64,8 @@ In every programming language in common usage in scientific computing there are 
 
 For further reading on these and related topics, you may be interested in the guidelines provided by [[Taschuk2017](../REFERENCES#Taschuk2017)] and [[List2017](../REFERENCES#List2017)].
 
-Accomplishments
----------------
+Expected outcomes
+-----------------
 You have now had an encounter with some of the principles, tools and techniques that play a role in scientific software development. You should now be able to:
 - Understand why to use a text editor for plain text files
 - Understand what the purpose is of an IDE

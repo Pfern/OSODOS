@@ -1,5 +1,5 @@
-This module will show you ways to explore, organize and reference scientific literature of use to your research
-===============================================================================================================
+How to explore, organize and reference scientific literature
+============================================================
 The number of scientific journals and the papers they publish keeps growing. Because a lot of this publishing only happens online, the limits to article lengths are also being adhered to less strictly. This has led to a situation where any normal human being can no longer keep abreast of the developments in their field simply by scanning "all" the relevant journals. Which ones are relevant? Which ones are nonsensical, or predatory? How to find what you need? How to get access to what you need? How to organize your own knowledge base? And how to do this collaboratively? Here we will address these questions and the principles behind them, illustrated by some current examples.
 
 ![Randall Munroe on open access publishing](LS2.jpg)
@@ -56,12 +56,12 @@ The pages you are reading now were written in a simple text file syntax (Markdow
 5. While writing the various pages, we cited the references by their bibtex key (a unique identifier that you can make up yourself, for which we used AuthorYear), creating a clickable link to the list of references, using syntax such as: `[Zhang2014](../REFERENCES#Zhang2014)`
 This might seem complicated at first, but it ensured consistent formatting and linking and once we had this workflow in place it was easy to add more references and cite them.
 
-Accomplishments
----------------
+Expected outcomes
+-----------------
 You have now had a chance to look at practical ways of exploring scientific literature. By now, you should be able to:
-- Discover relevant literature
-- Manage your literature
+- Discover relevant literature in a topic, and explain how this is different from using unchecked terms
+- Manage your literature in a platform
 - Share literature with collaborators
 - Insert citations in manuscripts
 - Generate correctly formatted bibliographies
-- Work around some limitations 
+- Work around some of the limitations that emerge from mixing heterogeneous methods

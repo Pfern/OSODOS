@@ -1,5 +1,5 @@
-How to be explicit about what you mean in your data and use common terminology and standards
-============================================================================================
+How to be formally explicit about data and concepts
+===================================================
 In a number of locations in these pages we refer to cases where there is a common understanding among stakeholders of the meaning of certain terms. For example, in discussing [community conventions in open source software development](../SCIENTIFIC_SOFTWARE#community-conventions), certain specific keywords are used in package names and metadata files describing packages; in the issuing of [version numbers](../VERSIONING#version-numbers) for software, where the different parts of a version number contain embedded meaning about how one version differs from the next; in literature search, where search terms might be anchored to specific interpretations, as in the case of [MeSH terms](../LITERATURE_STUDY#medical-subject-headings-mesh); in the description of experiments, where [minimal information standards](../DATA_CAPTURE#minimal-information-standards) define checklists of what to report about an assay. These are all instances where a community has defined the [semantics](https://en.wikipedia.org/wiki/Semantics) of terms, usually for the purpose of integrating information (articles, software) from different sources. In an open world where we want to share our research output with others and others to use our data in turn, similar challenges (and solutions) arise when integrating research data. Here we will discuss some of the general principles to guide is in making our data more amenable to integration.
 
 How to structure data
@@ -81,8 +81,8 @@ Many databases have started to adopt terms from ontologies with which to annotat
 
 As we have seen, ontology terms can be embedded in data files in a variety of ways. Beyond the examples shown here, there are also [open data formats](https://en.wikipedia.org/wiki/Resource_Description_Framework#Serialization_formats) that are explicitly designed for linking ontology terms (and data values) together in [statements](https://www.w3.org/TR/2004/REC-rdf-concepts-20040210/#section-triples) about the world. This is a technique that is intended to link distributed data together on the "[semantic web](https://en.wikipedia.org/wiki/Semantic_Web)", which, although very powerful, is not necessarily something you have to aim for if your goal is simply to adopt common terminology within existing data files. Irrespective of your specific reasons for wanting to use ontology terms, the [growing number of ontologies](https://bioportal.bioontology.org/) complicates choosing the right one. It may therefore be useful to read the guidelines by [[Malone2016](../REFERENCES#Malone2016)] for this.
 
-Accomplishments
----------------
+Expected outcomes
+-----------------
 In this section we have discussed some of the pitfalls in assembling tidy data sets that can be shared and integrated with others. You should now:
 - Be persuaded to tidily structure your data
 - Know to use open, simple data formats

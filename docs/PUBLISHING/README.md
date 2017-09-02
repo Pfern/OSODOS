@@ -12,11 +12,11 @@ Assuming you have managed to draft a manuscript collaboratively into a state you
 
 _Example 1 (p1) - Growth in preprint servers (source: Jordan Anaya)_
 
-When you upload your manuscript to such a server, it might not be type set - so this is your chance to make a pretty PDF, perhaps using an [online authoring tool](https://intercom.help/authorea/publish/submitting-to-biorxiv). What may happen is that a human on the other end will do some checks to see if what you uploaded is indeed a scholarly manuscript and that you have the right to post there (i.e. it is not copyrighted somehow), but it will not be peer reviewed. What, then, is the purpose of this? Here is an [introductory video](https://youtu.be/2zMgY8Dx9co) created by [asapbio](http://asapbio.org/), _a scientist-driven initiative to promote the productive use of preprints in the life sciences._
+When you upload your manuscript to such a server, it might not be type set - so this is your chance to make a pretty PDF, perhaps using an [online authoring tool](https://intercom.help/authorea/publish/submitting-to-biorxiv). What may happen is that a human on the other end will do some checks to see if what you uploaded is indeed a scholarly manuscript and that you have the right to post there (i.e. it is not copyrighted somehow) - and it will likely be assigned a [digital object identifier](https://en.wikipedia.org/wiki/Digital_object_identifier) - but it will not be peer reviewed. What, then, is the purpose of this? Here is an [introductory video](https://youtu.be/2zMgY8Dx9co) created by [asapbio](http://asapbio.org/), _a scientist-driven initiative to promote the productive use of preprints in the life sciences._
 
 [![Preprints](https://img.youtube.com/vi/2zMgY8Dx9co/0.jpg)](https://www.youtube.com/watch?v=2zMgY8Dx9co)
 
-Your preprint will be the first version of your manuscript that is publicly accessible and uniquely identifiable to anyone on the web. It will likely be assigned a [digital object identifier](https://en.wikipedia.org/wiki/Digital_object_identifier) or DOI.
+Your preprint will be the first version of your manuscript that is publicly accessible and uniquely identifiable to anyone on the web. As such, it is means by which you can circulate certain findings quickly and claim "[scientific priority](https://en.wikipedia.org/wiki/Scientific_priority)" while the manuscript is still working its way through peer review and various editorial steps. 
 
 ### Peer review
 Subsequent to, perhaps, an upload to a preprint sever, you will submit your manuscript for peer review and publication in a journal. During this process you will most likely:
@@ -59,3 +59,10 @@ Apart from doing good, open science and publishing it in high-impact journals th
 
 The next step towards being credited correctly for your work is being identifiable. Citations are tracked by automated processes (such as [Web of Science](http://ipscience.thomsonreuters.com/product/web-of-science/) and [Google Scholar](http://scholar.google.com)) that scan the literature for citations to your work and compute metrics such as the [H](https://en.wikipedia.org/wiki/H-index) index. If these automated processes encounter multiple, different versions of your name, e.g. because you got married and took on your spouse's name, or you have middle names, then some citations might not flow towards you but to your alias. This is one of the reasons why systems such as the [ORCID](https://en.wikipedia.org/wiki/ORCID), which identifies researchers with an identifier that can be attached to publications, have come into usage.
 
+Expected outcomes
+-----------------
+In this section we discussed scientific publishing. After reading this, you should be able to:
+- Outline the main steps of the scholarly publishing cycle
+- Explain the purpose of preprints
+- Explain the difference between "green" and "gold" open access
+- Discuss "impact" in the context of scholarly publishing, and various metrics to measure it
