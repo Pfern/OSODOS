@@ -12,7 +12,9 @@ Currently (2016-2017) there is a declared reproducibility crisis. In the biomedi
 ### Quality assurance and control in laboratory data generation
 In the scope of these materials, the concerns are naturally focused on digital data. Elsewhere, we discuss good principles and practices following [data capture](../DATA_CAPTURE). However, in a laboratory that produces measurements one needs to deal with instruments that exhibit drifts and require a variety of standardisation interventions that we generically call calibratons and controls. A good laboratory service keeps a flawless track of those, and becomes capable of responding to auditing operations at any time. The whole procedure is often called quality assurance (QA). 
 
-Industrial production has needed it, in many aspects, ahead of the research world. It has requested very large contributions from statisticians and engineers. Quality assurance is strongly related to quality control (QC) but is not quite the same: QC refers to the detection and evaluation of faults or disturbances, while QA refers to the planning and execution of measures to prevent failures and to respond to their consequences. In many cases it relies on reports from QC. This why one often finds QA and QC together in the same process (QA/QC). An interesting exploration of the meaning of the two terms can be found [here](http://www.onquality.info/2011/10/difference-between-qa-and-qc.html/).
+Industrial production has needed it, in many aspects, ahead of the research world. It has requested very large contributions from statisticians and engineers. Quality assurance is strongly related to quality control (QC) but is not quite the same: QC refers to the detection and evaluation of faults or disturbances, while QA refers to the planning and execution of measures to prevent failures and to respond to their consequences. In many cases it relies on reports from QC. This why one often finds QA and QC together in the same process (QA/QC). 
+
+An interesting exploration of the meaning of the two terms can be found [here](http://www.onquality.info/2011/10/difference-between-qa-and-qc.html/). Briefly put, QA is concerned with the prevention of failures, while QC has to do with their detection.
 
 Standardised QA/QC procedures allow for _intercalibration_, a generic way of referrring to experiments performed in reproducible circumstances in different laboratories or facilities. This is a common way of guaranteeing that quality is not assessed differently, therefore facilities can rely on quality to the point of being able to replace each other if needed, when for example there is an imbalance in measurement capacity that can be occasionally used to correct overloads of requests.
 
@@ -47,5 +49,5 @@ Case studies and lessons from the data-intensive sciences: _The Practice of Repr
 Expected Outcomes
 -----------------
 In this section we have discussed reproducibility in research, ranging from lab measurements to their analysis. We presented general principles and pointed you in the direction of example cases. You should now be able to:
-- Articulate the difference between _reproducibility_ and _replicability_
-- 
+- Articulate the difference between reproducibility and replicability
+- Articulate the difference between quality assurance (QA) and quality control (QC)
