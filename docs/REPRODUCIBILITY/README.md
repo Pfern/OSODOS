@@ -8,13 +8,13 @@ Currently (2016-2017) there is a declared reproducibility crisis. In the biomedi
 
 The result of these developments is that scientists have become much more concerned about reproducibility and have tightened their controls. Scientific societies have studied ways of fighting the lack of reproducibility and issued recommendations (see, for example, the [report produced by the American Academy of Microbiology](https://www.asm.org/index.php/colloquium-reports/item/4510-promoting-responsible-scientific-research)). As well, teams of researchers have formulated their thoughts and documented their approaches for reproducible research. A good example to look at is the paper [Ten Simple Rules for Reproducible Computational Research](../REFERENCES#Sandve2013), which identifies rules that broadly agree with the points we raise in these materials:
 
-1. _For Every Result, Keep Track of How It Was Produced_ - a rule for which the authors emphasise the importance, as we do, of designing analyses as [automated workflows](../WORKFLOWS)
-2. _Avoid Manual Data Manipulation Steps_ a corrolary to the first rule, i.e. automate everything. Manual data manipulation steps cloud the [provenance of data](../DATA_CAPTURE#data-provenance)
-3. _Archive the Exact Versions of All External Programs Used_ - as we [discuss elsewhere](../VERSIONING#software-versioning), tracking of software versions is an important issue, including for reproducibility. As Sandve et al. also point out, this may be addressed by [virtualisation](../WORKFLOWS#sharing-and-re-use)
-4. _Version Control All Custom Scripts_ - indeed, the importance of [versioning](../VERSIONING) of all output can not be emphasised enough
-5. _Record All Intermediate Results, When Possible in Standardized Formats_ - adherence to open standards is vital in numerous contexts, as we discuss in relation to [data capture](../DATA_CAPTURE#minimal-information-standards), [data sharing](../DATA_SHARING#the-fair-guiding-principles), [semantics](../SEMANTICS), and [scientific software](../SCIENTIFIC_SOFTWARE)
-6. _For Analyses That Include Randomness, Note Underlying Random Seeds_ - wherein the authors again make the case for fully specified [workflows](../WORKFLOWS), here in connection with the importance of recording all parameters
-7. _Always Store Raw Data behind Plots_ - another way of saying that manual data manipulation, including in the case of visualisations, must be avoided
+1. **For Every Result, Keep Track of How It Was Produced** - a rule for which the authors emphasise the importance, as we do, of designing analyses as [automated workflows](../WORKFLOWS)
+2. **Avoid Manual Data Manipulation Steps** a corrolary to the first rule, i.e. automate everything. Manual data manipulation steps cloud the [provenance of data](../DATA_CAPTURE#data-provenance)
+3. **Archive the Exact Versions of All External Programs Used** - as we [discuss elsewhere](../VERSIONING#software-versioning), tracking of software versions is an important issue, including for reproducibility. As Sandve et al. also point out, this may be addressed by [virtualisation](../WORKFLOWS#sharing-and-re-use)
+4. **Version Control All Custom Scripts** - indeed, the importance of [versioning](../VERSIONING) of all output can not be emphasised enough
+5. **Record All Intermediate Results, When Possible in Standardized Formats** - adherence to open standards is vital in numerous contexts, as we discuss in relation to [data capture](../DATA_CAPTURE#minimal-information-standards), [data sharing](../DATA_SHARING#the-fair-guiding-principles), [semantics](../SEMANTICS), and [scientific software](../SCIENTIFIC_SOFTWARE)
+6. **For Analyses That Include Randomness, Note Underlying Random Seeds** - wherein the authors again make the case for fully specified [workflows](../WORKFLOWS), here in connection with the importance of recording all parameters
+7. **Always Store Raw Data behind Plots** - another way of saying that manual data manipulation, including in the case of visualisations, must be avoided
 
 Quality assurance and control
 -----------------------------
