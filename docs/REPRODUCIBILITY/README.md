@@ -1,6 +1,7 @@
 How to make your research reproducible
 ======================================
-Reproducibility is a basic requirement of any scientific endeavour. An experiment is simply invalid if, when replicated, it does not produce (substantially) the same set of results or at least an approximate set of results. Anybody, in the same conditions, should be able to follow specifications and reproduce experiments and results. Likewise, experiments shound be robust and perform equally well, independently of the observer.
+Reproducibility is a basic requirement of any scientific endeavour. An experiment is simply invalid if another researcher can not produce (substantially) the same set of results from the same input. Anybody, in the same conditions, should be able to follow specifications and reproduce experiments and results. Likewise, experiments shound be robust and perform equally well, independently of the observer. Note that this is distinct from replication, which might be defined as:
+> The ability of a researcher to duplicate the results of a prior study if the same procedures are followed but new data are collected.
 
 The reproducibility crisis and the aspects of addressing it
 -----------------------------------------------------------
@@ -34,15 +35,8 @@ The result of these developments is that scientists have become much more concer
 9. **Connect Textual Statements to Underlying Results** - we suggest that one of the ways in which this can be done is by adopting an approach that encourages "[literate programming](../SCIENTIFIC_SOFTWARE#literate-programming)"
 10. **Provide Public Access to Scripts, Runs, and Results** - the time that publications could get away with vague statements that scripts are "available on request" (which are then not honoured) has passed. We strongly endorse an ethic of [open, freely available source code](../SCIENTIFIC_SOFTWARE#working-with-others)
 
-### Specific approaches for reproducible research
-
-Quality assurance and control
------------------------------
-
-
-Intercalibration
-----------------
-
+### Example cases of reproducible research
+In these pages we introduce the general principles and useful technologies for open source, open data, and open science. However, it is difficult to give one specific recipe to follow: different studies require different analytical tools, use different data types, and are performed by researchers with different ways of thinking, interests, and technological skills.
 
 Case studies and lessons from the data-intensive sciences: _The Practice of Reproducible Research_:
 
