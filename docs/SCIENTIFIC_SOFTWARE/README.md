@@ -39,6 +39,7 @@ As an exercise of literate programming, try the [Welcome to Python](https://try.
 
 Numerous learning materials for this method of programming exist on the web. As applied specifically to data science, we found the following potentially worthwhile:
 - [LearnDataScience](https://github.com/nborwankar/LearnDataScience)
+- [Scikit-learn](https://github.com/jakevdp/sklearn_tutorial)
 
 Working with others
 -------------------
