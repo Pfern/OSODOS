@@ -1,6 +1,6 @@
 
-On how to enhance data capture techniques in order to produce more reliable records
-===================================================================================
+How to enhance data capture to produce more reliable records
+============================================================
 
 Capturing data in a laboratory is a daily operation that easily falls in routine chores. Something that can be a way to pile-up habits, both good and bad. Good data capture habits result in organised datasets in which one can find the means to reconstruct the capture itself, identify the instruments that were used, the reactants, the people intervening, etc. For a scientist, even if working alone, good datasets are an assurance that his/her attitude towards a rigorous relationship with the experiments started correctly. To the questions who, where, when and how (WWWH) did you get your data, one can exect to be able to answer unequivocally. That information needs to feed the annotation that is recorded together with the dataset at or near the data capture time.
 
@@ -38,7 +38,7 @@ This is only the tip of the iceberg. If you continue to dig ito this subject you
 ### Negative data
 It is quite common that data that is collected from experiments is not usable to prove working hypotheses. In fact, in some cases it would just disprove them. By convention we call it **negative data**. Unfortunately there is no common agreement on what to do with it, and in most cases it gets hiden from everybody else. Yet, it is quite obvious that it could play an important role  in avoiding useless experimentation and even bad hypothesis formulation. For the time being, responsible researchers should always keept this kind of data in repositories where it should be labelled as having been considered negative, and annotated just as any other dataset. Possibly awaiting reuse, negative data should not be discarded. 
 
-Expected Outcomes
+Expected outcomes
 -----------------
 After exploring this module, you should be able to:
 - Figure out how to collect and annotate datasets so that WWWH (who, where, when and how) questions can always be unequivocally answered.
