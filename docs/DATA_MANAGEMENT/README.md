@@ -52,11 +52,9 @@ William K. Michener has prepared a set of recommendations in a scientific paper 
 A suitable alternative can be acquiring some online training via a simple web-based tutorial on Data Management Plans (DMP), such as [this one](https://www.e-education.psu.edu/dmpt/) from PennState University:
 
 ### Best Practices and guidelines
-The purpose of [LEARN](http://learn-rdm.eu/en/about/) is to take the LERU Roadmap for Research Data produced by the League of European Research Universities (LERU) and to develop this in order to build a coordinated e-infrastructure across Europe and beyond.
+The purpose of [LEARN](http://learn-rdm.eu/en/about/) is to take the LERU Roadmap for Research Data produced by the League of European Research Universities (LERU) and to develop this in order to build a coordinated e-infrastructure across Europe and beyond. The "Toolkit of Best Practice for Research Data Management" associated with this initiative can be downloaded from http://learn-rdm.eu/en/dissemination/
 
-The  "Toolkit of Best Practice for Research Data Management" can be downloaded from http://learn-rdm.eu/en/dissemination/
-
-Guidelines on FAIR Data Management in Horizon 2020 http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf
+The FAIR principles, which we discuss [elsewhere](DATA_SHARING#the-fair-guiding-principles), have been adopted by the Horizon 2020 framework program. Hence, [Guidelines on FAIR Data Management in Horizon 2020]( http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf) have been established.
 
 Specific issues with sensitive data
 -----------------------------------
