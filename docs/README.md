@@ -5,18 +5,6 @@ _In silico_ research skills for the life sciences
 
 ![Word cloud of terms in the text](wordle.png)
 
-Who is this for?
-----------------
-### Graduate students
-
-### Lab technicians
-
-### Data scientists
-
-### Principal investigators
-
-### Publishers
-
 Disclaimer
 ----------
 
