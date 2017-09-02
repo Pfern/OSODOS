@@ -1,12 +1,20 @@
-Reproducible research
-=====================
+How to make your research reproducible
+======================================
 Reproducibility is a basic requirement of any scientific endeavour. An experiment is simply invalid if, when replicated, does not produce the same set of results or least an approximate set of results. Anybody, in the same conditions, should be able to follow specifications and reproduce experiments and results. Likewise, experiments shound be robust and perform equally well, independently of the observer.
 
 The reproducibility crisis
 --------------------------
-Currently (2016-2017) there is a declared reproducibility crisis. In the biomedical area, attempts to reproduce experiments with cancer cells, for example, have repostedly failed. In consequence, some papers had to be retracted. Several efforts have been put in place to provide systematic reproduction of experiments at various scales at the level of core facilities, laboratories, research institutes, universities and service providers. Since 2012, an international initiative is in place to make it happen in a systematic way http://blogs.plos.org/everyone/2012/08/14/plos-one-launches-reproducibility-initiative/
+Currently (2016-2017) there is a declared reproducibility crisis. In the biomedical area, attempts to reproduce experiments with cancer cells, for example, have repeatedly failed. In consequence, some papers have had to be retracted. Several efforts have been put in place to provide systematic reproduction of experiments at various scales at the level of core facilities, laboratories, research institutes, universities and service providers. For example, since 2012, a [PLoS initiative](http://blogs.plos.org/everyone/2012/08/14/plos-one-launches-reproducibility-initiative/) is in place to make it happen in a systematic way.
 
-The end result is that scientists became much more concerned about reproducibilty and tightened their controls. Scientific societies have studied ways of figthing the lack of reproducibility and issued recommendations (see, for example, https://www.asm.org/index.php/colloquium-reports/item/4510-promoting-responsible-scientific-research). Within the recommendation, training is clearly a priority, at various levels.
+The result of these developments is that scientists have become much more concerned about reproducibility and have tightened their controls. Scientific societies have studied ways of fighting the lack of reproducibility and issued recommendations (see, for example, the [report produced by the American Academy of Microbiology](https://www.asm.org/index.php/colloquium-reports/item/4510-promoting-responsible-scientific-research)). As well, teams of researchers have formulated their thoughts and documented their approaches for reproducible research. A good example to look at is the paper [Ten Simple Rules for Reproducible Computational Research](../REFERENCES#Sandve2013), which identifies rules that broadly agree with the points we raise in these materials:
+
+1. _For Every Result, Keep Track of How It Was Produced_ - a rule for which the authors emphasise the importance, as we do, of designing analyses as [automated workflows](../WORKFLOWS)
+2. _Avoid Manual Data Manipulation Steps_ a corrolary to the first rule, i.e. automate everything. Manual data manipulation steps cloud the [provenance of data](../DATA_CAPTURE#data-provenance)
+3. _Archive the Exact Versions of All External Programs Used_ - as we [discuss elsewhere](../VERSIONING#software-versioning), tracking of software versions is an important issue, including for reproducibility. As Sandve et al. also point out, this may be addressed by [virtualisation](../WORKFLOWS#sharing-and-re-use)
+4. _Version Control All Custom Scripts_ - indeed, the importance of [versioning](../VERSIONING) of all output can not be emphasised enough
+5. _Record All Intermediate Results, When Possible in Standardized Formats_ - adherence to open standards is vital in numerous contexts, as we discuss in relation to [data capture](../DATA_CAPTURE#minimal-information-standards), [data sharing](../DATA_SHARING#the-fair-guiding-principles), [semantics](../SEMANTICS), and [scientific software](../SCIENTIFIC_SOFTWARE)
+6. _For Analyses That Include Randomness, Note Underlying Random Seeds_ - wherein the authors again make the case for fully specified [workflows](../WORKFLOWS), here in connection with the importance of recording all parameters
+7. _Always Store Raw Data behind Plots_ - another way of saying that manual data manipulation, including in the case of visualisations, must be avoided
 
 Quality assurance and control
 -----------------------------
