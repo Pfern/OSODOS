@@ -15,7 +15,7 @@ The result of these developments is that scientists have become much more concer
 5. **Record All Intermediate Results, When Possible in Standardized Formats** - adherence to open standards is vital in numerous contexts, as we discuss in relation to [data capture](../DATA_CAPTURE#minimal-information-standards), [data sharing](../DATA_SHARING#the-fair-guiding-principles), [semantics](../SEMANTICS), and [scientific software](../SCIENTIFIC_SOFTWARE)
 6. **For Analyses That Include Randomness, Note Underlying Random Seeds** - wherein the authors again make the case for fully specified [workflows](../WORKFLOWS), here in connection with the importance of recording all parameters
 7. **Always Store Raw Data behind Plots** - another way of saying that manual data manipulation, including in the case of visualisations, must be avoided
-8. **Generate Hierarchical Analysis Output, Allowing Layers of Increasing Detail to Be Inspected**
+8. **Generate Hierarchical Analysis Output, Allowing Layers of Increasing Detail to Be Inspected** - indeed, we note the need to develop an approach that allows you to drill down from the top of the data pyramid to its base in the section on [publishing result data](../DATA_SHARING#publishing-result-data)
 9. **Connect Textual Statements to Underlying Results** - we suggest that one of the ways in which this can be done is by adopting an approach that encourages "[literate programming](../SCIENTIFIC_SOFTWARE#literate-programming)"
 
 Quality assurance and control
