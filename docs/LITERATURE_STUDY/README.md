@@ -56,12 +56,12 @@ The pages you are reading now were written in a simple text file syntax (Markdow
 5. While writing the various pages, we cited the references by their bibtex key (a unique identifier that you can make up yourself, for which we used AuthorYear), creating a clickable link to the list of references, using syntax such as: `[Zhang2014](../REFERENCES#Zhang2014)`
 This might seem complicated at first, but it ensured consistent formatting and linking and once we had this workflow in place it was easy to add more references and cite them.
 
-Accomplishments
----------------
+Expected Outcomes
+-----------------
 You have now had a chance to look at practical ways of exploring scientific literature. By now, you should be able to:
-- Discover relevant literature
-- Manage your literature
+- Discover relevant literature in a topic, and explain how this is different from using unchecked terms
+- Manage your literature in a platform
 - Share literature with collaborators
 - Insert citations in manuscripts
 - Generate correctly formatted bibliographies
-- Work around some limitations 
+- Work around some of the limitations that emerge from mixing heterogeneous methods
