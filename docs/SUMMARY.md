@@ -12,3 +12,4 @@
     * [How to share research data fairly and sensibly](DATA_SHARING)
 * Open Source
     * [How to do analyses in a workflow-oriented manner](WORKFLOWS)
+    * [How to be formally explicit about data and concepts](SEMANTICS)
