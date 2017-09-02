@@ -51,3 +51,4 @@ Expected Outcomes
 In this section we have discussed reproducibility in research, ranging from lab measurements to their analysis. We presented general principles and pointed you in the direction of example cases. You should now be able to:
 - Articulate the difference between reproducibility and replicability
 - Articulate the difference between quality assurance (QA) and quality control (QC)
+- Describe the role of automated workflows in reproducibility of research
