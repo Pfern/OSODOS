@@ -2,7 +2,6 @@ Open access, open data, open source
 ===================================
 
 _In silico_ research skills for the life sciences
--------------------------------------------------
 
 ![Word cloud of terms in the text](wordle.png)
 
