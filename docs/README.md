@@ -1,7 +1,8 @@
 Open access, open data, open source
 ===================================
-
-_In silico_ research skills for the life sciences
+21st century research skills for the life sciences
+--------------------------------------------------
+_Pedro Fernandes_ and _Rutger Vos_
 
 ![Word cloud of terms in the text](wordle.png)
 
