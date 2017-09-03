@@ -1,9 +1,6 @@
 theme: jekyll-theme-slate
 encoding: UTF-8
 
-pygments: true
-
-
 picture:
   source: assets/images/_fullsize
   output: generated
