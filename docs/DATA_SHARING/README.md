@@ -1,13 +1,13 @@
 How to share research data fairly and sensibly
 ==============================================
-Collaboration is a natural, essential element in research. However, sharing of resources amongst scientists should be a lot easier than it is, as it finds expected and unexpected barriers everywhere. In recent years, issues surrounding scientific data sharing have received a lot of attention (e.g. see [[Gewin2016](../REFERENCES#Gewin2016)]), and this has led both to a better understanding of the right principles and practices that should surround such sharing as well as to better infrastructure. 
+Collaboration is a natural, essential element in research. However, sharing of resources amongst scientists should be a lot easier than it is, as it finds expected and unexpected barriers everywhere. In recent years, issues surrounding scientific data sharing have received a lot of attention (e.g. see [[Gewin2016](../REFERENCES/README.md#Gewin2016)]), and this has led both to a better understanding of the right principles and practices that should surround such sharing as well as to better infrastructure. 
 
 The FAIR Guiding Principles
 ---------------------------
-The principles that (should) guide scientific data sharing are abbreviated as **FAIR**, which stands for _Findable, Accessible, Interoperable, Reusable_. What is meant by this is outlined below, and discussed in much greater detail in [[Wilkinson2016](../REFERENCES#Wilkinson2016)].
+The principles that (should) guide scientific data sharing are abbreviated as **FAIR**, which stands for _Findable, Accessible, Interoperable, Reusable_. What is meant by this is outlined below, and discussed in much greater detail in [[Wilkinson2016](../REFERENCES/README.md#Wilkinson2016)].
 
 > To be **Findable**:
-> - F1. (meta)data are assigned a [globally unique and persistent identifier](../VERSIONING)
+> - F1. (meta)data are assigned a [globally unique and persistent identifier](../VERSIONING/README.md)
 > - F2. data are described with rich metadata (defined by R1 below)
 > - F3. metadata clearly and explicitly include the identifier of the data it describes
 > - F4. (meta)data are registered or indexed in a searchable resource
@@ -20,7 +20,7 @@ The principles that (should) guide scientific data sharing are abbreviated as **
 >
 > To be **Interoperable**:
 > - I1. (meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation.
-> - I2. (meta)data use [vocabularies](../SEMANTICS) that follow FAIR principles
+> - I2. (meta)data use [vocabularies](../SEMANTICS/README.md) that follow FAIR principles
 > - I3. (meta)data include qualified references to other (meta)data
 >
 > To be **Reusable**:
@@ -33,7 +33,7 @@ Many different standards, databases, and policies can be adopted and combined to
 
 Assuming that we are persuaded by the wisdom of these FAIR principles, we may want to adopt them in our own research when it comes to sharing our data in various contexts. Among these contexts we can at least distinguish between the sharing of raw and intermediate data (for example, within a collaborative network) and the publishing of our "final", result data, i.e. when we finished with our analyses and want to share our conclusions with the world. 
 
-In either case, many of the FAIR principles can be implemented following guidelines we establish elsewhere on these pages. For example, to be properly **Findable**, our data should treated at least according to our suggestions in the section on [versioning](../VERSIONING); and to be **Interoperable** and **Reusable** we should describe our data collection process following reporting standards such as described in the section on [data capture](../DATA_CAPTURE), we should express the meaning of our data and metadata using clear, unambiguous [semantics](../SEMANTICS), and we should adopt open, community standards for representing our data, as we elaborate on in the section on [open source](../SCIENTIFIC_SOFTWARE). 
+In either case, many of the FAIR principles can be implemented following guidelines we establish elsewhere on these pages. For example, to be properly **Findable**, our data should treated at least according to our suggestions in the section on [versioning](../VERSIONING/README.md); and to be **Interoperable** and **Reusable** we should describe our data collection process following reporting standards such as described in the section on [data capture](../DATA_CAPTURE/README.md), we should express the meaning of our data and metadata using clear, unambiguous [semantics](../SEMANTICS/README.md), and we should adopt open, community standards for representing our data, as we elaborate on in the section on [open source](../SCIENTIFIC_SOFTWARE/README.md). 
 
 What remains to be discussed are the options for making our data **Accessible**, and for this there are different technologies to choose from depending on whether we are sharing raw and intermediate data or whether we are publishing result data. In the following sections we will discuss these options.
 
