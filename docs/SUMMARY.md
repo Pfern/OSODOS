@@ -1,7 +1,7 @@
 # Open Science, Open Data, Open Source
 
 * [Front matter](README.md) <!-- disclaimers, colofon, etc. -->
-* [Who is this for?](ROADMAP)
+* [Who is this for?](ROADMAP/README.md)
 
 ### Open Science
 
