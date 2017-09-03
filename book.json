@@ -2,7 +2,9 @@
 {
   "root": "./docs",
   "structure": {
-    "readme" : "firstpage.md"
+    "readme": "README.md",
+    "summary": "SUMMARY.md",
+    "glossary": "GLOSSARY.md"
   },
   "plugins": ["autocover","mathjax", "quizzes", "codeblock-disable-glossary", "image-captions"],
   "pluginsConfig": {
