@@ -9,7 +9,7 @@ It is relatively easy to produce and accumulate bad records and store bad datase
 ### Data provenance
 In Data Science, the the WWWH question is usually referred to as **provenance**. 
 
-Provenance in data is tied not only to the Data Collection act but also to the its further movements between databases. Provenance may or not entail ownership and licensing of its use. If the appropriate steps, as will be explained below, are taken, authenticated provenance implies authorship. To dig further, [[Buneman2000](../REFERENCES/#Buneman2000)] is an interesting document about Data Provenance.
+Provenance in data is tied not only to the Data Collection act but also to the its further movements between databases. Provenance may or not entail ownership and licensing of its use. If the appropriate steps, as will be explained below, are taken, authenticated provenance implies authorship. To dig further, [[Buneman2000](../REFERENCES/README.md#Buneman2000)] is an interesting document about Data Provenance.
 
 When Data Collection is performed via a service of some kind, such as the work from a Core Facility or Analytics provider, even more care must be put into fully describing the provenance. The reliability of a good provider is measurable, as described in the [reproducibility](../REPRODUCIBILITY/) part of this course. This should not be confused with the reliability of a specific set of measurements. Here the evaluation of data quality should be intrinsic to each dataset, and taken into consideration in the analytical steps that follow.
 
