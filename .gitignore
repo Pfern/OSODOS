@@ -1,3 +1,6 @@
+# OSX crap
+.DS_Store
+
 # Build and Release Folders
 bin/
 bin-debug/
