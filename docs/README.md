@@ -1,8 +1,8 @@
 Open Science, Open Data, Open Source
-====================================
+------------------------------------
 
 21st century research skills for the life sciences
---------------------------------------------------
+
 
 Authors: _Pedro L. Fernandes_ and _Rutger A. Vos_
 
