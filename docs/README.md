@@ -4,7 +4,7 @@ Open Science, Open Data, Open Source
 21st century research skills for the life sciences
 --------------------------------------------------
 
-_Pedro L. Fernandes_ and _Rutger A. Vos_
+Authors: _Pedro L. Fernandes_ and _Rutger A. Vos_
 
 Produced in Oeiras and Paço de Arcos, Portugal.
 
