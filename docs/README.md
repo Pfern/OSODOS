@@ -4,7 +4,10 @@ Open Science, Open Data, Open Source
 --------------------------------------------------
 _Pedro Fernandes_ and _Rutger Vos_
 
-![Word cloud of terms in the text](wordle.png)
+![Word cloud of terms in the text](images/wordle.png)
+
+![Naturalis Biodiversity Center & Instituto Gulbenkian de Ciência](images/logos.png)
+
 
 Disclaimer
 ----------
