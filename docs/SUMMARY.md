@@ -22,3 +22,6 @@
 * [How to be formally explicit about data and concepts](SEMANTICS/README.md)
 * [How to improve scientific source code development](SCIENTIFIC_SOFTWARE/README.md)
     
+----
+
+* [References](REFERENCES/README.md)
