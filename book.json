@@ -6,7 +6,7 @@
     "summary": "SUMMARY.md",
     "glossary": "GLOSSARY.md"
   },
-  "plugins": ["mathjax", "quizzes", "codeblock-disable-glossary", "image-captions"],
+  "plugins": ["mathjax", "quizzes", "codeblock-disable-glossary", "image-captions", "ebook-convert"],
   "pluginsConfig": {
     "autocover": {
       "title": "Open Science, Open Data, Open Source",
