@@ -2,7 +2,7 @@ theme: jekyll-theme-slate
 encoding: UTF-8
 
 pygments: true
-markdown: redcarpet
+
 
 picture:
   source: assets/images/_fullsize
