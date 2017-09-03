@@ -1,0 +1,25 @@
+
+{
+  "structure": {
+    "readme" : "firstpage.md"
+  },
+  "plugins": ["autocover","mathjax", "quizzes", "codeblock-disable-glossary", "image-captions"],
+  "pluginsConfig": {
+    "autocover": {
+      "title": "Open Science, Open Data, Open Source",
+      "author": "Pedro L. Fernandes and Rutger A. Vos",
+      "font": {
+        "size": null,
+        "family": "Impact",
+        "color": "#FFF"
+       },
+       "size": {
+        "w": 1800,
+        "h": 2360
+       },
+       "background": {
+         "color": "#006600"
+       }
+    }
+  }
+}
