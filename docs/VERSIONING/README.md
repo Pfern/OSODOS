@@ -9,7 +9,7 @@ Manuscript versioning
 
 _Example 1 (v1) - Manuscript versioning ([PhD comics](http://phdcomics.com/comics/archive.php?comicid=1531))_
 
-Even before a manuscript has been submitted for its first round of [peer review](../PUBLISHING/README.md#peer-review) it has generally gone through [a disheartening number of versions](#v1). If you are writing a manuscript in a program such as Microsoft Word, you will want to come up with a sensible file naming scheme that is infinitely expandable and allows you to identify what the latest was that you and your collaborators were working - without temping fate by calling it `latest.doc` or `final.doc`. Instead, you probably want to adopt a system where the different versions of the manuscript are prefixed with the version's date in simple [ISO8601](https://en.wikipedia.org/wiki/ISO_8601) format (i.e. YYYY-MM-DD), so that the most recent version comes to the top of a folder when you sort file names numerically.
+Even before a manuscript has been submitted for its first round of [peer review](../PUBLISHING/README.md#peer-review) it has generally gone through [a disheartening number of versions](#v1). If you are writing a manuscript using a word processiong program such as Microsoft Word or Open Office Write, you will want to come up with a sensible file naming scheme that is infinitely expandable and allows you to identify what the latest was that you and your collaborators were working - without temping fate by calling it `latest.doc` or `final.doc`. Instead, you probably want to adopt a system where the different versions of the manuscript are prefixed with the version's date in simple [ISO8601](https://en.wikipedia.org/wiki/ISO_8601) format (i.e. YYYY-MM-DD), so that the most recent version comes to the top of a folder when you sort file names numerically.
  
 Subsequently, if you send a version around for review to your collaborator, it is more or less conventional to have them insert their changes using the "track changes" facility (which gives edits made by others a different colour and allows you to decide whether to accept or reject those changes) and return the file to you with a suffix to identify the collaborator by their initials. For example: `manuscript.doc` would then become `2017-06-22-manuscript.doc`, and the version returned by your contributor would be `2017-06-22-manuscript-RAV.doc`. Note that this returned version still matches the date of the version that you sent around, even though `RAV` probably made you wait for weeks. If you have just one collaborator you might then continue with the returned version, accept or reject the changes, and rename it with the date of the new version. If you have multiple collaborators, there is a facility for "merging" documents, which you will need to do iteratively starting from the version you sent out, merging the changes made by the collaborators one by one. With some luck, the merger of all collaborators still makes enough sense so that you can then work through it and accept or reject each of the suggested changes.
 
@@ -77,9 +77,8 @@ Whichever version numbering scheme for software is adopted, it is of vital impor
 Expected outcomes
 -----------------
 You have now learned about some of the considerations involved in managing changes in research output in such a way that every changed version can still be unambiguously identified. You should now be able to:
-- Manage collaborative writing of manuscripts using Microsoft Word
+- Manage collaborative writing of manuscripts using a Word Processor and namimg files
 - Make an informed choice between different cloud solutions for writing
-- Understand the role of automation in managing change in data
+- Explain the role of automation in managing change in data
 - Know what happens to published data, and its identifier, if it is changed
-- Understand some of the applications of version control systems
-- Understand some of the considerations in software versioning
+
