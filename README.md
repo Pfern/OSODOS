@@ -34,6 +34,8 @@ How to build/publish
 2. Run the [conversion script](https://github.com/Pfern/OSODOS/blob/master/src/bib2markdown.py), i.e.:
    `python src/bib2markdown.py data/references.bib > docs/REFERENCES/README.md`
 3. Run the gitbook builder, i.e. `gitbook build . docs/gitbook`
+4. Commit and push, e.g. ` git commit -m 're-generated' --all && git push`. It takes a minute for the updated
+   site to be 'live'.
 
 Disclaimers, terms and conditions
 ---------------------------------
