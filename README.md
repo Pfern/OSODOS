@@ -8,7 +8,7 @@ This repository contains reading/teaching materials that touch on the following 
 - Open Data integration and sharing
 
 These materials are intended to be freely disseminated as an e-book and/or a website, which can be accessed at:
-- http://osodos.org
+- http://osodos.org (alias)
 - http://pfern.github.io/OSODOS/gitbook/
 
 Directory layout
@@ -33,7 +33,7 @@ How to build/publish
    overwriting the [current bibtex export](https://github.com/Pfern/OSODOS/blob/master/data/references.bib).
 2. Run the [conversion script](https://github.com/Pfern/OSODOS/blob/master/src/bib2markdown.py), i.e.:
    `python src/bib2markdown.py data/references.bib > docs/REFERENCES/README.md`
-3. Run the gitbook builder, i.e. `gitbook build . docs/gitbook`
+3. Run the [gitbook](https://toolchain.gitbook.com/setup.html) builder, i.e. `gitbook build . docs/gitbook`
 4. Commit and push, e.g. ` git commit -m 're-generated' --all && git push`. It takes a minute for the updated
    site to be 'live'.
 
