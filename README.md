@@ -33,6 +33,7 @@ How to build/publish
    overwriting the [current bibtex export](https://github.com/Pfern/OSODOS/blob/master/data/references.bib).
 2. Run the [conversion script](https://github.com/Pfern/OSODOS/blob/master/src/bib2markdown.py), i.e.:
    `python src/bib2markdown.py data/references.bib > docs/REFERENCES/README.md`
+3. Run the gitbook builder, i.e. `gitbook build . docs/gitbook`
 
 Disclaimers, terms and conditions
 ---------------------------------
