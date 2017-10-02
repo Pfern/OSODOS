@@ -14,4 +14,5 @@ Nevertheless, certain sections are more relevant to some people than to others. 
   and [data representation](../SEMANTICS) will be most relevant.
 - **Principal investigators** may be most interested in the sections on [data management](../DATA_MANAGEMENT),
   [data sharing](../DATA_SHARING), and [coping with evolving projects](../VERSIONING).
-- **Scientific publishers**
+- **Scientific publishers** may be interested to know how scientists [navigate the literature](../LITERATURE_STUDY),
+  what the expectations are for [enhanced publications](../PUBLISHING), and the needs for [data publishing](../DATA_SHARING).
