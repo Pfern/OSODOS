@@ -2,7 +2,7 @@
 <h2 style="text-align:center">21st century research skills for the life sciences</h2>
 <div style="text-align:center"><em>Pedro L. Fernandes</em> and <em>Rutger A. Vos</em></div>
 <div style="text-align:center">Produced in Oeiras and Paço de Arcos, Portugal. June and September 2017</div>
-
+![](images/The_Scallop-Maggi_Hambling-Aldeburgh.jpg)
 ----
 
 Disclaimer
