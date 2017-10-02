@@ -32,7 +32,7 @@ How to build/publish
    export the Mendeley library to BibTeX (using the Mendeley Desktop program) and commit it to the repository,
    overwriting the [current bibtex export](https://github.com/Pfern/OSODOS/blob/master/data/references.bib).
 2. Run the [conversion script](https://github.com/Pfern/OSODOS/blob/master/src/bib2markdown.py), i.e.:
-    python src/bib2markdown.py data/references.bib > docs/REFERENCES/README.md
+   `python src/bib2markdown.py data/references.bib > docs/REFERENCES/README.md`
 
 Disclaimers, terms and conditions
 ---------------------------------
