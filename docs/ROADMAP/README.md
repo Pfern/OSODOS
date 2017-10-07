@@ -1,6 +1,6 @@
 Who is this for?
 ----------------
-The goal if these resources is to give a bird's eye view of the developments in open scientific research. That is,
+The goal of these resources is to give a bird's eye view of the developments in open scientific research. That is,
 we cover both social developments (e.g. the culture in various communities) as well as technological ones. As such,
 no part of the contents are especially in-depth or geared towards advanced users of specific practices or tools.
 Nevertheless, certain sections are more relevant to some people than to others. Specifically: 
