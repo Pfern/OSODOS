@@ -15,6 +15,5 @@ Nevertheless, certain sections are more relevant to some people than to others. 
   will be most relevant.
 - **Principal investigators** may be most interested in the sections on [data management](../DATA_MANAGEMENT/README.md),
   [data sharing](../DATA_SHARING/README.md), and [coping with evolving projects](../VERSIONING/README.md).
-- **Scientific publishers** may be interested to know how scientists [navigate the literature](../LITERATURE_STUDY/README.md),
-  what the expectations are for [enhanced publications](../PUBLISHING/README.md), and the needs for 
+- **Scientific publishers** may be interested to know how scientists [navigate the literature](../LITERATURE_STUDY/README.md), what the expectations are for [enhanced publications](../PUBLISHING/README.md), and the needs for 
   [data publishing](../DATA_SHARING/README.md).
