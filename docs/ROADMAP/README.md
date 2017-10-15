@@ -17,3 +17,5 @@ Nevertheless, certain sections are more relevant to some people than to others. 
   [data sharing](../DATA_SHARING/README.md), and [coping with evolving projects](../VERSIONING/README.md).
 - **Scientific publishers** may be interested to know how scientists [navigate the literature](../LITERATURE_STUDY/README.md), what the expectations are for [enhanced publications](../PUBLISHING/README.md), and the needs for 
   [data publishing](../DATA_SHARING/README.md).
+- **Science funders and policy makers** may easily find value in the [capturing data](../DATA_CAPTURE/README.md), [data management](../DATA_MANAGEMENT/README.md),   [data sharing](../DATA_SHARING/README.md) and [navigating the literature](../LITERATURE_STUDY/README.md).
+- **Science communicators** may be more interested in exploring the content by starting with [navigating the literature](../LITERATURE_STUDY/README.md), [working with reproducibility in mind](../REPRODUCIBILITY/README.md) and [sharing data](../DATA_SHARING/README.md).
