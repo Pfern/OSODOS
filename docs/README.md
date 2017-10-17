@@ -1,9 +1,4 @@
-<h1 style="text-align:center">Open Science, Open Data, Open Source</h1>
-<h2 style="text-align:center">21st century research skills for the life sciences</h2>
-<div style="text-align:center"><em>Pedro L. Fernandes</em> and <em>Rutger A. Vos</em></div>
-<div style="text-align:center">Produced in Oeiras and Paço de Arcos, Portugal. June and September 2017</div>
-
-![](images/scallop.png)
+![](https://raw.githubusercontent.com/Pfern/OSODOS/master/docs/images/OSODOS_splash1.png)
 
 ----
 
