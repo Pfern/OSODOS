@@ -1,6 +1,11 @@
 ![](https://raw.githubusercontent.com/Pfern/OSODOS/master/docs/images/OSODOS_splash1.png)
 
 ----
+Version history
+---------------
+| Version | Date       | DOI
+|---------|------------|-----------------------------------------------------------------|
+| v1.0.0  | 2017-10-27 | [10.5281/zenodo.1015288](http://doi.org/10.5281/zenodo.1015288) |
 
 Disclaimer
 ----------
