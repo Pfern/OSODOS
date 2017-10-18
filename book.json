@@ -25,11 +25,7 @@
        }
     },
     "ga": {
-      "token": "UA-108265282-1",
-      "configuration": {
-        "cookieName": "OSODOS",
-        "cookieDomain": "osodos.org"
-      }
+      "token": "UA-108265282-1"
     }
   }
 }
