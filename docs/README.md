@@ -5,7 +5,7 @@ Version history
 ---------------
 |Version|Date|DOI|
 |-------|----|---|
-| [v1.0.0](https://github.com/Pfern/OSODOS/tree/v1.0.0) | 2017-10-27 | [10.5281/zenodo.1015288](http://doi.org/10.5281/zenodo.1015288) |
+| [v1.0.0](https://github.com/Pfern/OSODOS/tree/v1.0.0) | 2017-10-27 | [![10.5281/zenodo.1015288](https://zenodo.org/badge/doi/10.5281/zenodo.1015288.svg)](http://doi.org/10.5281/zenodo.1015288) |
 
 Disclaimer
 ----------
