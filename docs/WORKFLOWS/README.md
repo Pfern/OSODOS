@@ -12,7 +12,7 @@ A computational analysis workflow chains [software tools](../SCIENTIFIC_SOFTWARE
 - **doc** - contains documentation files leading up to a scholarly manuscript
 - **data** - data files and metadata (i.e. data about data, here as README text files)
 - **src** - source code for compiled executables
-- **bin** - compiled executables and scripts (i.e. the [$PATH](https://en.wikipedia.org/wiki/PATH_(variable)) for the workflow)
+- **bin** - compiled executables and scripts (i.e. the [$PATH](https://en.wikipedia.org/wiki/PATH_(variable) for the workflow)
 - **results** - outcomes of analysis steps
 
 Some of these folder names match those in UNIX-like operating systems (such as Linux) and play roughly the same role. This is, of course, no coincidence - but rather a mnemonic aid. To read more about the reasoning underlying this project structure, consult [[Noble2009](../REFERENCES/README.md#Noble2009)] (where this layout came from).
