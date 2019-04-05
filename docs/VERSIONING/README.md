@@ -74,6 +74,14 @@ Instead, it is more or less conventional in software development to release soft
 
 Whichever version numbering scheme for software is adopted, it is of vital importance in [computational workflows](../WORKFLOWS/README.md) and [reproducibility](../REPRODUCIBILITY/README.md) that version numbers are issued consistently by software authors and recorded in sufficient detail by software users.
 
+Versioning of everything
+------------------------
+Version control systems for code, such as `git`, do not work well for managing non-text or simply large data files. To mitigate such shortcomings, [git-annex](https://git-annex.branchable.com/) was developed to extend `git`. In addition to `git-annex` public data sharing capabilities which we will mention in the next section, it allows to efficiently and non-ambigously version control any file regardless of its size, without storing its content directly in `git`. Content of the data files can then be obtained from, or copied to a variety of online storage providers or other clones of the repository.  `git-annex` makes it possible to version control all files including images of conteinerized computing environments resulting in consistent versioning of all digital research objects (code, data, and computing environments) in the single system.
+
+`git modules` feature of `git` facilitates management of multiple repositories in a modular fashion, e.g. addressing the [Example 3](#v3) demanding access and manipulation of data at any data reduction level, while retaining clear association and on-demand availability of lower tiers.
+
+Based on such powerful features of `git` and `git-annex`, [DataLad](http://datalad.org) project provides a data management and distribution platform while facilitating data discovery and manipulations across hierarchies of datasets, which are `git`/`git-annex` repositories. [datasets.datalad.org](http://datasets.datalad.org) is an example of a collection of hundreds of such datasets covering over 60 TBs of data from a variety of primarily neuroscience oriented projects. [datalad-container](http://docs.datalad.org/projects/container/) extension assists in versioning and using Singularity and Docker containers.  
+
 Expected outcomes
 -----------------
 You have now learned about some of the considerations involved in managing changes in research output in such a way that every changed version can still be unambiguously identified. You should now be able to:
