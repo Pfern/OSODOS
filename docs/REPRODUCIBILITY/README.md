@@ -23,7 +23,6 @@ People concerned with data quality can find a lot of support from the accumulate
 Here are two tutorials that can be helpful:
 
 - [Design of Experiments (DOE)](https://www.moresteam.com/toolbox/design-of-experiments.cfm)
-# - [Promoting Responsible Scientific Research](https://www.asm.org/index.php/colloquium-reports/item/4510-promoting-responsible-scientific-research)
 - [Promoting Responsible Scientific Research](https://www.ncbi.nlm.nih.gov/books/NBK519803/pdf/Bookshelf_NBK519803.pdf)
 
 ### General principles promoting reproducibility in computational research
