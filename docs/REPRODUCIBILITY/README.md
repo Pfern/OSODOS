@@ -23,7 +23,8 @@ People concerned with data quality can find a lot of support from the accumulate
 Here are two tutorials that can be helpful:
 
 - [Design of Experiments (DOE)](https://www.moresteam.com/toolbox/design-of-experiments.cfm)
-- [Promoting Responsible Scientific Research](https://www.asm.org/index.php/colloquium-reports/item/4510-promoting-responsible-scientific-research)
+# - [Promoting Responsible Scientific Research](https://www.asm.org/index.php/colloquium-reports/item/4510-promoting-responsible-scientific-research)
+- [Promoting Responsible Scientific Research](https://www.ncbi.nlm.nih.gov/books/NBK519803/pdf/Bookshelf_NBK519803.pdf)
 
 ### General principles promoting reproducibility in computational research
 The result of these developments is that scientists have become much more concerned about reproducibility and have tightened their controls. Scientific societies have studied ways of fighting the lack of reproducibility and issued recommendations (see, for example, the [report produced by the American Academy of Microbiology](https://www.asm.org/index.php/colloquium-reports/item/4510-promoting-responsible-scientific-research)). As well, teams of researchers have formulated their thoughts and documented their approaches for reproducible research. A good example to look at is the paper [Ten Simple Rules for Reproducible Computational Research](../REFERENCES/README.md#Sandve2013), which identifies rules that broadly agree with the points we raise in these materials:
